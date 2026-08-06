@@ -1244,99 +1244,68 @@ ruff check . --fix
 
 ## 🏠 Dashboard
 
-> *Add screenshot here*
 
-```
-assets/dashboard.png
-```
+
+
+<img width="2864" height="1710" alt="image" src="https://github.com/user-attachments/assets/d3b660a6-b63c-4b21-8bcf-5608c7edbe40" />
+
+
 
 ---
 
 ## 📂 Data Upload
 
-> *Add screenshot here*
 
-```
-assets/upload.png
-```
+<img width="2880" height="1724" alt="image" src="https://github.com/user-attachments/assets/743be972-4b1a-4815-b19b-a1d14b421b8b" />
+
 
 ---
 
 ## 🧹 Data Preparation
 
-> *Add screenshot here*
 
-```
-assets/cleaning.png
-```
+<img width="2880" height="1722" alt="image" src="https://github.com/user-attachments/assets/fdee1a73-68b3-4bec-bf5e-594a8dc2258a" />
+
+
 
 ---
 
 ## 📊 Analysis
 
-> *Add screenshot here*
 
-```
-assets/analysis.png
-```
+<img width="2880" height="1722" alt="image" src="https://github.com/user-attachments/assets/0665fda7-0da4-4ad1-a023-c1248ad6493c" />
+
+
 
 ---
 
 ## 📈 Visualization
 
-> *Add screenshot here*
 
-```
-assets/visualization.png
-```
+<img width="2878" height="1712" alt="image" src="https://github.com/user-attachments/assets/a0d9e544-6d06-4879-9f1b-a85d5cd837a9" />
+
+
 
 ---
 
 ## 🤖 AI Copilot
 
-> *Add screenshot here*
 
-```
-assets/copilot.png
-```
+<img width="2876" height="1666" alt="image" src="https://github.com/user-attachments/assets/c12c6335-b4c0-466e-8823-179088168c66" />
+
+
 
 ---
 
 ## 📑 Reports
 
-> *Add screenshot here*
 
-```
-assets/report.png
-```
+<img width="2880" height="1716" alt="image" src="https://github.com/user-attachments/assets/635f5f57-0623-44c8-b466-e9db7869a5f2" />
 
----
 
-## ⚙️ Workflows
-
-> *Add screenshot here*
-
-```
-assets/workflow.png
-```
 
 ---
 
-# 🎥 Demo
-
-A complete walkthrough of InsightPilot is available below.
-
-> **Demo Video**
-
-```
-https://youtu.be/YOUR_VIDEO_LINK
-```
-
-or
-
-```
-assets/demo.gif
-```
 
 The demonstration covers:
 
