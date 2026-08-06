@@ -11,6 +11,7 @@ from backend.chatbot.prompts.templates import (
     render_conversation_history,
     style_instruction_for_intent,
     summarize_dataset,
+    system_prompt_for_intent,
 )
 from backend.chatbot.retrieval.classifier import Intent
 from backend.ingestion.models.dataset import BusinessDataset
@@ -51,14 +52,29 @@ def test_rendered_prompt_contains_all_supplied_facts() -> None:
         dataset_summary="sales.csv (100 rows, 3 columns)",
         facts="- Total Revenue: 1000",
         conversation_history="None yet - this is the first question.",
-        style_instruction=style_instruction_for_intent(Intent.KPI),
         question="What are the KPIs?",
     )
 
     assert "sales.csv (100 rows, 3 columns)" in prompt
     assert "- Total Revenue: 1000" in prompt
     assert "What are the KPIs?" in prompt
-    assert "never invent" in prompt.lower()
+    # The grounding rule/system framing lives in the *system* prompt now, never
+    # the user-visible one — see backend/chatbot/prompts/templates.py's own docstring.
+    assert "never invent" not in prompt.lower()
+
+
+def test_system_prompt_contains_the_grounding_rule_and_style_instruction() -> None:
+    system_prompt = system_prompt_for_intent(Intent.KPI)
+
+    assert "never invent" in system_prompt.lower()
+    assert style_instruction_for_intent(Intent.KPI) in system_prompt
+
+
+def test_every_intent_has_a_system_prompt() -> None:
+    for intent in Intent:
+        system_prompt = system_prompt_for_intent(intent)
+        assert "InsightPilot" in system_prompt
+        assert style_instruction_for_intent(intent) in system_prompt
 
 
 def test_summarize_dataset_with_dataset() -> None:

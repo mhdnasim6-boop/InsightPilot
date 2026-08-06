@@ -41,6 +41,9 @@ class Settings(BaseSettings):
 
     # AI configuration — provider-agnostic; consumed by backend.ai / backend.services.ai_service.
     # Values here are defaults only: nothing in the AI layer hardcodes a provider, model, or limit.
+    # Default stays "mock" deliberately (not "auto") — the whole test suite depends on a
+    # deterministic, network-free provider when nothing is explicitly configured; set
+    # AI_DEFAULT_PROVIDER=auto (or "ollama"/"openai" directly) for a real deployment.
     ai_default_provider: str = "mock"
     ai_default_model: str = "mock-model"
     ai_temperature: float = Field(default=0.7, ge=0.0, le=2.0)
@@ -48,6 +51,17 @@ class Settings(BaseSettings):
     ai_timeout_seconds: float = Field(default=30.0, gt=0.0)
     ai_streaming_enabled: bool = True
     ai_retry_count: int = Field(default=2, ge=0)
+
+    # Ollama (local LLM server) — see backend.ai.providers.ollama.OllamaProvider.
+    ollama_base_url: str = "http://127.0.0.1:11434"
+    ollama_model: str = "qwen2.5:3b"
+
+    # OpenAI (or an OpenAI-compatible endpoint) — see backend.ai.providers.openai.OpenAIProvider.
+    # No default api_key: its absence is exactly what tells provider auto-detection
+    # (backend.ai.providers.detection.ProviderDetector) that OpenAI isn't configured.
+    openai_api_key: str | None = None
+    openai_base_url: str = "https://api.openai.com/v1"
+    openai_model: str = "gpt-4o-mini"
 
     # Plugin & Extension SDK — filesystem directory PluginLoader scans (immediate
     # subfolders only) for third-party plugins. Never read anywhere but

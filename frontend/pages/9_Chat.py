@@ -35,6 +35,9 @@ _DEEP_LINKS: dict[str, tuple[str, str]] = {
 def _render_referenced_items(message: dict[str, Any]) -> None:
     state = get_dashboard_state()
 
+    if (message.get("metadata") or {}).get("fallback_reason") == "ollama_unreachable":
+        st.warning("Local AI model is unavailable. Falling back to development mode.")
+
     kpi_names = message.get("referenced_kpis") or []
     analysis = state.current_analysis
     if kpi_names and analysis:

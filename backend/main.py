@@ -10,6 +10,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from loguru import logger
 
+from backend.ai.providers.detection import ProviderDetector
 from backend.api.v1.router import router as v1_router
 from backend.core.exceptions import ConfigurationError
 from backend.dependencies.operations import (
@@ -80,10 +81,31 @@ async def lifespan(app: FastAPI) -> AsyncIterator[None]:
             "Startup completed with failures in stage(s) {} — readiness will report not-ready.", failed_stages
         )
 
+    _log_ai_provider(settings)
+
     yield
 
     resolve_shutdown_manager().run()
     logger.info("Shutting down {}", settings.app_name)
+
+
+def _log_ai_provider(settings: Settings) -> None:
+    """Log which AI provider will actually answer requests — one line, at startup,
+    so "why does Chat sound like a mock" never requires digging through config.
+
+    Additive, not part of ``StartupManager``'s own fixed stage sequence (Phase 34):
+    resolving "auto" does real I/O (a short-timeout Ollama probe via
+    ``ProviderDetector``), but it's read-only and never raises, so it doesn't need
+    the stage machinery's status/rollback semantics — a failure here just means
+    "couldn't tell", never "app is unhealthy".
+    """
+    resolved = ProviderDetector().resolve(settings)
+    if resolved == "ollama":
+        logger.info("AI Provider: Ollama ({})", settings.ollama_model)
+    elif resolved == "openai":
+        logger.info("AI Provider: OpenAI")
+    else:
+        logger.warning("AI Provider: Mock (development mode)")
 
 
 def create_app(settings: Settings | None = None) -> FastAPI:

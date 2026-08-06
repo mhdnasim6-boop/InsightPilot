@@ -27,7 +27,33 @@ def test_generate_uses_requested_model() -> None:
         provider = MockProvider()
         response = await provider.generate(AIRequest(prompt="hi", model="custom-model"))
         assert response.model == "custom-model"
-        assert "custom-model" in response.content
+
+    asyncio.run(scenario())
+
+
+def test_generate_never_echoes_the_prompt() -> None:
+    async def scenario() -> None:
+        provider = MockProvider()
+        secret_prompt = "Relevant facts:\n- Total Revenue: 1000\n\nUser question: what now?"
+        response = await provider.generate(AIRequest(prompt=secret_prompt))
+
+        assert secret_prompt not in response.content
+        assert "Relevant facts" not in response.content
+        assert "User question" not in response.content
+
+    asyncio.run(scenario())
+
+
+def test_generate_picks_a_topical_response_by_keyword() -> None:
+    async def scenario() -> None:
+        provider = MockProvider()
+
+        anomaly_response = await provider.generate(AIRequest(prompt="Are there any anomalies?"))
+        summary_response = await provider.generate(AIRequest(prompt="Give me a summary of this dataset."))
+
+        assert "Anomaly" in anomaly_response.content
+        assert "Summary" in summary_response.content
+        assert anomaly_response.content != summary_response.content
 
     asyncio.run(scenario())
 

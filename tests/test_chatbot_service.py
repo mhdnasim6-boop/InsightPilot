@@ -36,14 +36,20 @@ from config.settings import Settings
 
 
 class _CountingAIService:
-    """Wraps a real AIService and counts calls, to prove the refusal path never calls it."""
+    """Wraps a real AIService, counts calls (to prove the refusal path never calls it),
+    and records the last outgoing request (to prove what actually got sent to the
+    provider — e.g. that conversation history reached the prompt — without depending
+    on MockProvider's own response text, which is a synthesized, topic-based canned
+    response and deliberately never echoes its input)."""
 
     def __init__(self, real: AIService) -> None:
         self._real = real
         self.call_count = 0
+        self.last_request: AIRequest | None = None
 
     async def generate(self, request: AIRequest, provider_name: str | None = None) -> AIResponse:
         self.call_count += 1
+        self.last_request = request
         return await self._real.generate(request, provider_name)
 
 
@@ -127,8 +133,11 @@ def test_ask_kpi_question_against_real_analysis(tmp_path: Path) -> None:
         assert response.referenced_kpis == [kpi.name for kpi in result.kpis]
         assert response.referenced_datasets == ["sales.csv"]
         assert ai_service.call_count == 1
-        # MockProvider echoes the prompt, so the referenced KPI names must appear in the answer.
-        assert result.kpis[0].name in response.answer
+        # The KPI names are grounded via the structured referenced_kpis field above,
+        # not by scraping response.answer — MockProvider synthesizes a topic-based
+        # canned response and deliberately never echoes its input (see mock.py).
+        assert ai_service.last_request is not None
+        assert result.kpis[0].name in ai_service.last_request.prompt
 
     asyncio.run(scenario())
 
@@ -136,14 +145,16 @@ def test_ask_kpi_question_against_real_analysis(tmp_path: Path) -> None:
 def test_ask_anomaly_question_detects_the_seeded_outlier(tmp_path: Path) -> None:
     async def scenario() -> None:
         outcome, result = _make_analysis_pipeline(tmp_path)
-        service, _ = _make_chat_service()
+        service, ai_service = _make_chat_service()
         context = ChatContext(session_id="s1", selected_dataset=outcome.dataset, analysis_result=result)
 
         response = await service.ask("Are there any anomalies in revenue?", context)
 
         assert response.answerable is True
         assert response.intent == Intent.ANOMALY
-        assert "revenue" in response.answer
+        # Grounded via the outgoing request's own facts block, not the mock's canned answer.
+        assert ai_service.last_request is not None
+        assert "revenue" in ai_service.last_request.prompt.lower() or "z-score" in ai_service.last_request.prompt.lower()
 
     asyncio.run(scenario())
 
@@ -166,16 +177,19 @@ def test_ask_visualization_question_without_visualization_result_refuses(tmp_pat
 def test_ask_includes_conversation_history_in_the_prompt(tmp_path: Path) -> None:
     async def scenario() -> None:
         outcome, result = _make_analysis_pipeline(tmp_path)
-        service, _ = _make_chat_service()
+        service, ai_service = _make_chat_service()
 
         history = [ChatMessage(role="user", content="What dataset is this?", timestamp=datetime.now(UTC))]
         context = ChatContext(
             session_id="s1", selected_dataset=outcome.dataset, analysis_result=result, conversation_history=history
         )
 
-        response = await service.ask("What are the KPIs?", context)
+        await service.ask("What are the KPIs?", context)
 
-        assert "What dataset is this?" in response.answer  # MockProvider echoes the whole prompt
+        # Verified against the real outgoing request, not the mock's own canned answer
+        # (which never echoes anything it was given — see mock.py).
+        assert ai_service.last_request is not None
+        assert "What dataset is this?" in ai_service.last_request.prompt
 
     asyncio.run(scenario())
 

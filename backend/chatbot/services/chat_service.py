@@ -24,8 +24,8 @@ from backend.chatbot.prompts.templates import (
     prompt_name_for_intent,
     register_chat_prompts,
     render_conversation_history,
-    style_instruction_for_intent,
     summarize_dataset,
+    system_prompt_for_intent,
 )
 from backend.chatbot.response.builder import ResponseBuilder
 from backend.chatbot.response.models import ChatResponse
@@ -79,8 +79,9 @@ class ChatService:
             return self._response_builder.build_refusal(intent, answerability)
 
         retrieved = self._context_builder.build(context, intent)
-        prompt = self._build_prompt(question, context, intent, retrieved)
-        ai_response = await self._ai_service.generate(AIRequest(prompt=prompt))
+        user_prompt = self._build_prompt(question, context, intent, retrieved)
+        system_prompt = system_prompt_for_intent(intent)
+        ai_response = await self._ai_service.generate(AIRequest(system_prompt=system_prompt, prompt=user_prompt))
 
         response = self._response_builder.build(intent, ai_response, retrieved, answerability)
         self._remember_turn(question, response, context)
@@ -94,7 +95,6 @@ class ChatService:
             dataset_summary=summarize_dataset(context.selected_dataset),
             facts=retrieved.facts_text,
             conversation_history=self._render_conversation_with_memory(context),
-            style_instruction=style_instruction_for_intent(intent),
             question=question,
         )
 

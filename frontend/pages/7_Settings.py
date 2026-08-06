@@ -1,5 +1,5 @@
-"""Settings page: Profile (login/account), Appearance, AI Provider, Developer Mode,
-and System Information — the one place account and preference controls live.
+"""Settings page: Profile (login/account), Appearance, AI Configuration, Developer
+Mode, and System Information — the one place account and preference controls live.
 
 Every control here writes straight into ``DashboardState`` (backed by
 ``st.session_state``), so changes take effect immediately and are read by
@@ -96,8 +96,22 @@ def _render_appearance(state: Any) -> None:
         state.add_activity(f"Changed chart density to '{new_density}'.")
 
 
+_PROVIDER_TYPE_LABELS = {"ollama": "Local", "openai": "Cloud", "mock": "Development"}
+
+
+def _provider_type_label(provider_name: str) -> str:
+    return _PROVIDER_TYPE_LABELS.get(provider_name.strip().lower(), "Unknown")
+
+
+def _render_connection_result(ai_provider: dict[str, Any]) -> None:
+    if ai_provider["healthy"]:
+        st.success(f"✓ Connected — {ai_provider['message']}" if ai_provider["message"] else "✓ Connected")
+    else:
+        st.error(f"Connection failed — {ai_provider['message']}" if ai_provider["message"] else "Connection failed")
+
+
 def _render_ai_provider(state: Any) -> None:
-    st.subheader("AI Provider")
+    st.subheader("AI Configuration")
     client = APIClient(state.backend_url)
     try:
         status = client.get_system_status()
@@ -107,11 +121,22 @@ def _render_ai_provider(state: Any) -> None:
 
     ai_provider = status["ai_provider"]
     model_info = status["model_info"]
+
     col1, col2, col3 = st.columns(3)
-    col1.metric("Provider", ai_provider["provider"])
-    col2.metric("Status", "Available" if ai_provider["healthy"] else "Unavailable")
-    col3.metric("Model", model_info["name"])
-    st.caption(f"Last checked: {format_timestamp(ai_provider.get('checked_at'))}")
+    col1.metric("Current Provider", ai_provider["provider"].title())
+    col2.metric("Current Model", model_info["name"])
+    col3.metric("Provider Type", _provider_type_label(ai_provider["provider"]))
+
+    _render_connection_result(ai_provider)
+    st.caption(f"Model Name: `{model_info['name']}` — last checked: {format_timestamp(ai_provider.get('checked_at'))}")
+
+    if st.button("Test Connection"):
+        try:
+            fresh_status = client.get_system_status()
+        except APIClientError as exc:
+            render_api_error(exc)
+        else:
+            _render_connection_result(fresh_status["ai_provider"])
 
 
 def _render_developer_mode(state: Any) -> None:

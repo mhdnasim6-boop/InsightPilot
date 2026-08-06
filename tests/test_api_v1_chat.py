@@ -74,6 +74,12 @@ def test_ask_chat_general_question_never_fails_even_with_no_dataset() -> None:
 
 
 def test_ask_chat_conversation_history_round_trips() -> None:
+    """Conversation history actually reaching the outgoing AI request is verified
+    precisely at the unit level (tests/test_chatbot_service.py, via a
+    request-capturing test double) — MockProvider deliberately never echoes its
+    input (see backend/ai/providers/mock.py), so this REST-level test only proves
+    the endpoint accepts conversation_history in the context and still answers
+    normally, not the exact prompt content."""
     context = _analyzed_context()
     context["conversation_history"] = [
         {"role": "user", "content": "What dataset is this?", "timestamp": "2026-01-01T00:00:00Z"}
@@ -82,7 +88,8 @@ def test_ask_chat_conversation_history_round_trips() -> None:
     response = client.post("/api/v1/chat", json={"question": "What are the KPIs?", "context": context})
 
     assert response.status_code == 200
-    assert "What dataset is this?" in response.json()["data"]["answer"]
+    assert response.json()["data"]["answerable"] is True
+    assert response.json()["data"]["answer"]
 
 
 def test_ask_chat_missing_question_returns_422() -> None:

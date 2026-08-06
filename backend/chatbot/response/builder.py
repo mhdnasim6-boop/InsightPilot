@@ -71,5 +71,8 @@ class ResponseBuilder:
             referenced_insights=retrieved.referenced_insights,
             referenced_datasets=retrieved.referenced_datasets,
             suggested_follow_up_questions=_FOLLOW_UPS.get(intent, _FOLLOW_UPS[Intent.GENERAL]),
-            metadata=retrieved.metadata,
+            # ai_response.metadata last: it's where AIService tags a fallback (e.g.
+            # "fallback_reason": "ollama_unreachable"), which must win over anything
+            # retrieved.metadata happens to set under the same key.
+            metadata={**retrieved.metadata, **ai_response.metadata},
         )
