@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Logs (keep the folder, ignore generated log files)
+logs/*.log
+logs/*.log.zip
+!logs/.gitkeep
+
+# Uploaded file storage (metadata only is tracked in code; file bytes are not)
+data/uploads/*
+!data/uploads/.gitkeep
+
+# Testing / caching
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store

@@ -1,0 +1,18 @@
+# Shared, non-secret configuration for both Deployments. Every key here
+# maps directly onto a config/settings.py field via its environment
+# variable name — this ConfigMap is the only place those values are set
+# for a cluster deployment; nothing else should hardcode them.
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: insightpilot-config
+  labels:
+    app: insightpilot
+data:
+  ACTIVE_PROFILE: "production"
+  ENVIRONMENT: "production"
+  LOG_LEVEL: "INFO"
+  HOST: "0.0.0.0"
+  PORT: "8000"
+  BACKEND_URL: "http://insightpilot-backend:8000"
+  FRONTEND_URL: "http://insightpilot-frontend:8501"

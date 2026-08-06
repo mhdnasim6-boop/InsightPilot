@@ -1,0 +1,48 @@
+# Local/single-host deployment template. Run from the repo root:
+#   docker compose -f deploy/compose/docker-compose.yml up --build
+#
+# Every value below is a default, overridable via a real environment
+# variable or an env_file — nothing here is InsightPilot's only source of
+# configuration truth (config/settings.py still is).
+
+services:
+  backend:
+    build:
+      context: ../..
+      dockerfile: deploy/docker/Dockerfile.backend
+    ports:
+      - "${BACKEND_PORT:-8000}:8000"
+    environment:
+      ACTIVE_PROFILE: ${ACTIVE_PROFILE:-production}
+      ENVIRONMENT: ${ENVIRONMENT:-production}
+      HOST: 0.0.0.0
+      PORT: 8000
+      LOG_LEVEL: ${LOG_LEVEL:-INFO}
+      FRONTEND_URL: http://frontend:8501
+      BACKEND_URL: http://backend:8000
+    volumes:
+      - insightpilot-data:/app/data
+      - insightpilot-logs:/app/logs
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request as u; u.urlopen('http://localhost:8000/api/v1/operations/readiness')"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+  frontend:
+    build:
+      context: ../..
+      dockerfile: deploy/docker/Dockerfile.frontend
+    ports:
+      - "${FRONTEND_PORT:-8501}:8501"
+    environment:
+      BACKEND_URL: http://backend:8000
+      FRONTEND_URL: http://frontend:8501
+    depends_on:
+      backend:
+        condition: service_healthy
+
+volumes:
+  insightpilot-data:
+  insightpilot-logs:

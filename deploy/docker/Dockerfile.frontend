@@ -1,0 +1,30 @@
+# syntax=docker/dockerfile:1
+#
+# Frontend image: runs `streamlit run frontend/app.py`. Build from the repo root:
+#   docker build -f deploy/docker/Dockerfile.frontend -t insightpilot-frontend .
+#
+# Talks to the backend exclusively over HTTP (BACKEND_URL) — never a
+# shared Python import — so this image has no dependency on the backend
+# image beyond that URL being reachable.
+
+FROM python:3.12-slim AS base
+
+COPY --from=ghcr.io/astral-sh/uv:latest /uv /uvx /bin/
+
+WORKDIR /app
+
+COPY pyproject.toml uv.lock ./
+RUN uv sync --frozen --no-install-project --no-dev
+
+COPY frontend/ ./frontend/
+COPY shared/ ./shared/
+COPY config/ ./config/
+
+RUN uv sync --frozen --no-dev
+
+ENV PATH="/app/.venv/bin:$PATH" \
+    PYTHONUNBUFFERED=1
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "frontend/app.py", "--server.address=0.0.0.0", "--server.port=8501"]

@@ -1,0 +1,81 @@
+# Two Deployments (backend, frontend), template-only — build/push the
+# images from deploy/docker/ yourself and point `image:` at your own
+# registry before applying. No CI/CD wiring, no autoscaling here.
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: insightpilot-backend
+  labels:
+    app: insightpilot
+    component: backend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: insightpilot
+      component: backend
+  template:
+    metadata:
+      labels:
+        app: insightpilot
+        component: backend
+    spec:
+      containers:
+        - name: backend
+          image: insightpilot-backend:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8000
+          envFrom:
+            - configMapRef:
+                name: insightpilot-config
+          # Liveness/readiness reuse Phase 34's own operations endpoints
+          # directly — no separate probe script, no Docker-specific
+          # Python code, just two plain HTTP GETs.
+          livenessProbe:
+            httpGet:
+              path: /api/v1/operations/health
+              port: 8000
+            initialDelaySeconds: 5
+            periodSeconds: 15
+          readinessProbe:
+            httpGet:
+              path: /api/v1/operations/readiness
+              port: 8000
+            initialDelaySeconds: 5
+            periodSeconds: 10
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: insightpilot-frontend
+  labels:
+    app: insightpilot
+    component: frontend
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: insightpilot
+      component: frontend
+  template:
+    metadata:
+      labels:
+        app: insightpilot
+        component: frontend
+    spec:
+      containers:
+        - name: frontend
+          image: insightpilot-frontend:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 8501
+          envFrom:
+            - configMapRef:
+                name: insightpilot-config
+          readinessProbe:
+            httpGet:
+              path: /
+              port: 8501
+            initialDelaySeconds: 10
+            periodSeconds: 15
