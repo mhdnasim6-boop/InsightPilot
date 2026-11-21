@@ -1,0 +1,6 @@
+START -> supervisor -> data_cleaning -> [HITL: cleaning_approval] -> supervisor
+                    -> data_analyst  -> supervisor
+                    -> visualization -> supervisor
+                    -> research (create_agent + Tavily) -> supervisor
+                    -> report_email -> [HITL: email_approval] -> supervisor
+                    -> respond -> summarize -> END

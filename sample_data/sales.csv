@@ -1,0 +1,2032 @@
+Order_ID,Order_Date,Region,Product_Category,Product,Channel,Quantity,Unit_Price,Discount,Revenue,Cost,Profit
+ORD-000001,2025-02-02,North,Clothing,Shoes,Online,6,72.72,0.1,392.69,294.79,97.9
+ORD-000002,2025-10-10,South,Office Supplies,Paper,Retail,5,12.77,0.0,63.85,35.77,28.08
+ORD-000003,2025-08-27,North,Electronics,Phone,Retail,1,548.52,0.0,548.52,422.26,126.26
+ORD-000004,2025-06-10,North,Office Supplies,Pens,Retail,2,8.04,0.0,16.08,12.74,3.34
+ORD-000005,2025-06-08,East,Electronics,Laptop,Online,6,871.19,0.0,5227.14,3844.77,1382.37
+ORD-000006,2025-11-10,South,Office Supplies,Binders,Retail,6,14.89,0.05,84.87,49.22,35.65
+ORD-000007,2025-02-01,West,Office Supplies,Pens,Retail,6,8.4,0.0,50.4,37.89,12.51
+ORD-000008,2025-09-12,South,Electronics,Laptop,Online,2,761.46,0.0,1522.92,1084.12,438.8
+ORD-000009,2025-03-15,East,Electronics,Headphones,Retail,6,110.42,0.05,629.39,399.48,229.91
+ORD-000010,2025-02-04,South,Office Supplies,Paper,Online,1,12.05,0.0,12.05,9.29,2.76
+ORD-000011,2025-07-12,East,Electronics,Phone,Retail,2,503.16,0.0,1006.32,695.76,310.56
+ORD-000012,2025-12-23,East,Clothing,Shoes,Retail,5,75.34,0.05,357.86,273.13,84.73
+ORD-000013,2025-09-26,South,Office Supplies,Pens,Wholesale,7,7.37,0.1,46.43,33.31,13.12
+ORD-000014,2025-10-05,West,Office Supplies,Binders,Online,7,15.52,0.0,108.64,67.59,41.05
+ORD-000015,2025-09-19,South,Electronics,Headphones,Online,10,115.07,0.1,1035.63,822.04,213.59
+ORD-000016,2025-10-14,North,Office Supplies,Pens,Online,9,8.6,0.05,73.53,50.94,22.59
+ORD-000017,2025-07-07,East,Clothing,T-Shirt,Retail,4,21.58,0.05,82.0,55.69,26.31
+ORD-000018,2025-02-16,West,Electronics,Headphones,Online,8,110.92,0.0,887.36,577.56,309.8
+ORD-000019,2025-11-03,North,Furniture,Shelf,Online,1,78.57,0.05,74.64,43.6,31.04
+ORD-000020,2025-06-14,South,Electronics,Phone,Online,9,544.61,0.05,4656.42,3359.85,1296.57
+ORD-000021,2025-07-02,West,Furniture,Desk,Wholesale,4,280.25,0.0,1121.0,737.28,383.72
+ORD-000022,2025-05-16,East,Office Supplies,Paper,Online,8,12.92,0.1,93.02,72.9,20.12
+ORD-000023,2025-03-08,West,Furniture,Chair,Retail,10,136.35,0.1,1227.15,971.01,256.14
+ORD-000024,2025-12-05,East,Office Supplies,Pens,Online,8,7.98,0.0,63.84,47.36,16.48
+ORD-000025,2025-10-13,East,Furniture,Desk,Online,10,243.38,0.05,2312.11,1411.83,900.28
+ORD-000026,2025-08-24,South,Electronics,Laptop,Online,1,822.91,0.0,822.91,599.9,223.01
+ORD-000027,2025-05-27,West,Electronics,Headphones,Online,2,121.91,0.05,231.63,128.58,103.05
+ORD-000028,2025-10-28,South,Clothing,T-Shirt,Retail,7,21.12,0.05,140.45,106.26,34.19
+ORD-000029,2025-07-19,East,Office Supplies,Binders,Online,6,15.27,0.0,91.62,61.7,29.92
+ORD-000030,2025-06-11,South,Furniture,Desk,Online,2,276.63,0.0,553.26,433.86,119.4
+ORD-000031,2025-06-14,East,Office Supplies,Paper,Online,8,11.04,0.0,88.32,56.92,31.4
+ORD-000032,2025-03-24,East,Electronics,Laptop,Online,1,784.44,0.1,706.0,434.75,271.25
+ORD-000033,2025-02-03,South,Electronics,Headphones,Online,10,114.43,0.0,1144.3,914.03,230.27
+ORD-000034,2025-07-22,West,Electronics,Phone,Online,2,507.5,0.1,913.5,623.62,289.88
+ORD-000035,2025-11-21,South,Clothing,T-Shirt,Online,5,20.82,0.0,104.1,79.72,24.38
+ORD-000036,2025-01-24,East,Office Supplies,Pens,Retail,9,8.16,0.0,73.44,57.12,16.32
+ORD-000037,2025-11-10,South,Office Supplies,Pens,Wholesale,6,7.49,0.1,40.45,27.49,12.96
+ORD-000038,2025-10-30,South,Electronics,Phone,Retail,8,560.61,0.0,4484.88,2977.64,1507.24
+ORD-000039,2025-04-12,South,Electronics,Headphones,Online,8,127.43,0.0,1019.44,701.6,317.84
+ORD-000040,2025-08-19,North,Office Supplies,Pens,Wholesale,10,8.55,0.0,85.5,65.15,20.35
+ORD-000041,2025-03-02,North,Furniture,Chair,Wholesale,5,143.59,0.0,717.95,568.02,149.93
+ORD-000042,2025-10-04,East,Clothing,T-Shirt,Retail,10,20.93,0.0,209.3,132.29,77.01
+ORD-000043,2025-09-13,East,Office Supplies,Pens,Online,6,7.47,0.0,44.82,32.93,11.89
+ORD-000044,2025-05-10,East,Furniture,Shelf,Retail,9,81.36,0.05,695.63,432.23,263.4
+ORD-000045,2025-01-25,North,Office Supplies,Pens,Wholesale,8,8.59,0.0,68.72,48.29,20.43
+ORD-000046,2025-12-21,South,Clothing,T-Shirt,Retail,2,23.63,0.0,47.26,35.5,11.76
+ORD-000047,2025-06-12,North,Furniture,Chair,Retail,7,137.35,,961.45,741.88,219.57
+ORD-000048,2025-11-22,East,Office Supplies,Pens,Retail,9,7.78,0.0,70.02,46.37,23.65
+ORD-000049,2025-09-05,West,Clothing,Jacket,Wholesale,2,95.15,0.1,171.27,110.03,61.24
+ORD-000050,2025-10-12,North,Electronics,Phone,Online,9,522.0,0.0,4698.0,2881.58,1816.42
+ORD-000051,2025-10-05,East,Clothing,Jacket,Online,2,102.29,0.0,204.58,119.34,85.24
+ORD-000052,2025-03-13,North,Electronics,Phone,Wholesale,9,515.91,0.0,4643.19,2977.35,1665.84
+ORD-000053,2025-05-13,North,Office Supplies,Binders,Online,8,14.69,0.1,105.77,81.23,24.54
+ORD-000054,2025-06-20,North,Office Supplies,Pens,Online,2,7.91,0.05,15.03,9.84,5.19
+ORD-000055,2025-07-01,South,Office Supplies,Pens,Online,8,7.52,0.05,57.15,35.97,21.18
+ORD-000056,2025-01-16,East,Furniture,Desk,Online,2,255.13,0.1,459.23,337.43,121.8
+ORD-000057,2025-07-19,West,Office Supplies,Binders,Online,6,15.86,0.05,90.4,54.59,35.81
+ORD-000058,2025-02-26,North,Electronics,Phone,Retail,10,508.93,0.1,4580.37,2812.68,1767.69
+ORD-000059,2025-09-29,East,Electronics,Phone,Online,3,547.26,0.0,1641.78,1287.12,354.66
+ORD-000060,2025-09-07,East,Electronics,Laptop,Retail,2,807.75,0.05,1534.72,875.4,659.32
+ORD-000061,2025-12-03,West,Office Supplies,Paper,Online,5,11.37,0.1,51.16,33.44,17.72
+ORD-000062,2025-09-29,East,Furniture,Desk,Wholesale,4,239.71,0.1,862.96,599.06,263.9
+ORD-000063,2025-05-14,North,Electronics,Headphones,Retail,1,115.65,0.0,115.65,70.26,45.39
+ORD-000064,2025-12-20,East,Clothing,T-Shirt,Wholesale,5,20.46,0.05,97.18,60.28,36.9
+ORD-000065,2025-05-30,South,Furniture,Desk,Online,3,254.87,0.0,764.61,462.94,301.67
+ORD-000066,2025-04-29,West,Furniture,Desk,Online,2,272.9,0.05,518.51,329.93,188.58
+ORD-000067,2025-11-27,South,Furniture,Shelf,Retail,3,87.99,0.0,263.97,204.48,59.49
+ORD-000068,2025-05-16,East,Electronics,Phone,Wholesale,1,578.65,0.0,578.65,380.69,197.96
+ORD-000069,2025-01-28,North,Office Supplies,Paper,Online,10,11.86,,112.67,73.74,38.93
+ORD-000070,2025-06-21,South,Furniture,Chair,Retail,10,144.65,0.0,1446.5,935.37,511.13
+ORD-000071,2025-10-18,West,Electronics,Laptop,Retail,4,841.69,0.0,3366.76,2663.2,703.56
+ORD-000072,2025-03-11,East,Clothing,Jacket,Online,9,90.7,0.0,816.3,472.9,343.4
+ORD-000073,2025-06-18,South,Office Supplies,Pens,Retail,5,7.75,0.05,36.81,28.27,8.54
+ORD-000074,2025-02-17,West,Office Supplies,Binders,Online,10,15.07,0.05,143.16,90.45,52.71
+ORD-000075,2025-09-08,West,Clothing,T-Shirt,Online,2,23.04,0.05,43.78,34.55,9.23
+ORD-000076,2025-06-23,South,Clothing,Jacket,Wholesale,3,94.42,0.0,283.26,178.12,105.14
+ORD-000077,2025-05-01,East,Furniture,Chair,Retail,8,133.9,0.05,1017.64,580.79,436.85
+ORD-000078,2025-03-24,South,Office Supplies,Binders,Retail,3,16.18,0.05,46.11,31.36,14.75
+ORD-000079,2025-07-26,East,Office Supplies,Binders,Retail,9,14.08,0.0,126.72,76.91,49.81
+ORD-000080,2025-09-02,South,Electronics,Headphones,Wholesale,5,128.75,0.0,643.75,475.25,168.5
+ORD-000081,2025-12-10,North,Electronics,Laptop,Online,5,860.55,0.0,4302.75,3073.57,1229.18
+ORD-000082,2025-06-09,West,Electronics,Laptop,Online,5,864.46,0.0,4322.3,3119.05,1203.25
+ORD-000083,2025-02-28,West,Office Supplies,Paper,Online,8,12.57,0.0,100.56,60.17,40.39
+ORD-000084,2025-10-31,West,Office Supplies,Paper,Retail,1,11.44,0.0,11.44,8.32,3.12
+ORD-000085,2025-08-18,West,Office Supplies,Paper,Retail,8,12.25,0.0,98.0,61.53,36.47
+ORD-000086,2025-09-13,East,Furniture,Desk,Retail,8,270.68,0.0,2165.44,1731.63,433.81
+ORD-000087,2025-02-05,East,Electronics,Phone,Online,9,561.23,0.0,5051.07,3702.14,1348.93
+ORD-000088,2025-04-25,East,Furniture,Chair,Online,10,134.88,0.05,1281.36,893.88,387.48
+ORD-000089,2025-10-08,South,Office Supplies,Pens,Wholesale,8,7.59,0.0,60.72,46.56,14.16
+ORD-000090,2025-10-31,South,Clothing,Jacket,Wholesale,6,92.39,0.0,554.34,386.56,167.78
+ORD-000091,2025-06-08,North,Clothing,Jacket,Online,5,94.69,0.05,449.78,309.53,140.25
+ORD-000092,2025-10-21,East,Clothing,T-Shirt,Retail,4,22.26,0.0,89.04,54.25,34.79
+ORD-000093,2025-11-04,South,Clothing,Shoes,Retail,9,73.77,0.0,663.93,477.72,186.21
+ORD-000094,2025-05-22,North,Clothing,Jacket,Retail,4,99.09,0.0,396.36,255.12,141.24
+ORD-000095,2025-11-24,East,Furniture,Shelf,Online,6,87.4,0.0,524.4,294.07,230.33
+ORD-000096,2025-04-16,South,Electronics,Headphones,Retail,1,115.46,0.0,115.46,87.06,28.4
+ORD-000097,2025-03-29,North,Electronics,Headphones,Online,4,119.59,0.0,478.36,269.3,209.06
+ORD-000098,2025-09-07,West,Furniture,Desk,Online,3,253.15,0.0,759.45,545.34,214.11
+ORD-000099,2025-08-21,West,Electronics,Phone,Retail,5,517.1,0.0,2585.5,1523.33,1062.17
+ORD-000100,2025-02-21,North,Electronics,Headphones,Online,6,110.6,0.1,597.24,393.07,204.17
+ORD-000101,2025-10-31,North,Clothing,T-Shirt,Online,8,21.43,0.0,171.44,131.11,40.33
+ORD-000102,2025-03-14,South,Electronics,Laptop,Online,5,788.0,0.0,3940.0,2260.0,1680.0
+ORD-000103,2025-10-21,West,Clothing,T-Shirt,Online,2,22.25,0.0,44.5,31.9,12.6
+ORD-000104,2025-01-03,West,Office Supplies,Pens,Retail,6,7.44,0.05,42.41,29.82,12.59
+ORD-000105,2025-10-18,North,Office Supplies,Pens,Online,1,7.71,0.05,7.32,5.61,1.71
+ORD-000106,2025-10-15,East,Office Supplies,Pens,Retail,9,7.42,0.05,63.44,37.63,25.81
+ORD-000107,2025-10-12,North,Furniture,Shelf,Wholesale,8,86.92,0.0,695.36,521.48,173.88
+ORD-000108,2025-08-31,South,Office Supplies,Paper,Online,3,12.13,0.0,36.39,24.11,12.28
+ORD-000109,2025-06-22,West,Electronics,Phone,Wholesale,3,525.96,0.05,1498.99,985.08,513.91
+ORD-000110,2025-09-15,North,Clothing,T-Shirt,Online,1,20.76,0.0,20.76,13.3,7.46
+ORD-000111,2025-04-12,North,Furniture,Chair,Online,4,150.26,0.1,540.94,349.66,191.28
+ORD-000112,2025-10-12,South,Electronics,Laptop,Online,1,831.07,0.0,831.07,565.12,265.95
+ORD-000113,2025-07-22,East,Office Supplies,Paper,Online,10,12.34,0.0,123.4,71.16,52.24
+ORD-000114,2025-06-17,West,Office Supplies,Pens,Online,2,8.04,0.0,16.08,10.55,5.53
+ORD-000115,2025-07-04,West,Furniture,Shelf,Online,7,89.17,0.0,624.19,445.04,179.15
+ORD-000116,2025-07-27,North,Office Supplies,Pens,Wholesale,6,8.51,0.05,48.51,32.72,15.79
+ORD-000117,2025-01-14,North,Electronics,Headphones,Retail,3,117.75,0.0,353.25,208.93,144.32
+ORD-000118,2025-02-21,West,Office Supplies,Pens,Wholesale,9,8.24,0.0,74.16,47.52,26.64
+ORD-000120,2025-02-11,West,Electronics,Laptop,Retail,9,839.92,0.1,6803.35,4879.49,1923.86
+ORD-000121,2025-06-10,East,Electronics,Phone,Online,8,531.29,0.05,4037.8,3130.07,907.73
+ORD-000122,2025-09-01,North,Furniture,Desk,Retail,7,239.48,0.1,1508.72,1037.39,471.33
+ORD-000123,2025-08-27,West,Furniture,Shelf,Online,9,91.2,0.1,738.72,531.21,207.51
+ORD-000124,2025-06-21,North,Furniture,Desk,Wholesale,5,275.33,0.0,1376.65,783.72,592.93
+ORD-000125,2025-11-09,South,Electronics,Headphones,Wholesale,3,115.98,0.1,313.15,246.96,66.19
+ORD-000126,2025-07-26,East,Electronics,Laptop,Online,2,885.31,0.1,1593.56,1002.03,591.53
+ORD-000127,2025-01-29,South,Office Supplies,Pens,Retail,10,7.77,0.0,77.7,49.62,28.08
+ORD-000128,2025-10-07,East,Electronics,Laptop,Retail,5,814.6,0.05,3869.35,2343.71,1525.64
+ORD-000129,2025-07-29,East,Office Supplies,Paper,Retail,9,12.67,0.0,114.03,65.13,48.9
+ORD-000130,2025-08-20,West,Clothing,T-Shirt,Online,4,21.31,0.05,80.98,60.53,20.45
+ORD-000131,2025-07-26,West,Furniture,Desk,Retail,10,257.94,0.0,2579.4,1573.75,1005.65
+ORD-000132,2025-07-22,South,Clothing,Shoes,Retail,9,71.85,0.05,614.32,381.29,233.03
+ORD-000133,2025-02-03,North,Electronics,Headphones,Online,4,112.9,0.0,451.6,268.9,182.7
+ORD-000134,2025-07-24,East,Electronics,Phone,Retail,5,533.29,0.0,2666.45,2116.42,550.03
+ORD-000135,2025-10-18,West,Office Supplies,Paper,Online,8,11.63,0.0,93.04,69.34,23.7
+ORD-000136,2025-04-21,South,Office Supplies,Pens,Wholesale,3,8.23,0.05,23.46,18.36,5.1
+ORD-000137,2025-08-09,South,Clothing,Shoes,Online,1,65.92,0.0,65.92,50.46,15.46
+ORD-000138,2025-01-12,South,Electronics,Laptop,Online,3,784.93,0.05,2237.05,1737.24,499.81
+ORD-000139,2025-05-07,North,Office Supplies,Paper,Online,6,12.41,0.0,74.46,49.87,24.59
+ORD-000140,2025-06-09,East,Furniture,Chair,Wholesale,2,132.3,0.0,264.6,156.81,107.79
+ORD-000141,2025-12-25,South,Furniture,Chair,Retail,4,138.25,0.0,553.0,349.34,203.66
+ORD-000142,2025-03-20,West,Electronics,Laptop,Online,10,847.93,,7631.37,4755.2,2876.17
+ORD-000143,2025-04-11,West,Clothing,Shoes,Online,1,72.97,0.0,72.97,53.22,19.75
+ORD-000144,2025-05-30,West,Electronics,Phone,Retail,1,505.0,0.05,479.75,266.94,212.81
+ORD-000145,2025-12-29,South,Clothing,Jacket,Online,5,100.35,0.0,501.75,293.78,207.97
+ORD-000146,2025-11-08,South,Office Supplies,Pens,Online,1,8.29,0.05,7.88,5.68,2.2
+ORD-000147,2025-01-13,East,Office Supplies,Binders,Wholesale,1,14.61,0.0,14.61,8.49,6.12
+ORD-000148,2025-03-27,West,Office Supplies,Pens,Online,2,8.34,0.0,16.68,9.38,7.3
+ORD-000149,2025-10-27,South,Clothing,Shoes,Retail,2,72.56,0.0,145.12,83.78,61.34
+ORD-000150,2025-01-22,West,Electronics,Headphones,Online,9,121.94,0.0,1097.46,793.1,304.36
+ORD-000151,2025-11-09,North,Electronics,Phone,Retail,2,545.05,0.0,1090.1,637.52,452.58
+ORD-000152,2025-04-13,West,Office Supplies,Paper,Retail,6,12.45,0.0,74.7,43.82,30.88
+ORD-000153,2025-12-01,North,Furniture,Chair,Online,8,151.18,0.0,1209.44,734.83,474.61
+ORD-000154,2025-04-18,North,Electronics,Phone,Retail,7,546.79,0.1,3444.78,2541.31,903.47
+ORD-000155,2025-06-08,East,Electronics,Phone,Wholesale,7,566.67,0.0,3966.69,2380.36,1586.33
+ORD-000156,2025-08-30,North,Furniture,Desk,Wholesale,4,270.16,,972.58,543.52,429.06
+ORD-000157,2025-02-16,North,Electronics,Laptop,Online,9,866.68,0.0,7800.12,6056.53,1743.59
+ORD-000158,2025-07-23,North,Electronics,Phone,Online,1,579.27,0.0,579.27,445.5,133.77
+ORD-000159,2025-07-04,South,Clothing,T-Shirt,Wholesale,2,20.92,0.0,41.84,24.95,16.89
+ORD-000160,2025-10-14,East,Furniture,Shelf,Online,9,80.45,0.0,724.05,446.26,277.79
+ORD-000161,2025-12-30,North,Clothing,T-Shirt,Online,1,22.3,0.0,22.3,13.32,8.98
+ORD-000162,2025-08-31,East,Clothing,Jacket,Online,2,94.23,0.1,169.61,123.8,45.81
+ORD-000163,2025-05-30,West,Electronics,Phone,Wholesale,2,546.11,0.05,1037.61,635.54,402.07
+ORD-000164,2025-05-29,North,Office Supplies,Pens,Online,1,8.38,0.0,8.38,6.56,1.82
+ORD-000165,2025-06-02,North,Office Supplies,Pens,Online,2,8.55,0.0,17.1,12.94,4.16
+ORD-000166,2025-10-25,West,Office Supplies,Pens,Retail,6,7.89,0.0,47.34,33.0,14.34
+ORD-000167,2025-04-28,West,Electronics,Phone,Online,7,558.83,0.05,3716.22,2052.23,1663.99
+ORD-000168,2025-03-02,East,Electronics,Laptop,Online,1,780.22,0.0,780.22,601.49,178.73
+ORD-000169,2025-05-03,West,Electronics,Headphones,Retail,10,120.66,0.0,1206.6,883.16,323.44
+ORD-000170,2025-01-09,North,Office Supplies,Binders,Online,1,13.85,0.0,13.85,10.35,3.5
+ORD-000171,2025-02-08,South,Clothing,Jacket,Wholesale,7,95.06,0.0,665.42,377.93,287.49
+ORD-000172,2025-02-02,East,Office Supplies,Pens,Online,9,8.06,0.05,68.91,50.11,18.8
+ORD-000173,2025-10-09,North,Office Supplies,Pens,Wholesale,6,8.3,0.0,49.8,37.41,12.39
+ORD-000174,2025-09-21,East,Clothing,T-Shirt,Retail,5,22.53,0.0,112.65,88.9,23.75
+ORD-000175,2025-09-12,South,Office Supplies,Binders,Online,2,14.66,0.1,26.39,18.34,8.05
+ORD-000176,2025-06-18,East,Electronics,Phone,Online,3,497.3,0.1,1342.71,909.03,433.68
+ORD-000177,2025-09-19,South,Clothing,T-Shirt,Retail,9,20.65,0.0,185.85,121.98,63.87
+ORD-000178,2025-02-28,South,Furniture,Shelf,Online,4,91.43,0.0,365.72,265.26,100.46
+ORD-000179,2025-11-25,North,Electronics,Headphones,Online,1,128.11,0.05,121.7,94.95,26.75
+ORD-000180,2025-07-02,North,Furniture,Desk,Wholesale,8,252.72,0.0,2021.76,1415.11,606.65
+ORD-000181,2025-12-09,East,Clothing,T-Shirt,Retail,7,21.15,0.0,148.05,89.84,58.21
+ORD-000182,2025-02-25,North,Electronics,Phone,Wholesale,1,534.51,0.0,534.51,296.33,238.18
+ORD-000183,2025-07-01,North,Furniture,Desk,Online,1,267.9,0.0,267.9,188.81,79.09
+ORD-000184,2025-09-12,North,Electronics,Headphones,Online,2,117.25,0.1,211.05,161.7,49.35
+ORD-000185,2025-06-30,North,Electronics,Headphones,Retail,1,111.69,0.05,106.11,60.11,46.0
+ORD-000186,2025-06-12,West,Electronics,Phone,Online,7,531.6,0.1,3349.08,2174.87,1174.21
+ORD-000187,2025-03-02,South,Office Supplies,Pens,Online,2,7.69,0.05,14.61,11.47,3.14
+ORD-000188,2025-05-20,West,Clothing,Shoes,Online,7,68.04,0.05,452.47,305.61,146.86
+ORD-000190,2025-04-21,East,Electronics,Headphones,Retail,10,123.05,0.05,1168.97,746.29,422.68
+ORD-000191,2025-09-07,South,Electronics,Laptop,Online,8,823.49,0.0,6587.92,4295.55,2292.37
+ORD-000192,2025-08-19,South,Electronics,Phone,Wholesale,4,520.2,0.0,2080.8,1205.45,875.35
+ORD-000193,2025-08-10,West,Office Supplies,Paper,Online,5,12.1,0.0,60.5,43.27,17.23
+ORD-000194,2025-05-13,West,Office Supplies,Binders,Online,1,14.98,0.0,14.98,10.46,4.52
+ORD-000195,2025-12-17,West,Office Supplies,Binders,Online,1,15.71,0.0,15.71,11.18,4.53
+ORD-000196,2025-02-01,North,Furniture,Chair,Retail,6,150.21,0.0,901.26,633.31,267.95
+ORD-000197,2025-05-06,North,Office Supplies,Pens,Wholesale,1,7.53,0.0,7.53,4.17,3.36
+ORD-000198,2025-02-13,East,Electronics,Headphones,Wholesale,7,127.37,0.0,891.59,529.26,362.33
+ORD-000199,2025-05-04,South,Electronics,Headphones,Online,4,123.93,0.0,495.72,293.17,202.55
+ORD-000200,2025-12-18,East,Clothing,T-Shirt,Online,2,22.68,0.0,45.36,26.06,19.3
+ORD-000201,2025-05-14,East,Office Supplies,Paper,Wholesale,6,11.76,0.0,70.56,51.78,18.78
+ORD-000202,2025-11-28,East,Clothing,Shoes,Online,6,68.25,0.1,368.55,213.77,154.78
+ORD-000203,2025-06-30,West,Clothing,T-Shirt,Retail,8,20.26,0.0,162.08,116.22,45.86
+ORD-000204,2025-09-13,East,Office Supplies,Paper,Online,2,12.93,0.0,25.86,15.38,10.48
+ORD-000205,2025-06-16,North,Clothing,T-Shirt,Online,6,22.37,0.0,134.22,77.79,56.43
+ORD-000206,2025-04-08,North,Furniture,Desk,Online,9,255.94,0.05,2188.29,1292.48,895.81
+ORD-000207,2025-10-06,East,Electronics,Headphones,Online,3,120.84,0.05,344.39,233.19,111.2
+ORD-000208,2025-12-20,South,Electronics,Phone,Wholesale,9,500.3,0.0,4502.7,3203.09,1299.61
+ORD-000209,2025-04-07,North,Electronics,Headphones,Retail,8,113.73,0.0,909.84,685.09,224.75
+ORD-000210,2025-10-12,South,Electronics,Headphones,Wholesale,5,122.37,0.05,581.26,338.38,242.88
+ORD-000211,2025-04-06,East,Furniture,Desk,Retail,9,260.59,0.1,2110.78,1486.09,624.69
+ORD-000212,2025-09-19,West,Office Supplies,Pens,Online,10,8.37,0.0,83.7,62.23,21.47
+ORD-000213,2025-10-15,East,Office Supplies,Binders,Retail,3,15.38,0.0,46.14,28.98,17.16
+ORD-000214,2025-06-14,South,Office Supplies,Paper,Online,10,12.19,0.0,121.9,69.47,52.43
+ORD-000215,2025-09-26,North,Electronics,Headphones,Wholesale,1,126.05,0.0,126.05,74.24,51.81
+ORD-000216,2025-04-10,East,Office Supplies,Paper,Online,2,11.17,0.05,21.22,12.16,9.06
+ORD-000217,2025-01-29,South,Furniture,Chair,Wholesale,1,144.28,0.1,129.85,100.22,29.63
+ORD-000218,2025-02-05,East,Electronics,Phone,Retail,4,558.63,0.1,2011.07,1295.48,715.59
+ORD-000219,2025-06-13,East,Electronics,Headphones,Retail,10,115.68,0.05,1098.96,748.21,350.75
+ORD-000220,2025-11-26,North,Furniture,Shelf,Retail,7,80.86,0.0,566.02,420.08,145.94
+ORD-000221,2025-02-16,North,Electronics,Phone,Retail,7,515.28,0.1,3246.26,2086.94,1159.32
+ORD-000222,2025-06-16,North,Office Supplies,Paper,Retail,1,11.42,0.0,11.42,8.13,3.29
+ORD-000223,2025-09-14,West,Office Supplies,Pens,Retail,6,8.03,0.0,48.18,27.42,20.76
+ORD-000224,2025-03-15,East,Office Supplies,Pens,Online,4,7.53,0.05,28.61,19.18,9.43
+ORD-000225,2025-09-21,North,Electronics,Headphones,Retail,5,123.06,0.0,615.3,353.26,262.04
+ORD-000226,2025-04-22,West,Office Supplies,Binders,Online,3,14.05,0.05,40.04,24.51,15.53
+ORD-000227,2025-10-23,South,Office Supplies,Pens,Retail,3,7.39,0.1,19.95,12.44,7.51
+ORD-000228,2025-07-31,South,Electronics,Headphones,Retail,10,116.53,0.05,1107.03,807.46,299.57
+ORD-000229,2025-07-19,West,Office Supplies,Paper,Online,6,11.41,0.05,65.04,46.73,18.31
+ORD-000230,2025-03-06,North,Furniture,Desk,Retail,5,280.33,0.0,1401.65,1032.69,368.96
+ORD-000231,2025-06-19,North,Furniture,Desk,Retail,1,251.8,0.0,251.8,142.38,109.42
+ORD-000232,2025-11-09,East,Electronics,Headphones,Retail,8,114.66,0.05,871.42,695.81,175.61
+ORD-000233,2025-01-08,North,Furniture,Desk,Retail,5,247.39,0.0,1236.95,697.15,539.8
+ORD-000234,2025-10-04,East,Electronics,Phone,Retail,4,529.1,0.1,1904.76,1440.83,463.93
+ORD-000235,2025-06-29,North,Electronics,Headphones,Retail,7,122.03,0.0,854.21,627.9,226.31
+ORD-000236,2025-09-20,North,Electronics,Headphones,Online,2,125.41,0.0,250.82,175.06,75.76
+ORD-000237,2025-08-31,North,Clothing,T-Shirt,Online,6,21.52,0.0,129.12,85.18,43.94
+ORD-000238,2025-06-07,South,Electronics,Laptop,Retail,9,836.53,0.05,7152.33,5287.6,1864.73
+ORD-000239,2025-04-23,North,Furniture,Chair,Online,5,139.6,0.05,663.1,487.35,175.75
+ORD-000240,2025-08-17,North,Furniture,Chair,Online,1,147.76,0.1,132.98,77.7,55.28
+ORD-000241,2025-02-21,West,Clothing,T-Shirt,Online,3,22.24,0.0,66.72,49.92,16.8
+ORD-000242,2025-08-02,South,Office Supplies,Pens,Online,1,7.73,0.0,7.73,4.4,3.33
+ORD-000243,2025-02-04,South,Clothing,Shoes,Wholesale,6,72.28,0.0,433.68,292.79,140.89
+ORD-000244,2025-08-26,North,Electronics,Laptop,Online,4,861.99,0.0,3447.96,2452.43,995.53
+ORD-000245,2025-08-18,South,Electronics,Laptop,Online,2,815.47,0.0,1630.94,1232.05,398.89
+ORD-000246,2025-01-31,North,Office Supplies,Pens,Wholesale,7,8.62,0.0,60.34,40.17,20.17
+ORD-000247,2025-10-04,East,Furniture,Desk,Wholesale,2,275.77,0.0,551.54,336.01,215.53
+ORD-000248,2025-06-01,North,Office Supplies,Pens,Online,4,7.61,,30.44,20.48,9.96
+ORD-000249,2025-10-15,West,Clothing,T-Shirt,Wholesale,10,23.01,0.05,218.6,133.9,84.7
+ORD-000250,2025-01-16,West,Furniture,Chair,Online,1,142.26,0.05,135.15,92.2,42.95
+ORD-000251,2025-03-07,North,Clothing,Shoes,Retail,3,70.39,0.0,211.17,140.56,70.61
+ORD-000252,2025-06-30,North,Office Supplies,Paper,Online,4,12.03,0.0,48.12,35.86,12.26
+ORD-000253,2025-03-10,North,Electronics,Phone,Online,6,570.53,0.05,3252.02,1983.81,1268.21
+ORD-000254,2025-05-01,East,Furniture,Chair,Online,3,142.48,0.05,406.07,243.64,162.43
+ORD-000255,2025-08-30,North,Electronics,Laptop,Retail,10,824.95,0.05,7837.02,5239.41,2597.61
+ORD-000256,2025-02-22,West,Office Supplies,Paper,Online,1,11.13,,11.13,6.26,4.87
+ORD-000257,2025-09-05,East,Electronics,Headphones,Retail,10,119.01,0.0,1190.1,722.79,467.31
+ORD-000258,2025-02-07,West,Furniture,Shelf,Retail,6,90.55,0.1,488.97,312.17,176.8
+ORD-000259,2025-03-05,East,Office Supplies,Pens,Online,1,8.27,0.0,8.27,5.56,2.71
+ORD-000260,2025-08-03,West,Electronics,Headphones,Wholesale,2,111.38,0.0,222.76,137.52,85.24
+ORD-000261,2025-10-17,North,Electronics,Laptop,Online,2,870.38,0.1,1566.68,1081.26,485.42
+ORD-000262,2025-03-04,South,Office Supplies,Paper,Online,3,12.63,0.0,37.89,29.16,8.73
+ORD-000263,2025-04-20,South,Electronics,Headphones,Online,4,120.9,0.05,459.42,315.13,144.29
+ORD-000264,2025-12-04,West,Furniture,Desk,Online,7,240.13,0.1,1512.82,940.54,572.28
+ORD-000265,2025-12-28,East,Furniture,Chair,Online,4,141.4,0.0,565.6,319.84,245.76
+ORD-000266,2025-08-01,West,Electronics,Laptop,Retail,8,761.56,0.05,5787.86,3381.07,2406.79
+ORD-000267,2025-06-13,North,Electronics,Laptop,Retail,3,796.43,0.0,2389.29,1649.34,739.95
+ORD-000268,2025-05-07,West,Office Supplies,Pens,Online,3,8.17,0.1,22.06,15.9,6.16
+ORD-000269,2025-08-12,South,Clothing,Shoes,Online,3,74.62,0.1,201.47,113.31,88.16
+ORD-000270,2025-08-04,South,Electronics,Headphones,Retail,4,117.27,0.1,422.17,251.78,170.39
+ORD-000271,2025-04-18,West,Clothing,T-Shirt,Online,9,23.27,0.0,209.43,131.89,77.54
+ORD-000272,2025-01-09,South,Office Supplies,Pens,Retail,3,8.54,0.05,24.34,15.33,9.01
+ORD-000273,2025-02-25,South,Office Supplies,Pens,Wholesale,3,7.39,0.1,19.95,15.75,4.2
+ORD-000274,2025-12-16,East,Office Supplies,Paper,Online,10,11.5,0.05,109.25,65.65,43.6
+ORD-000275,2025-06-02,North,Office Supplies,Paper,Retail,-7,12.4,0.05,-82.46,-46.64,-35.82
+ORD-000276,2025-06-26,South,Office Supplies,Paper,Wholesale,2,12.49,0.0,24.98,15.94,9.04
+ORD-000277,2025-06-20,North,Furniture,Shelf,Retail,9,83.54,0.1,676.67,394.91,281.76
+ORD-000278,2025-10-13,North,Office Supplies,Paper,Wholesale,2,12.3,0.0,24.6,14.31,10.29
+ORD-000279,2025-01-24,West,Furniture,Chair,Online,2,142.51,0.0,285.02,185.79,99.23
+ORD-000280,2025-01-31,East,Electronics,Headphones,Retail,5,124.6,0.1,560.7,351.33,209.37
+ORD-000281,2025-04-11,South,Office Supplies,Binders,Online,7,15.52,0.1,97.78,56.02,41.76
+ORD-000282,2025-06-27,South,Electronics,Phone,Online,2,504.22,0.1,907.6,636.3,271.3
+ORD-000283,2025-09-02,South,Electronics,Laptop,Wholesale,8,775.16,0.0,6201.28,4188.5,2012.78
+ORD-000284,2025-06-29,East,Electronics,Phone,Online,2,508.27,0.0,1016.54,578.69,437.85
+ORD-000285,2025-06-11,West,Electronics,Phone,Wholesale,8,577.37,0.0,4618.96,3536.67,1082.29
+ORD-000286,2025-12-09,West,Office Supplies,Paper,Retail,1,12.79,0.0,12.79,7.94,4.85
+ORD-000287,2025-02-28,South,Office Supplies,Binders,Wholesale,5,15.71,0.1,70.7,55.88,14.82
+ORD-000288,2025-07-28,South,Furniture,Shelf,Wholesale,7,79.79,0.0,558.53,437.26,121.27
+ORD-000289,2025-07-17,South,Electronics,Laptop,Retail,3,829.74,0.0,2489.22,1639.21,850.01
+ORD-000290,2025-06-22,East,Furniture,Desk,Wholesale,7,246.99,0.0,1728.93,1049.71,679.22
+ORD-000291,2025-10-22,South,Furniture,Desk,Retail,7,254.52,0.0,1781.64,1351.75,429.89
+ORD-000292,2025-04-08,East,Office Supplies,Binders,Retail,7,14.44,0.1,90.97,58.25,32.72
+ORD-000293,2025-12-15,East,Office Supplies,Paper,Retail,4,12.63,0.05,47.99,28.36,19.63
+ORD-000294,2025-05-02,South,Furniture,Shelf,Online,8,80.16,0.0,641.28,441.14,200.14
+ORD-000295,2025-07-18,South,Furniture,Shelf,Online,8,86.99,0.0,695.92,467.9,228.02
+ORD-000296,2025-07-10,South,Clothing,Shoes,Online,4,75.42,0.0,301.68,230.03,71.65
+ORD-000297,2025-11-07,North,Office Supplies,Pens,Online,8,8.24,0.0,65.92,48.27,17.65
+ORD-000298,2025-06-10,North,Furniture,Shelf,Online,10,79.28,0.1,713.52,548.72,164.8
+ORD-000299,2025-04-14,East,Furniture,Shelf,Retail,9,90.55,0.05,774.2,568.01,206.19
+ORD-000300,2025-01-08,South,Electronics,Laptop,Retail,8,838.77,0.0,6710.16,4767.86,1942.3
+ORD-000301,2025-05-13,North,Clothing,Jacket,Retail,8,94.34,0.05,716.98,483.99,232.99
+ORD-000302,2025-10-29,East,Furniture,Chair,Wholesale,9,143.58,0.0,1292.22,1029.76,262.46
+ORD-000303,2025-01-04,East,Electronics,Laptop,Wholesale,3,869.73,0.0,2609.19,2060.72,548.47
+ORD-000304,2025-11-24,North,Clothing,Jacket,Wholesale,8,94.65,0.0,757.2,577.15,180.05
+ORD-000305,2025-07-18,West,Office Supplies,Binders,Retail,2,15.08,0.0,30.16,22.43,7.73
+ORD-000306,2025-02-21,West,Electronics,Phone,Online,4,535.89,0.0,2143.56,1488.47,655.09
+ORD-000307,2025-04-21,East,Electronics,Phone,Wholesale,10,503.07,0.05,4779.16,2938.89,1840.27
+ORD-000308,2025-07-22,East,Electronics,Laptop,Online,3,857.66,0.1,2315.68,1780.43,535.25
+ORD-000309,2025-04-26,North,Office Supplies,Paper,Online,9,11.28,0.0,101.52,56.11,45.41
+ORD-000310,2025-02-09,West,Electronics,Laptop,Online,5,806.17,0.05,3829.31,2323.86,1505.45
+ORD-000311,2025-09-01,South,Clothing,Shoes,Retail,3,68.73,0.0,206.19,134.22,71.97
+ORD-000312,2025-09-03,West,Clothing,Jacket,Retail,1,91.66,0.0,91.66,63.84,27.82
+ORD-000313,2025-02-13,East,Office Supplies,Pens,Online,6,7.88,0.0,47.28,32.63,14.65
+ORD-000314,2025-04-13,North,Office Supplies,Paper,Retail,5,12.23,0.0,61.15,36.32,24.83
+ORD-000316,2025-08-29,East,Electronics,Phone,Online,1,511.71,0.1,460.54,278.89,181.65
+ORD-000317,2025-09-24,East,Office Supplies,Paper,Online,3,12.71,0.1,34.32,21.87,12.45
+ORD-000318,2025-09-23,North,Electronics,Phone,Online,1,580.68,0.0,580.68,321.41,259.27
+ORD-000319,2025-12-09,East,Electronics,Laptop,Retail,4,814.57,0.05,3095.37,2238.31,857.06
+ORD-000320,2025-10-08,West,Furniture,Desk,Online,10,252.8,,2528.0,1546.96,981.04
+ORD-000321,2025-04-28,South,Electronics,Headphones,Online,2,111.31,0.05,211.49,134.9,76.59
+ORD-000322,2025-02-09,South,Furniture,Shelf,Online,7,78.7,0.0,550.9,349.12,201.78
+ORD-000323,2025-08-13,North,Office Supplies,Pens,Retail,1,7.86,0.0,7.86,5.33,2.53
+ORD-000324,2025-12-01,West,Office Supplies,Binders,Wholesale,6,16.03,,91.37,69.89,21.48
+ORD-000325,2025-12-22,South,Office Supplies,Pens,Retail,10,8.3,0.0,83.0,48.75,34.25
+ORD-000326,2025-03-26,West,Clothing,Jacket,Retail,4,92.71,0.0,370.84,235.55,135.29
+ORD-000327,2025-03-28,South,Furniture,Shelf,Wholesale,2,91.37,0.0,182.74,132.12,50.62
+ORD-000328,2025-01-14,East,Clothing,Shoes,Online,6,69.2,0.0,415.2,232.95,182.25
+ORD-000329,2025-02-21,North,Furniture,Chair,Online,3,135.0,0.0,405.0,306.79,98.21
+ORD-000330,2025-07-22,North,Electronics,Phone,Retail,9,533.64,0.05,4562.62,3606.55,956.07
+ORD-000331,2025-07-19,East,Clothing,Jacket,Online,9,90.62,0.05,774.8,543.84,230.96
+ORD-000332,2025-05-16,South,Electronics,Headphones,Retail,7,127.4,0.0,891.8,703.74,188.06
+ORD-000333,2025-04-24,East,Electronics,Phone,Retail,7,528.01,0.0,3696.07,2414.51,1281.56
+ORD-000334,2025-10-30,West,Electronics,Phone,Online,7,553.65,0.05,3681.77,2406.99,1274.78
+ORD-000335,2025-06-17,West,Furniture,Desk,Retail,8,255.38,0.05,1940.89,1119.04,821.85
+ORD-000336,2025-10-23,West,Furniture,Shelf,Online,5,90.46,0.05,429.68,240.13,189.55
+ORD-000337,2025-12-18,North,Office Supplies,Paper,Online,10,12.27,0.0,122.7,74.99,47.71
+ORD-000338,2025-04-26,East,Clothing,Jacket,Wholesale,4,94.82,0.0,379.28,253.94,125.34
+ORD-000339,2025-03-15,West,Electronics,Headphones,Retail,1,112.94,0.0,112.94,76.45,36.49
+ORD-000340,2025-12-14,South,Office Supplies,Paper,Online,7,12.77,0.0,89.39,54.03,35.36
+ORD-000341,2025-08-20,North,Furniture,Chair,Online,7,141.05,0.0,987.35,694.31,293.04
+ORD-000342,2025-04-17,West,Clothing,T-Shirt,Online,10,21.24,0.0,212.4,126.44,85.96
+ORD-000343,2025-08-15,South,Electronics,Headphones,Online,4,127.26,0.05,483.59,305.41,178.18
+ORD-000344,2025-07-07,East,Electronics,Phone,Online,5,501.5,0.0,2507.5,1501.81,1005.69
+ORD-000345,2025-11-27,West,Furniture,Shelf,Online,6,82.47,0.05,470.08,340.42,129.66
+ORD-000346,2025-04-04,East,Office Supplies,Binders,Wholesale,4,15.09,0.0,60.36,40.99,19.37
+ORD-000347,2025-12-28,South,Office Supplies,Binders,Wholesale,8,14.62,0.0,116.96,85.85,31.11
+ORD-000348,2025-12-08,South,Office Supplies,Paper,Retail,5,11.96,0.05,56.81,32.06,24.75
+ORD-000349,2025-03-07,South,Office Supplies,Binders,Retail,8,14.43,0.05,109.67,71.98,37.69
+ORD-000350,2025-03-02,North,Furniture,Desk,Retail,5,244.61,0.0,1223.05,968.34,254.71
+ORD-000351,2025-07-14,West,Electronics,Headphones,Retail,3,111.11,0.05,316.66,178.41,138.25
+ORD-000352,2025-01-17,West,Electronics,Laptop,Wholesale,10,775.08,0.0,7750.8,5073.63,2677.17
+ORD-000353,2025-04-20,South,Electronics,Laptop,Retail,6,879.43,0.0,5276.58,2955.41,2321.17
+ORD-000354,2025-06-08,South,Furniture,Desk,Retail,8,263.14,0.05,1999.86,1173.24,826.62
+ORD-000355,2025-12-20,West,Furniture,Chair,Wholesale,6,139.75,0.05,796.58,530.23,266.35
+ORD-000356,2025-12-29,North,Furniture,Desk,Retail,4,255.19,0.0,1020.76,601.61,419.15
+ORD-000357,2025-02-25,East,Office Supplies,Paper,Online,10,12.4,0.1,111.6,75.85,35.75
+ORD-000358,2025-11-22,South,Furniture,Chair,Online,4,131.96,0.05,501.45,391.47,109.98
+ORD-000359,2025-02-03,East,Office Supplies,Binders,Online,10,14.46,0.05,137.37,82.44,54.93
+ORD-000360,2025-10-01,North,Office Supplies,Pens,Online,5,8.2,0.0,41.0,23.65,17.35
+ORD-000361,2025-11-05,East,Furniture,Chair,Online,1,139.53,0.0,139.53,105.53,34.0
+ORD-000362,2025-11-22,South,Furniture,Chair,Online,1,146.05,0.0,146.05,97.13,48.92
+ORD-000363,2025-03-23,East,Office Supplies,Pens,Online,10,8.51,0.05,80.84,62.3,18.54
+ORD-000364,2025-11-23,North,Office Supplies,Pens,Wholesale,6,8.41,0.0,50.46,31.61,18.85
+ORD-000365,2025-02-12,South,Furniture,Chair,Online,4,132.93,0.05,505.13,357.07,148.06
+ORD-000366,2025-07-09,East,Furniture,Desk,Online,9,243.01,0.0,2187.09,1707.74,479.35
+ORD-000367,2025-06-21,North,Office Supplies,Paper,Online,7,11.37,0.05,75.61,44.83,30.78
+ORD-000368,2025-04-26,North,Office Supplies,Binders,Online,7,15.68,0.05,104.27,78.22,26.05
+ORD-000369,2025-01-09,North,Electronics,Phone,Retail,7,575.76,0.05,3828.8,2710.33,1118.47
+ORD-000370,2025-10-09,South,Furniture,Desk,Retail,2,277.7,0.05,527.63,397.43,130.2
+ORD-000371,2025-05-03,North,Clothing,Jacket,Online,1,91.93,0.1,82.74,49.04,33.7
+ORD-000372,2025-08-30,West,Electronics,Headphones,Retail,8,126.53,0.0,1012.24,666.58,345.66
+ORD-000373,2025-05-30,South,Clothing,Jacket,Online,1,95.55,0.05,90.77,52.85,37.92
+ORD-000374,2025-05-17,West,Electronics,Laptop,Retail,8,862.35,0.1,6208.92,4905.17,1303.75
+ORD-000375,2025-11-20,West,Furniture,Shelf,Wholesale,2,85.66,0.0,171.32,96.91,74.41
+ORD-000376,2025-02-04,North,Furniture,Chair,Wholesale,3,132.07,0.0,396.21,224.4,171.81
+ORD-000377,2025-09-26,East,Electronics,Phone,Online,8,503.64,0.1,3626.21,2808.64,817.57
+ORD-000378,2025-09-30,West,Clothing,T-Shirt,Retail,7,23.61,0.0,165.27,103.33,61.94
+ORD-000379,2025-05-19,East,Furniture,Desk,Retail,8,256.91,0.0,2055.28,1437.16,618.12
+ORD-000380,2025-04-06,South,Clothing,Shoes,Wholesale,7,68.33,0.0,478.31,297.45,180.86
+ORD-000381,2025-01-02,South,Electronics,Headphones,Online,1,117.24,0.0,117.24,83.5,33.74
+ORD-000382,2025-12-08,North,Clothing,Shoes,Retail,9,68.64,0.0,617.76,369.49,248.27
+ORD-000383,2025-12-12,East,Clothing,Jacket,Online,3,101.76,0.0,305.28,202.92,102.36
+ORD-000384,2025-03-29,West,Office Supplies,Binders,Online,2,13.95,0.1,25.11,17.16,7.95
+ORD-000385,2025-01-12,West,Electronics,Headphones,Retail,9,112.69,0.0,1014.21,642.41,371.8
+ORD-000386,2025-02-14,North,Office Supplies,Paper,Online,2,12.56,0.0,25.12,15.4,9.72
+ORD-000387,2025-01-25,East,Office Supplies,Paper,Online,6,12.09,0.1,65.29,38.2,27.09
+ORD-000388,2025-10-31,South,Clothing,T-Shirt,Wholesale,5,20.69,0.05,98.28,71.4,26.88
+ORD-000389,2025-11-22,West,Furniture,Desk,Retail,8,240.63,0.0,1925.04,1139.76,785.28
+ORD-000390,2025-02-25,North,Electronics,Headphones,Wholesale,1,114.71,0.0,114.71,71.47,43.24
+ORD-000391,2025-09-30,West,Electronics,Laptop,Retail,2,788.62,0.05,1498.38,950.31,548.07
+ORD-000392,2025-03-07,West,Office Supplies,Binders,Wholesale,5,13.83,0.05,65.69,43.59,22.1
+ORD-000393,2025-05-15,North,Clothing,T-Shirt,Retail,5,21.0,0.0,105.0,76.19,28.81
+ORD-000394,2025-08-07,North,Electronics,Phone,Online,8,560.59,0.0,4484.72,2946.4,1538.32
+ORD-000395,2025-09-20,West,Office Supplies,Paper,Online,7,12.68,0.05,84.32,64.74,19.58
+ORD-000396,2025-11-16,North,Clothing,Shoes,Wholesale,2,74.46,0.05,141.47,101.85,39.62
+ORD-000397,2025-01-17,East,Electronics,Headphones,Online,10,117.89,0.0,1178.9,895.52,283.38
+ORD-000398,2025-03-13,West,Electronics,Headphones,Online,5,116.53,0.1,524.38,382.32,142.06
+ORD-000399,2025-04-13,East,Office Supplies,Paper,Retail,10,12.96,0.05,123.12,72.29,50.83
+ORD-000400,2025-04-24,South,Office Supplies,Pens,Online,10,8.34,0.05,79.23,62.95,16.28
+ORD-000401,2025-12-31,South,Electronics,Headphones,Online,1,120.72,0.05,114.68,85.63,29.05
+ORD-000402,2025-10-11,North,Clothing,Jacket,Retail,6,91.27,0.05,520.24,360.62,159.62
+ORD-000403,2025-04-27,West,Office Supplies,Binders,Online,5,14.57,0.0,72.85,43.08,29.77
+ORD-000404,2025-12-21,South,Clothing,Jacket,Retail,5,95.23,0.0,476.15,282.44,193.71
+ORD-000405,2025-07-02,North,Clothing,T-Shirt,Online,4,22.15,0.05,84.17,59.22,24.95
+ORD-000406,2025-07-02,South,Office Supplies,Paper,Retail,6,11.07,0.05,63.1,41.27,21.83
+ORD-000407,2025-06-08,West,Furniture,Desk,Online,5,279.11,0.0,1395.55,1003.35,392.2
+ORD-000408,2025-02-22,North,Electronics,Phone,Retail,2,546.53,0.0,1093.06,702.95,390.11
+ORD-000409,2025-12-08,West,Furniture,Chair,Online,3,142.0,0.05,404.7,274.47,130.23
+ORD-000410,2025-01-06,East,Electronics,Laptop,Online,2,782.15,0.05,1486.08,887.17,598.91
+ORD-000411,2025-03-05,West,Office Supplies,Pens,Wholesale,9,8.34,0.0,75.06,44.2,30.86
+ORD-000412,2025-03-25,West,Electronics,Laptop,Online,7,851.13,0.0,5957.91,3389.52,2568.39
+ORD-000413,2025-04-12,West,Furniture,Shelf,Retail,4,79.49,0.0,317.96,240.03,77.93
+ORD-000414,2025-02-18,West,Electronics,Laptop,Online,4,832.46,0.1,2996.86,2064.38,932.48
+ORD-000415,2025-01-07,North,Electronics,Phone,Online,1,553.67,0.1,498.3,392.06,106.24
+ORD-000416,2025-09-05,West,Electronics,Headphones,Online,3,126.44,0.0,379.32,279.7,99.62
+ORD-000417,2025-12-20,East,Office Supplies,Paper,Wholesale,10,11.44,0.0,114.4,84.91,29.49
+ORD-000418,2025-02-14,East,Office Supplies,Paper,Online,1,12.73,0.05,12.09,8.19,3.9
+ORD-000419,2025-04-19,West,Electronics,Headphones,Online,2,119.26,0.0,238.52,179.81,58.71
+ORD-000420,2025-07-04,West,Clothing,Jacket,Retail,9,88.87,0.1,719.85,565.45,154.4
+ORD-000421,2025-12-05,East,Clothing,T-Shirt,Online,6,20.61,0.0,123.66,90.33,33.33
+ORD-000422,2025-09-11,South,Furniture,Chair,Retail,1,133.23,0.0,133.23,76.79,56.44
+ORD-000423,2025-10-07,South,Office Supplies,Binders,Wholesale,5,14.48,0.0,72.4,51.6,20.8
+ORD-000424,2025-08-01,South,Furniture,Desk,Retail,8,259.85,0.0,2078.8,1205.93,872.87
+ORD-000425,2025-06-02,South,Electronics,Laptop,Retail,4,852.64,0.05,3240.03,1844.57,1395.46
+ORD-000426,2025-03-14,South,Office Supplies,Binders,Online,4,14.25,0.05,54.15,39.16,14.99
+ORD-000427,2025-11-12,North,Electronics,Headphones,Wholesale,7,129.46,0.0,906.22,687.55,218.67
+ORD-000428,2025-10-21,North,Clothing,T-Shirt,Retail,6,20.81,0.0,124.86,73.63,51.23
+ORD-000429,2025-01-10,East,Clothing,Jacket,Online,10,96.51,0.05,916.84,521.26,395.58
+ORD-000430,2025-09-19,South,Clothing,Shoes,Wholesale,3,74.8,0.05,213.18,164.5,48.68
+ORD-000431,2025-01-31,West,Office Supplies,Pens,Wholesale,3,8.43,0.0,25.29,14.75,10.54
+ORD-000432,2025-09-27,East,Office Supplies,Pens,Online,2,8.19,0.0,16.38,9.15,7.23
+ORD-000433,2025-10-29,North,Clothing,Jacket,Online,7,98.28,0.0,687.96,502.39,185.57
+ORD-000434,2025-02-17,North,Electronics,Phone,Retail,6,508.4,0.0,3050.4,2324.19,726.21
+ORD-000435,2025-06-08,North,Electronics,Phone,Wholesale,4,497.63,0.05,1890.99,1283.26,607.73
+ORD-000436,2025-02-15,West,Office Supplies,Paper,Retail,7,11.87,0.0,83.09,56.92,26.17
+ORD-000437,2025-07-27,North,Furniture,Chair,Online,4,130.81,0.0,523.24,331.85,191.39
+ORD-000438,2025-12-05,South,Furniture,Desk,Online,2,254.08,0.05,482.75,294.29,188.46
+ORD-000439,2025-01-30,West,Electronics,Laptop,Online,6,783.76,,4702.56,3474.29,1228.27
+ORD-000440,2025-05-26,West,Office Supplies,Paper,Online,5,12.8,0.0,64.0,48.79,15.21
+ORD-000441,2025-12-22,North,Electronics,Phone,Retail,5,572.84,0.0,2864.2,1805.34,1058.86
+ORD-000442,2025-04-20,North,Electronics,Laptop,Online,5,861.85,0.1,3878.32,2398.57,1479.75
+ORD-000443,2025-02-18,North,Electronics,Phone,Online,10,558.48,0.05,5305.56,3273.25,2032.31
+ORD-000444,2025-06-28,North,Furniture,Chair,Wholesale,3,132.25,0.0,396.75,223.23,173.52
+ORD-000445,2025-07-05,North,Clothing,T-Shirt,Online,3,20.41,0.05,58.17,36.08,22.09
+ORD-000446,2025-08-30,East,Furniture,Desk,Online,6,266.4,0.0,1598.4,889.37,709.03
+ORD-000447,2025-04-25,West,Office Supplies,Pens,Wholesale,1,8.18,0.0,8.18,6.11,2.07
+ORD-000448,2025-12-15,East,Office Supplies,Paper,Online,2,11.75,0.0,23.5,14.43,9.07
+ORD-000449,2025-07-10,East,Furniture,Chair,Wholesale,6,139.39,0.0,836.34,604.29,232.05
+ORD-000450,2025-04-15,North,Clothing,Shoes,Online,6,69.88,0.0,419.28,287.54,131.74
+ORD-000451,2025-12-17,West,Office Supplies,Binders,Online,7,14.38,0.1,90.59,68.79,21.8
+ORD-000452,2025-12-04,East,Office Supplies,Pens,Retail,2,7.76,0.0,15.52,12.26,3.26
+ORD-000453,2025-07-02,West,Electronics,Headphones,Online,9,118.43,0.05,1012.58,649.9,362.68
+ORD-000454,2025-01-10,West,Electronics,Laptop,Retail,5,833.54,0.05,3959.31,2265.06,1694.25
+ORD-000455,2025-08-06,South,Clothing,Jacket,Online,2,101.93,0.0,203.86,150.33,53.53
+ORD-000456,2025-07-22,North,Office Supplies,Paper,Retail,4,12.07,0.0,48.28,26.81,21.47
+ORD-000457,2025-02-24,North,Clothing,Shoes,Online,3,72.59,0.0,217.77,131.91,85.86
+ORD-000458,2025-08-20,South,Clothing,Jacket,Retail,5,99.67,0.0,498.35,280.73,217.62
+ORD-000459,2025-11-03,West,Electronics,Laptop,Retail,5,769.29,0.0,3846.45,2979.22,867.23
+ORD-000460,2025-02-08,South,Office Supplies,Paper,Retail,5,12.29,0.1,55.3,30.49,24.81
+ORD-000461,2025-09-22,East,Furniture,Shelf,Online,5,84.76,0.1,381.42,256.77,124.65
+ORD-000462,2025-02-21,East,Office Supplies,Binders,Retail,10,15.17,0.0,151.7,99.52,52.18
+ORD-000463,2025-10-01,North,Electronics,Laptop,Retail,10,759.44,0.0,7594.4,5416.22,2178.18
+ORD-000464,2025-06-02,South,Electronics,Headphones,Online,5,127.8,0.0,639.0,397.74,241.26
+ORD-000465,2025-01-03,East,Office Supplies,Paper,Retail,10,12.87,0.1,115.83,89.01,26.82
+ORD-000466,2025-12-19,East,Office Supplies,Pens,Online,9,7.36,0.0,66.24,48.59,17.65
+ORD-000467,2025-03-02,South,Office Supplies,Paper,Online,9,11.45,0.0,103.05,67.81,35.24
+ORD-000468,2025-08-06,North,Furniture,Chair,Retail,3,132.84,0.05,378.59,242.11,136.48
+ORD-000469,2025-03-08,East,Furniture,Shelf,Online,5,88.83,0.0,444.15,334.88,109.27
+ORD-000470,2025-12-07,North,Clothing,T-Shirt,Online,4,22.35,0.0,89.4,66.09,23.31
+ORD-000471,2025-09-27,West,Furniture,Chair,Retail,1,132.77,0.05,126.13,81.95,44.18
+ORD-000472,2025-10-21,North,Furniture,Chair,Retail,1,147.03,0.0,147.03,93.41,53.62
+ORD-000473,2025-06-07,North,Office Supplies,Binders,Online,7,14.65,0.0,102.55,57.4,45.15
+ORD-000474,2025-06-20,South,Furniture,Desk,Online,5,258.37,0.0,1291.85,736.91,554.94
+ORD-000475,2025-08-20,South,Office Supplies,Pens,Online,9,7.86,0.0,70.74,39.86,30.88
+ORD-000476,2025-10-14,South,Furniture,Desk,Retail,7,260.89,0.1,1643.61,914.02,729.59
+ORD-000477,2025-11-06,South,Clothing,T-Shirt,Retail,1,21.93,0.0,21.93,12.9,9.03
+ORD-000478,2025-01-07,West,Clothing,Shoes,Retail,9,67.48,0.05,576.95,440.95,136.0
+ORD-000479,2025-08-31,South,Clothing,Shoes,Retail,5,69.16,0.0,345.8,259.19,86.61
+ORD-000480,2025-02-09,South,Office Supplies,Pens,Wholesale,6,8.52,0.05,48.56,36.97,11.59
+ORD-000481,2025-04-16,South,Furniture,Desk,Online,10,260.12,0.1,2341.08,1652.69,688.39
+ORD-000482,2025-10-30,North,Office Supplies,Paper,Online,7,12.8,0.0,89.6,63.26,26.34
+ORD-000483,2025-04-02,East,Clothing,T-Shirt,Online,1,22.18,0.1,19.96,11.6,8.36
+ORD-000484,2025-10-18,North,Office Supplies,Paper,Online,2,12.52,0.05,23.79,17.24,6.55
+ORD-000485,2025-06-18,East,Office Supplies,Paper,Online,5,11.6,0.05,55.1,34.16,20.94
+ORD-000486,2025-03-26,North,Office Supplies,Paper,Wholesale,1,12.56,0.0,12.56,8.54,4.02
+ORD-000487,2025-05-02,West,Office Supplies,Binders,Online,2,14.43,0.05,27.42,21.63,5.79
+ORD-000488,2025-07-13,South,Office Supplies,Paper,Online,8,11.08,0.0,88.64,68.04,20.6
+ORD-000489,2025-10-07,West,Electronics,Headphones,Retail,2,113.49,0.1,204.28,124.26,80.02
+ORD-000490,2025-08-10,South,Furniture,Chair,Wholesale,2,129.29,0.1,232.72,170.85,61.87
+ORD-000491,2025-12-07,North,Office Supplies,Binders,Online,6,16.07,0.0,96.42,55.54,40.88
+ORD-000492,2025-11-13,West,Electronics,Phone,Retail,1,583.2,0.1,524.88,292.19,232.69
+ORD-000493,2025-10-02,East,Clothing,Jacket,Wholesale,3,98.99,0.1,267.27,148.88,118.39
+ORD-000494,2025-08-09,West,Office Supplies,Pens,Online,10,7.5,0.0,75.0,44.44,30.56
+ORD-000495,2025-04-16,South,Electronics,Phone,Retail,7,574.47,0.0,4021.29,2910.36,1110.93
+ORD-000496,2025-05-31,East,Office Supplies,Paper,Online,10,12.47,0.0,124.7,79.91,44.79
+ORD-000497,2025-02-13,West,Office Supplies,Pens,Online,4,7.79,0.0,31.16,17.26,13.9
+ORD-000498,2025-05-17,East,Office Supplies,Paper,Online,7,12.0,0.0,84.0,66.95,17.05
+ORD-000499,2025-12-05,South,Furniture,Shelf,Online,3,87.2,0.1,235.44,160.89,74.55
+ORD-000500,2025-06-05,East,Clothing,T-Shirt,Retail,4,20.32,0.0,81.28,52.71,28.57
+ORD-000501,2025-02-11,East,Furniture,Desk,Wholesale,2,260.06,0.05,494.11,335.85,158.26
+ORD-000502,2025-08-26,West,Office Supplies,Pens,Online,9,8.3,0.05,70.96,48.25,22.71
+ORD-000503,2025-12-18,South,Electronics,Phone,Retail,2,513.06,0.05,974.81,650.74,324.07
+ORD-000504,2025-11-13,South,Office Supplies,Paper,Online,3,11.89,0.0,35.67,25.08,10.59
+ORD-000505,2025-04-11,West,Office Supplies,Pens,Online,5,8.04,0.0,40.2,31.01,9.19
+ORD-000506,2025-06-15,South,Office Supplies,Paper,Retail,5,12.45,0.05,59.14,36.99,22.15
+ORD-000507,2025-07-13,East,Furniture,Desk,Online,4,279.32,0.0,1117.28,750.52,366.76
+ORD-000508,2025-04-01,South,Office Supplies,Binders,Retail,4,15.84,0.0,63.36,34.91,28.45
+ORD-000509,2025-04-09,North,Office Supplies,Pens,Online,3,8.16,0.05,23.26,17.79,5.47
+ORD-000510,2025-03-28,East,Electronics,Headphones,Wholesale,10,121.61,0.0,1216.1,761.86,454.24
+ORD-000511,2025-12-30,North,Clothing,Shoes,Online,6,71.16,0.0,426.96,263.79,163.17
+ORD-000512,2025-09-30,North,Office Supplies,Binders,Online,10,15.11,0.0,151.1,120.79,30.31
+ORD-000513,2025-11-03,East,Clothing,T-Shirt,Retail,10,20.45,0.0,204.5,142.35,62.15
+ORD-000514,2025-10-26,East,Clothing,Shoes,Retail,7,72.22,0.05,480.26,278.92,201.34
+ORD-000515,2025-12-17,West,Clothing,Shoes,Online,9,72.42,0.0,651.78,401.74,250.04
+ORD-000516,2025-02-08,North,Office Supplies,Pens,Wholesale,2,8.02,0.1,14.44,9.22,5.22
+ORD-000517,2025-11-18,North,Office Supplies,Binders,Online,10,15.89,0.1,143.01,113.91,29.1
+ORD-000518,2025-01-25,West,Electronics,Phone,Online,5,554.9,0.0,2774.5,1824.66,949.84
+ORD-000519,2025-06-23,North,Office Supplies,Pens,Online,8,7.82,0.0,62.56,38.01,24.55
+ORD-000520,2025-08-05,North,Office Supplies,Paper,Retail,3,11.08,0.0,33.24,23.02,10.22
+ORD-000521,2025-05-11,South,Office Supplies,Binders,Retail,1,13.94,0.1,12.55,8.17,4.38
+ORD-000522,2025-02-23,East,Clothing,Shoes,Wholesale,9,68.34,0.05,584.31,329.4,254.91
+ORD-000523,2025-03-12,West,Electronics,Laptop,Retail,5,815.03,0.0,4075.15,3118.43,956.72
+ORD-000524,2025-10-29,East,Furniture,Chair,Online,2,132.54,0.0,265.08,146.83,118.25
+ORD-000525,2025-04-27,East,Furniture,Chair,Online,7,133.04,0.0,931.28,721.39,209.89
+ORD-000526,2025-04-24,North,Furniture,Desk,Online,1,248.78,0.0,248.78,186.08,62.7
+ORD-000527,2025-12-04,South,Electronics,Headphones,Retail,5,125.39,0.0,626.95,356.71,270.24
+ORD-000528,2025-02-22,South,Electronics,Headphones,Online,8,125.21,0.0,1001.68,732.13,269.55
+ORD-000529,2025-12-01,North,Clothing,T-Shirt,Retail,8,21.59,,164.08,121.87,42.21
+ORD-000530,2025-12-03,North,Furniture,Chair,Retail,5,132.66,0.0,663.3,464.69,198.61
+ORD-000531,2025-08-07,South,Electronics,Laptop,Retail,4,768.95,0.0,3075.8,2135.89,939.91
+ORD-000532,2025-03-02,North,Electronics,Laptop,Online,9,765.83,0.05,6547.85,3682.65,2865.2
+ORD-000533,2025-02-26,East,Furniture,Shelf,Online,2,83.52,0.1,150.34,84.92,65.42
+ORD-000534,2025-04-14,East,Electronics,Laptop,Wholesale,1,760.38,0.0,760.38,556.46,203.92
+ORD-000535,2025-07-30,North,Office Supplies,Binders,Retail,2,14.6,0.1,26.28,15.15,11.13
+ORD-000536,2025-02-26,South,Office Supplies,Binders,Retail,9,16.11,0.0,144.99,88.51,56.48
+ORD-000537,2025-06-16,West,Electronics,Laptop,Retail,5,820.98,0.1,3694.41,2492.65,1201.76
+ORD-000538,2025-02-12,East,Office Supplies,Binders,Wholesale,1,15.77,0.0,15.77,9.32,6.45
+ORD-000539,2025-07-17,West,Electronics,Laptop,Online,2,771.36,0.05,1465.58,1095.46,370.12
+ORD-000540,2025-01-08,South,Furniture,Chair,Wholesale,1,134.8,0.0,134.8,101.35,33.45
+ORD-000541,2025-09-16,West,Clothing,Shoes,Online,9,75.0,0.1,607.5,462.03,145.47
+ORD-000542,2025-01-21,North,Office Supplies,Binders,Wholesale,5,14.72,0.1,66.24,37.25,28.99
+ORD-000543,2025-03-13,South,Clothing,Shoes,Online,1,71.66,0.0,71.66,47.08,24.58
+ORD-000545,2025-10-31,South,Furniture,Chair,Online,7,141.14,0.0,987.98,633.1,354.88
+ORD-000546,2025-01-20,South,Furniture,Shelf,Wholesale,6,82.35,0.0,494.1,357.71,136.39
+ORD-000547,2025-06-06,North,Furniture,Shelf,Wholesale,9,85.43,0.05,730.43,509.34,221.09
+ORD-000548,2025-08-04,East,Clothing,T-Shirt,Online,1,20.43,0.05,19.41,12.36,7.05
+ORD-000549,2025-07-08,South,Electronics,Phone,Online,1,506.51,0.0,506.51,313.58,192.93
+ORD-000550,2025-09-06,North,Clothing,Shoes,Online,1,64.48,0.0,64.48,45.99,18.49
+ORD-000551,2025-10-21,North,Clothing,T-Shirt,Online,4,23.35,0.1,84.06,49.04,35.02
+ORD-000552,2025-05-24,South,Office Supplies,Binders,Retail,8,15.41,0.0,123.28,94.31,28.97
+ORD-000553,2025-10-30,South,Furniture,Shelf,Online,7,82.26,0.05,547.03,379.7,167.33
+ORD-000554,2025-04-27,South,Furniture,Chair,Wholesale,3,133.75,0.0,401.25,231.87,169.38
+ORD-000555,2025-12-26,North,Electronics,Headphones,Wholesale,7,123.52,,864.64,627.63,237.01
+ORD-000556,2025-07-04,East,Office Supplies,Binders,Online,7,16.01,0.0,112.07,73.72,38.35
+ORD-000557,2025-09-26,West,Furniture,Shelf,Retail,2,82.27,0.0,164.54,98.89,65.65
+ORD-000558,2025-11-16,South,Clothing,Jacket,Wholesale,8,92.29,0.05,701.4,554.29,147.11
+ORD-000559,2025-10-17,East,Office Supplies,Pens,Wholesale,5,8.45,0.0,42.25,30.84,11.41
+ORD-000560,2025-11-07,West,Furniture,Shelf,Retail,1,90.35,0.05,85.83,59.93,25.9
+ORD-000561,2025-07-15,West,Office Supplies,Binders,Online,4,15.99,0.05,60.76,46.31,14.45
+ORD-000562,2025-01-16,East,Furniture,Shelf,Online,8,82.19,0.0,657.52,451.04,206.48
+ORD-000563,2025-06-29,West,Clothing,Jacket,Retail,7,89.23,0.0,624.61,412.47,212.14
+ORD-000564,2025-03-08,West,Electronics,Laptop,Online,3,812.13,0.05,2314.57,1382.64,931.93
+ORD-000565,2025-11-21,West,Clothing,T-Shirt,Retail,8,21.28,0.05,161.73,95.15,66.58
+ORD-000566,2025-03-28,South,Office Supplies,Binders,Retail,4,15.92,0.0,63.68,41.9,21.78
+ORD-000567,2025-03-25,North,Clothing,Jacket,Online,5,87.96,0.0,439.8,292.02,147.78
+ORD-000568,2025-04-02,North,Furniture,Chair,Online,1,143.0,0.05,135.85,99.62,36.23
+ORD-000569,2025-08-23,South,Clothing,T-Shirt,Online,10,23.43,0.0,234.3,154.76,79.54
+ORD-000570,2025-07-28,South,Furniture,Desk,Wholesale,9,279.83,0.05,2392.55,1670.69,721.86
+ORD-000571,2025-12-13,South,Office Supplies,Binders,Online,2,15.36,0.0,30.72,23.29,7.43
+ORD-000572,2025-06-01,East,Electronics,Laptop,Online,6,879.03,0.05,5010.47,4000.03,1010.44
+ORD-000573,2025-04-14,East,Furniture,Desk,Wholesale,8,242.35,0.0,1938.8,1222.67,716.13
+ORD-000574,2025-01-18,West,Furniture,Shelf,Retail,6,83.09,0.05,473.61,367.28,106.33
+ORD-000575,2025-01-03,North,Furniture,Chair,Retail,3,129.0,0.0,387.0,290.84,96.16
+ORD-000576,2025-05-17,North,Furniture,Chair,Wholesale,10,150.78,0.0,1507.8,854.93,652.87
+ORD-000577,2025-12-04,West,Clothing,T-Shirt,Online,3,23.42,0.0,70.26,44.51,25.75
+ORD-000578,2025-07-11,West,Electronics,Laptop,Wholesale,4,758.08,0.05,2880.7,1742.13,1138.57
+ORD-000579,2025-11-23,West,Office Supplies,Pens,Wholesale,4,7.38,0.0,29.52,21.14,8.38
+ORD-000580,2025-02-07,West,Electronics,Phone,Online,9,528.51,0.0,4756.59,3276.46,1480.13
+ORD-000581,2025-02-04,West,Office Supplies,Binders,Online,6,14.42,0.05,82.19,55.37,26.82
+ORD-000582,2025-11-01,South,Office Supplies,Paper,Online,8,12.67,0.0,101.36,75.1,26.26
+ORD-000583,2025-02-08,South,Furniture,Chair,Retail,10,132.39,0.0,1323.9,838.46,485.44
+ORD-000584,2025-01-19,North,Office Supplies,Pens,Retail,10,8.37,0.05,79.51,51.34,28.17
+ORD-000585,2025-05-28,East,Clothing,Shoes,Retail,9,70.61,0.05,603.72,462.7,141.02
+ORD-000586,2025-12-04,West,Office Supplies,Binders,Wholesale,10,14.71,0.1,132.39,104.99,27.4
+ORD-000587,2025-09-09,South,Furniture,Chair,Retail,10,132.06,0.0,1320.6,982.64,337.96
+ORD-000588,2025-02-06,East,Furniture,Shelf,Retail,10,91.77,0.0,917.7,554.54,363.16
+ORD-000589,2025-11-02,South,Office Supplies,Binders,Retail,7,15.28,0.05,101.61,58.75,42.86
+ORD-000590,2025-11-04,North,Electronics,Headphones,Retail,2,118.84,0.0,237.68,143.15,94.53
+ORD-000591,2025-10-20,North,Office Supplies,Binders,Online,2,14.69,0.05,27.91,18.3,9.61
+ORD-000592,2025-11-26,North,Furniture,Chair,Retail,8,149.09,0.0,1192.72,726.57,466.15
+ORD-000593,2025-03-29,West,Office Supplies,Paper,Retail,4,12.62,0.1,45.43,35.22,10.21
+ORD-000594,2025-12-24,South,Electronics,Headphones,Online,9,125.97,0.05,1077.04,772.97,304.07
+ORD-000595,2025-04-28,West,Electronics,Phone,Retail,10,550.04,0.0,5500.4,3598.26,1902.14
+ORD-000596,2025-10-20,East,Clothing,Jacket,Retail,7,100.9,0.0,706.3,436.81,269.49
+ORD-000597,2025-07-31,North,Clothing,Jacket,Online,8,91.95,0.0,735.6,474.58,261.02
+ORD-000598,2025-10-12,North,Clothing,Jacket,Wholesale,3,98.1,0.0,294.3,196.89,97.41
+ORD-000599,2025-08-18,West,Clothing,T-Shirt,Online,5,21.66,0.05,102.88,74.94,27.94
+ORD-000600,2025-08-23,North,Furniture,Desk,Retail,10,264.16,0.0,2641.6,1511.88,1129.72
+ORD-000601,2025-08-13,West,Electronics,Headphones,Retail,9,129.56,0.0,1166.04,888.77,277.27
+ORD-000602,2025-10-12,North,Electronics,Phone,Online,3,581.86,0.0,1745.58,1015.74,729.84
+ORD-000603,2025-09-27,East,Furniture,Desk,Online,10,260.52,0.05,2474.94,1523.6,951.34
+ORD-000604,2025-02-19,West,Electronics,Phone,Online,5,546.38,0.0,2731.9,2181.14,550.76
+ORD-000605,2025-10-29,North,Clothing,T-Shirt,Online,9,23.4,0.0,210.6,125.84,84.76
+ORD-000606,2025-07-15,North,Electronics,Headphones,Retail,6,129.32,0.1,698.33,401.74,296.59
+ORD-000607,2025-04-28,West,Electronics,Phone,Online,7,564.07,0.0,3948.49,2801.85,1146.64
+ORD-000608,2025-07-07,North,Electronics,Phone,Wholesale,2,502.43,0.0,1004.86,651.43,353.43
+ORD-000609,2025-12-19,South,Electronics,Laptop,Online,4,796.73,0.1,2868.23,1643.38,1224.85
+ORD-000610,2025-11-10,South,Electronics,Laptop,Online,8,872.03,0.0,6976.24,3843.46,3132.78
+ORD-000611,2025-11-01,North,Office Supplies,Pens,Wholesale,9,8.34,0.1,67.55,38.49,29.06
+ORD-000612,2025-06-18,East,Furniture,Chair,Retail,1,145.43,0.05,138.16,94.04,44.12
+ORD-000613,2025-10-14,East,Office Supplies,Paper,Retail,1,12.32,0.05,11.7,7.11,4.59
+ORD-000614,2025-05-21,South,Clothing,T-Shirt,Retail,7,21.7,0.0,151.9,113.07,38.83
+ORD-000615,2025-09-08,West,Office Supplies,Pens,Wholesale,5,7.88,0.0,39.4,30.12,9.28
+ORD-000616,2025-08-22,North,Office Supplies,Paper,Online,9,12.59,0.0,113.31,66.42,46.89
+ORD-000617,2025-04-02,North,Furniture,Shelf,Online,1,82.2,0.0,82.2,52.14,30.06
+ORD-000618,2025-04-08,East,Electronics,Laptop,Wholesale,4,844.25,0.0,3377.0,1981.1,1395.9
+ORD-000619,2025-01-23,West,Furniture,Shelf,Online,1,88.08,0.0,88.08,54.76,33.32
+ORD-000620,2025-02-21,North,Clothing,Jacket,Retail,8,100.24,0.05,761.82,464.56,297.26
+ORD-000621,2025-06-08,North,Office Supplies,Pens,Retail,9,7.77,0.0,69.93,52.22,17.71
+ORD-000622,2025-06-24,South,Electronics,Phone,Retail,2,560.9,0.05,1065.71,678.19,387.52
+ORD-000623,2025-03-02,West,Furniture,Shelf,Retail,4,79.65,0.1,286.74,193.23,93.51
+ORD-000624,2025-06-02,North,Clothing,Jacket,Wholesale,9,89.5,0.05,765.22,549.79,215.43
+ORD-000625,2025-08-09,South,Office Supplies,Binders,Online,1,14.8,0.05,14.06,10.62,3.44
+ORD-000626,2025-03-26,East,Office Supplies,Pens,Retail,10,7.43,0.05,70.58,44.13,26.45
+ORD-000627,2025-05-04,South,Clothing,Jacket,Retail,9,101.81,0.0,916.29,551.89,364.4
+ORD-000628,2025-05-15,North,Office Supplies,Pens,Online,2,8.51,0.0,17.02,13.52,3.5
+ORD-000629,2025-07-04,North,Office Supplies,Binders,Wholesale,2,13.92,0.1,25.06,15.79,9.27
+ORD-000630,2025-05-14,South,Electronics,Phone,Retail,7,569.23,0.05,3785.38,2717.02,1068.36
+ORD-000631,2025-09-26,South,Electronics,Laptop,Online,1,821.16,0.05,780.1,561.25,218.85
+ORD-000632,2025-04-30,West,Clothing,Shoes,Wholesale,6,72.26,0.1,390.2,264.75,125.45
+ORD-000633,2025-06-08,East,Office Supplies,Pens,Wholesale,1,8.5,0.0,8.5,5.16,3.34
+ORD-000634,2025-05-19,East,Furniture,Desk,Online,6,263.2,0.0,1579.2,924.41,654.79
+ORD-000635,2025-03-08,West,Office Supplies,Paper,Retail,4,11.26,0.05,42.79,28.74,14.05
+ORD-000636,2025-09-08,South,Electronics,Headphones,Online,8,110.45,0.0,883.6,598.84,284.76
+ORD-000637,2025-03-27,South,Clothing,Jacket,Online,9,94.95,0.0,854.55,635.22,219.33
+ORD-000638,2025-04-19,West,Electronics,Phone,Online,5,578.81,0.05,2749.35,2000.04,749.31
+ORD-000639,2025-10-17,North,Office Supplies,Binders,Wholesale,7,15.17,0.05,100.88,78.49,22.39
+ORD-000640,2025-12-13,East,Office Supplies,Paper,Online,7,11.76,0.0,82.32,65.26,17.06
+ORD-000641,2025-09-02,East,Electronics,Phone,Online,10,499.47,0.05,4744.96,3473.13,1271.83
+ORD-000642,2025-12-01,North,Electronics,Laptop,Retail,3,874.45,0.0,2623.35,1493.02,1130.33
+ORD-000643,2025-11-08,South,Office Supplies,Binders,Online,3,14.59,0.1,39.39,25.65,13.74
+ORD-000644,2025-06-25,North,Electronics,Phone,Online,4,557.69,0.0,2230.76,1566.44,664.32
+ORD-000645,2025-10-09,North,Electronics,Headphones,Online,8,123.73,0.1,890.86,621.42,269.44
+ORD-000646,2025-04-30,South,Office Supplies,Binders,Retail,9,14.41,0.0,129.69,77.21,52.48
+ORD-000647,2025-06-18,South,Furniture,Chair,Retail,3,130.23,0.0,390.69,271.82,118.87
+ORD-000648,2025-07-15,West,Furniture,Desk,Retail,2,255.22,0.0,510.44,325.36,185.08
+ORD-000649,2025-12-17,West,Electronics,Phone,Online,7,524.2,0.0,3669.4,2329.08,1340.32
+ORD-000650,2025-11-06,West,Clothing,Jacket,Retail,6,98.04,0.0,588.24,446.18,142.06
+ORD-000651,2025-06-28,North,Electronics,Phone,Retail,4,567.63,0.05,2156.99,1413.87,743.12
+ORD-000652,2025-08-27,North,Electronics,Laptop,Online,2,783.58,0.05,1488.8,1015.14,473.66
+ORD-000653,2025-03-15,North,Furniture,Shelf,Online,9,85.38,0.0,768.42,530.76,237.66
+ORD-000654,2025-10-21,North,Electronics,Phone,Online,9,500.31,0.05,4277.65,2954.78,1322.87
+ORD-000655,2025-07-21,West,Furniture,Desk,Online,8,248.11,0.1,1786.39,1077.69,708.7
+ORD-000656,2025-07-14,South,Electronics,Headphones,Online,6,125.03,0.05,712.67,498.77,213.9
+ORD-000657,2025-10-07,North,Electronics,Headphones,Wholesale,3,125.63,0.0,376.89,238.82,138.07
+ORD-000658,2025-08-20,West,Furniture,Chair,Retail,5,146.19,0.0,730.95,521.72,209.23
+ORD-000659,2025-01-27,South,Clothing,Jacket,Retail,1,89.56,0.1,80.6,47.27,33.33
+ORD-000660,2025-04-16,North,Electronics,Phone,Online,3,544.41,0.0,1633.23,1304.18,329.05
+ORD-000661,2025-03-06,North,Electronics,Phone,Retail,5,533.32,0.0,2666.6,1981.31,685.29
+ORD-000662,2025-09-26,East,Clothing,T-Shirt,Retail,5,23.73,0.05,112.72,73.75,38.97
+ORD-000663,2025-01-13,West,Clothing,Jacket,Wholesale,1,97.34,0.0,97.34,60.87,36.47
+ORD-000664,2025-03-15,North,Office Supplies,Binders,Online,10,16.04,0.05,152.38,98.58,53.8
+ORD-000665,2025-08-07,West,Electronics,Laptop,Retail,3,773.47,0.0,2320.41,1694.6,625.81
+ORD-000666,2025-09-11,West,Furniture,Desk,Online,6,257.96,0.05,1470.37,1049.63,420.74
+ORD-000667,2025-07-03,West,Electronics,Phone,Retail,5,563.47,0.1,2535.62,1839.65,695.97
+ORD-000668,2025-11-11,North,Electronics,Laptop,Wholesale,5,802.66,,3611.97,2789.34,822.63
+ORD-000669,2025-12-02,North,Furniture,Chair,Retail,9,142.97,0.1,1158.06,769.04,389.02
+ORD-000670,2025-02-18,West,Office Supplies,Pens,Retail,8,8.01,0.1,57.67,41.37,16.3
+ORD-000671,2025-12-14,South,Furniture,Desk,Wholesale,9,280.46,0.0,2524.14,1666.88,857.26
+ORD-000672,2025-08-13,East,Office Supplies,Binders,Wholesale,4,14.22,0.1,51.19,36.32,14.87
+ORD-000673,2025-08-21,East,Electronics,Laptop,Online,3,877.12,0.1,2368.22,1583.64,784.58
+ORD-000674,2025-02-04,North,Furniture,Shelf,Online,5,83.66,0.0,418.3,311.28,107.02
+ORD-000675,2025-08-15,West,Office Supplies,Binders,Retail,6,14.92,0.0,89.52,49.35,40.17
+ORD-000676,2025-09-22,West,Clothing,Shoes,Wholesale,4,70.32,0.0,281.28,169.87,111.41
+ORD-000677,2025-07-31,East,Furniture,Desk,Retail,5,250.24,0.0,1251.2,780.89,470.31
+ORD-000678,2025-01-31,South,Office Supplies,Binders,Online,2,16.11,0.05,30.61,24.07,6.54
+ORD-000679,2025-07-10,West,Electronics,Laptop,Retail,6,873.99,0.0,5243.94,3548.9,1695.04
+ORD-000680,2025-12-08,East,Electronics,Laptop,Online,8,882.05,0.0,7056.4,4523.77,2532.63
+ORD-000681,2025-09-22,East,Office Supplies,Binders,Online,6,16.19,0.0,97.14,63.25,33.89
+ORD-000682,2025-02-20,West,Electronics,Phone,Online,9,554.67,0.0,4992.03,3309.49,1682.54
+ORD-000683,2025-12-17,East,Furniture,Shelf,Online,10,84.34,0.1,759.06,582.17,176.89
+ORD-000684,2025-12-16,South,Furniture,Desk,Retail,10,274.59,0.0,2745.9,2170.86,575.04
+ORD-000686,2025-10-20,North,Electronics,Headphones,Online,9,126.42,0.0,1137.78,865.18,272.6
+ORD-000687,2025-05-29,South,Furniture,Shelf,Retail,4,84.96,0.1,305.86,183.44,122.42
+ORD-000688,2025-08-05,South,Clothing,Shoes,Online,5,71.94,0.1,323.73,199.8,123.93
+ORD-000689,2025-06-12,East,Office Supplies,Binders,Online,5,14.7,0.0,73.5,51.38,22.12
+ORD-000690,2025-10-13,South,Furniture,Desk,Online,3,254.53,0.0,763.59,545.23,218.36
+ORD-000691,2025-12-30,West,Electronics,Phone,Online,9,499.54,0.0,4495.86,2700.56,1795.3
+ORD-000692,2025-10-18,West,Office Supplies,Paper,Retail,7,11.85,0.0,82.95,61.1,21.85
+ORD-000693,2025-12-06,North,Electronics,Headphones,Online,10,118.24,0.05,1123.28,673.96,449.32
+ORD-000694,2025-12-12,East,Office Supplies,Binders,Online,10,14.34,0.0,143.4,88.3,55.1
+ORD-000695,2025-02-02,East,Office Supplies,Binders,Online,5,14.39,0.0,71.95,45.09,26.86
+ORD-000696,2025-04-03,East,Furniture,Shelf,Online,8,86.14,0.0,689.12,524.76,164.36
+ORD-000697,2025-09-21,North,Electronics,Laptop,Online,6,796.09,0.0,4776.54,3501.3,1275.24
+ORD-000698,2025-08-04,West,Electronics,Phone,Online,5,568.53,0.0,2842.65,1940.6,902.05
+ORD-000699,2025-01-19,West,Electronics,Headphones,Online,8,112.54,0.0,900.32,679.69,220.63
+ORD-000700,2025-02-04,East,Furniture,Desk,Online,7,263.23,0.0,1842.61,1387.91,454.7
+ORD-000701,2025-07-09,West,Clothing,Shoes,Wholesale,10,66.19,0.0,661.9,428.55,233.35
+ORD-000702,2025-08-13,West,Electronics,Headphones,Online,8,120.54,0.0,964.32,718.76,245.56
+ORD-000703,2025-03-03,South,Office Supplies,Pens,Online,7,8.07,0.1,50.84,30.58,20.26
+ORD-000704,2025-03-04,East,Office Supplies,Binders,Retail,10,15.34,0.0,153.4,103.67,49.73
+ORD-000705,2025-02-17,South,Electronics,Phone,Online,2,533.73,0.0,1067.46,618.66,448.8
+ORD-000706,2025-07-26,West,Electronics,Phone,Retail,8,540.82,0.0,4326.56,2841.25,1485.31
+ORD-000707,2025-01-03,North,Furniture,Chair,Online,4,132.85,0.05,504.83,343.33,161.5
+ORD-000708,2025-07-28,South,Office Supplies,Pens,Retail,5,7.95,0.1,35.78,20.39,15.39
+ORD-000709,2025-06-23,West,Furniture,Shelf,Wholesale,8,83.27,0.05,632.85,421.26,211.59
+ORD-000710,2025-06-20,South,Office Supplies,Binders,Online,3,15.4,0.05,43.89,31.29,12.6
+ORD-000711,2025-09-05,West,Clothing,Jacket,Online,9,94.01,0.05,803.79,565.48,238.31
+ORD-000712,2025-07-10,South,Office Supplies,Binders,Retail,5,15.67,0.0,78.35,44.16,34.19
+ORD-000713,2025-09-23,West,Clothing,Shoes,Wholesale,4,69.17,0.1,249.01,142.89,106.12
+ORD-000714,2025-10-06,West,Office Supplies,Pens,Online,4,7.66,0.05,29.11,18.57,10.54
+ORD-000715,2025-12-02,South,Clothing,Jacket,Retail,5,91.56,0.0,457.8,348.24,109.56
+ORD-000716,2025-10-19,East,Clothing,Shoes,Online,10,64.91,0.0,649.1,498.14,150.96
+ORD-000717,2025-07-08,South,Office Supplies,Pens,Retail,2,8.05,0.0,16.1,10.1,6.0
+ORD-000718,2025-06-29,East,Office Supplies,Pens,Online,6,8.42,0.0,50.52,36.87,13.65
+ORD-000719,2025-03-28,East,Clothing,Jacket,Retail,9,99.09,0.05,847.22,588.27,258.95
+ORD-000720,2025-08-07,West,Furniture,Shelf,Online,5,84.15,0.0,420.75,334.86,85.89
+ORD-000721,2025-02-20,North,Office Supplies,Pens,Retail,6,7.61,0.05,43.38,24.89,18.49
+ORD-000722,2025-12-06,North,Furniture,Chair,Online,4,148.14,0.1,533.3,366.36,166.94
+ORD-000723,2025-11-05,East,Clothing,Jacket,Retail,2,88.26,0.0,176.52,123.23,53.29
+ORD-000724,2025-02-13,East,Furniture,Desk,Retail,7,255.81,0.0,1790.67,1122.6,668.07
+ORD-000725,2025-10-14,South,Office Supplies,Binders,Wholesale,10,15.86,,150.67,84.64,66.03
+ORD-000726,2025-02-12,North,Office Supplies,Paper,Wholesale,6,11.79,0.05,67.2,37.84,29.36
+ORD-000727,2025-09-21,South,Clothing,T-Shirt,Retail,5,20.65,0.0,103.25,68.5,34.75
+ORD-000728,2025-02-02,West,Electronics,Headphones,Retail,2,115.51,0.0,231.02,167.05,63.97
+ORD-000729,2025-06-28,North,Office Supplies,Pens,Online,10,8.13,0.05,77.24,56.0,21.24
+ORD-000730,2025-08-29,South,Office Supplies,Binders,Wholesale,9,14.16,0.1,114.7,68.27,46.43
+ORD-000731,2025-09-24,West,Clothing,Shoes,Retail,10,71.74,0.0,717.4,548.45,168.95
+ORD-000732,2025-06-02,North,Clothing,T-Shirt,Online,4,21.78,0.0,87.12,56.13,30.99
+ORD-000733,2025-12-03,East,Office Supplies,Paper,Online,7,11.68,0.1,73.58,58.21,15.37
+ORD-000734,2025-10-10,North,Office Supplies,Pens,Retail,5,7.67,0.0,38.35,22.23,16.12
+ORD-000735,2025-03-18,West,Electronics,Phone,Wholesale,3,567.94,0.0,1703.82,1293.39,410.43
+ORD-000736,2025-09-02,East,Clothing,T-Shirt,Wholesale,3,21.64,0.0,64.92,50.45,14.47
+ORD-000737,2025-09-24,West,Electronics,Laptop,Retail,4,851.29,0.0,3405.16,2573.17,831.99
+ORD-000738,2025-05-02,North,Office Supplies,Binders,Online,6,14.86,0.0,89.16,67.07,22.09
+ORD-000739,2025-09-27,East,Office Supplies,Paper,Wholesale,2,11.22,0.05,21.32,13.65,7.67
+ORD-000740,2025-11-24,East,Furniture,Desk,Retail,8,257.53,0.05,1957.23,1425.52,531.71
+ORD-000741,2025-10-26,North,Electronics,Phone,Retail,5,540.66,0.0,2703.3,1878.35,824.95
+ORD-000742,2025-10-06,North,Electronics,Laptop,Retail,9,814.47,0.0,7330.23,4809.51,2520.72
+ORD-000743,2025-08-20,North,Clothing,Shoes,Retail,3,73.54,0.0,220.62,176.12,44.5
+ORD-000744,2025-04-09,West,Furniture,Shelf,Retail,1,90.59,0.05,86.06,53.58,32.48
+ORD-000745,2025-10-18,East,Electronics,Headphones,Retail,4,125.51,0.05,476.94,311.58,165.36
+ORD-000746,2025-05-13,East,Office Supplies,Paper,Wholesale,10,12.16,0.05,115.52,89.61,25.91
+ORD-000747,2025-07-14,East,Electronics,Phone,Wholesale,4,543.58,0.05,2065.6,1285.32,780.28
+ORD-000748,2025-04-25,East,Clothing,Shoes,Online,8,71.62,0.1,515.66,303.3,212.36
+ORD-000749,2025-04-25,South,Furniture,Desk,Online,9,251.17,0.05,2147.5,1347.56,799.94
+ORD-000750,2025-02-27,South,Electronics,Phone,Retail,3,566.94,0.0,1700.82,1258.31,442.51
+ORD-000751,2025-12-17,East,Electronics,Phone,Retail,7,570.83,0.1,3596.23,2750.98,845.25
+ORD-000752,2025-02-23,North,Furniture,Shelf,Retail,3,81.83,0.1,220.94,127.84,93.1
+ORD-000753,2025-02-01,West,Furniture,Desk,Wholesale,4,276.76,0.0,1107.04,780.94,326.1
+ORD-000754,2025-12-08,West,Office Supplies,Paper,Online,3,12.67,0.0,38.01,26.3,11.71
+ORD-000755,2025-07-22,South,Furniture,Shelf,Online,7,83.97,0.05,558.4,400.48,157.92
+ORD-000756,2025-06-09,East,Furniture,Shelf,Wholesale,9,90.56,0.0,815.04,585.01,230.03
+ORD-000757,2025-09-27,North,Electronics,Laptop,Wholesale,3,770.2,0.05,2195.07,1733.81,461.26
+ORD-000758,2025-05-20,West,Electronics,Laptop,Online,3,758.07,0.0,2274.21,1447.84,826.37
+ORD-000759,2025-02-16,West,Clothing,Shoes,Online,9,68.3,0.0,614.7,384.15,230.55
+ORD-000760,2025-09-24,West,Electronics,Headphones,Online,5,121.26,0.0,606.3,421.56,184.74
+ORD-000761,2025-03-06,South,Clothing,Jacket,Retail,6,92.74,0.1,500.8,329.2,171.6
+ORD-000762,2025-07-21,North,Furniture,Desk,Retail,8,278.39,0.0,2227.12,1488.69,738.43
+ORD-000763,2025-12-13,North,Electronics,Headphones,Online,2,115.29,,219.05,124.27,94.78
+ORD-000764,2025-12-08,North,Electronics,Headphones,Online,9,115.8,0.0,1042.2,611.83,430.37
+ORD-000765,2025-05-12,North,Electronics,Headphones,Retail,4,122.59,0.0,490.36,384.37,105.99
+ORD-000766,2025-10-12,North,Office Supplies,Binders,Retail,7,13.81,0.0,96.67,54.82,41.85
+ORD-000767,2025-08-12,West,Furniture,Shelf,Retail,5,88.09,0.0,440.45,307.23,133.22
+ORD-000768,2025-06-24,North,Furniture,Desk,Online,8,254.9,0.05,1937.24,1430.93,506.31
+ORD-000769,2025-02-21,North,Office Supplies,Paper,Online,7,12.92,0.05,85.92,47.51,38.41
+ORD-000770,2025-05-18,West,Office Supplies,Paper,Online,2,12.37,0.0,24.74,14.98,9.76
+ORD-000771,2025-08-26,East,Clothing,Jacket,Wholesale,2,88.19,,176.38,113.64,62.74
+ORD-000772,2025-12-27,East,Clothing,T-Shirt,Online,9,20.57,0.05,175.87,119.01,56.86
+ORD-000773,2025-01-02,East,Office Supplies,Pens,Retail,6,7.47,0.05,42.58,27.06,15.52
+ORD-000774,2025-09-19,West,Office Supplies,Paper,Retail,3,12.87,0.0,38.61,27.5,11.11
+ORD-000775,2025-11-05,East,Office Supplies,Paper,Wholesale,2,12.35,0.05,23.46,14.23,9.23
+ORD-000776,2025-12-14,East,Furniture,Desk,Online,2,256.99,0.0,513.98,285.96,228.02
+ORD-000777,2025-06-04,East,Office Supplies,Pens,Online,10,7.62,0.0,76.2,41.94,34.26
+ORD-000778,2025-02-13,South,Electronics,Phone,Wholesale,10,572.28,0.05,5436.66,3459.77,1976.89
+ORD-000779,2025-04-09,South,Office Supplies,Paper,Online,4,11.43,0.05,43.43,27.81,15.62
+ORD-000780,2025-11-07,South,Clothing,T-Shirt,Retail,3,22.73,0.05,64.78,50.99,13.79
+ORD-000781,2025-11-17,North,Electronics,Laptop,Online,5,854.55,0.0,4272.75,2397.85,1874.9
+ORD-000782,2025-08-21,West,Clothing,Shoes,Wholesale,2,67.7,0.0,135.4,92.41,42.99
+ORD-000783,2025-02-14,North,Clothing,Shoes,Retail,6,70.06,0.05,399.34,277.32,122.02
+ORD-000784,2025-02-14,North,Electronics,Phone,Online,7,516.07,0.0,3612.49,2618.4,994.09
+ORD-000785,2025-06-24,North,Office Supplies,Binders,Wholesale,10,14.71,0.0,147.1,104.39,42.71
+ORD-000786,2025-08-03,West,Clothing,T-Shirt,Retail,4,23.64,0.05,89.83,49.59,40.24
+ORD-000787,2025-01-12,South,Clothing,Jacket,Retail,2,97.94,0.0,195.88,138.68,57.2
+ORD-000788,2025-09-08,East,Electronics,Phone,Online,2,569.95,0.0,1139.9,718.82,421.08
+ORD-000789,2025-07-18,West,Furniture,Desk,Online,4,261.69,0.0,1046.76,777.97,268.79
+ORD-000790,2025-01-05,North,Office Supplies,Pens,Retail,7,7.67,0.1,48.32,28.85,19.47
+ORD-000791,2025-02-04,East,Electronics,Phone,Online,1,558.39,0.0,558.39,407.1,151.29
+ORD-000792,2025-06-15,South,Furniture,Chair,Wholesale,8,140.01,0.0,1120.08,791.2,328.88
+ORD-000793,2025-09-21,North,Electronics,Laptop,Online,5,777.6,0.0,3888.0,2772.43,1115.57
+ORD-000794,2025-10-29,East,Electronics,Laptop,Retail,8,808.51,0.0,6468.08,3841.95,2626.13
+ORD-000795,2025-06-07,West,Office Supplies,Paper,Online,5,12.26,0.0,61.3,43.97,17.33
+ORD-000796,2025-04-18,South,Office Supplies,Paper,Retail,2,12.45,0.05,23.65,17.36,6.29
+ORD-000797,2025-12-20,East,Office Supplies,Pens,Online,1,7.67,0.0,7.67,5.16,2.51
+ORD-000798,2025-06-17,South,Office Supplies,Binders,Online,6,15.9,0.0,95.4,60.59,34.81
+ORD-000799,2025-04-26,East,Furniture,Desk,Online,6,254.99,0.0,1529.94,905.17,624.77
+ORD-000800,2025-06-11,East,Electronics,Laptop,Retail,9,789.97,0.0,7109.73,4425.74,2683.99
+ORD-000801,2025-01-05,East,Electronics,Phone,Online,9,513.66,0.0,4622.94,3425.4,1197.54
+ORD-000802,2025-04-21,East,Electronics,Headphones,Retail,2,125.84,0.05,239.1,155.98,83.12
+ORD-000803,2025-07-08,North,Furniture,Desk,Online,4,253.93,0.05,964.93,700.23,264.7
+ORD-000804,2025-12-02,East,Electronics,Laptop,Retail,3,817.82,0.05,2330.79,1713.18,617.61
+ORD-000805,2025-09-27,East,Electronics,Phone,Retail,2,516.05,0.0,1032.1,741.61,290.49
+ORD-000806,2025-10-13,East,Electronics,Phone,Online,1,556.08,0.1,500.47,359.53,140.94
+ORD-000807,2025-07-18,North,Office Supplies,Binders,Online,1,15.67,0.05,14.89,10.46,4.43
+ORD-000808,2025-02-10,South,Office Supplies,Paper,Online,6,11.69,0.0,70.14,47.67,22.47
+ORD-000809,2025-05-23,South,Clothing,Jacket,Retail,2,101.77,0.0,203.54,122.01,81.53
+ORD-000810,2025-12-30,North,Office Supplies,Pens,Wholesale,2,7.4,0.05,14.06,10.7,3.36
+ORD-000811,2025-01-17,North,Office Supplies,Pens,Online,2,7.53,0.0,15.06,11.91,3.15
+ORD-000812,2025-11-17,South,Electronics,Headphones,Retail,8,121.7,0.0,973.6,649.02,324.58
+ORD-000813,2025-09-07,East,Office Supplies,Pens,Retail,7,8.26,0.05,54.93,43.03,11.9
+ORD-000814,2025-04-14,North,Electronics,Phone,Retail,10,518.46,0.0,5184.6,4145.08,1039.52
+ORD-000815,2025-10-11,West,Furniture,Desk,Retail,2,262.25,0.1,472.05,317.0,155.05
+ORD-000816,2025-11-02,East,Furniture,Desk,Wholesale,3,252.44,0.0,757.32,553.67,203.65
+ORD-000817,2025-01-16,East,Furniture,Shelf,Retail,5,85.74,0.0,428.7,304.78,123.92
+ORD-000818,2025-02-08,South,Electronics,Laptop,Wholesale,7,840.9,0.0,5886.3,3586.62,2299.68
+ORD-000819,2025-08-31,South,Office Supplies,Pens,Online,2,8.61,0.0,17.22,9.67,7.55
+ORD-000820,2025-12-31,East,Clothing,T-Shirt,Wholesale,3,21.84,0.1,58.97,39.12,19.85
+ORD-000821,2025-01-09,West,Office Supplies,Binders,Wholesale,5,15.36,0.05,72.96,54.49,18.47
+ORD-000822,2025-08-31,South,Office Supplies,Paper,Wholesale,1,12.15,0.1,10.94,6.91,4.03
+ORD-000823,2025-02-19,East,Office Supplies,Paper,Online,4,11.65,0.0,46.6,34.77,11.83
+ORD-000824,2025-08-26,East,Electronics,Headphones,Wholesale,8,115.26,0.0,922.08,658.09,263.99
+ORD-000825,2025-08-16,East,Office Supplies,Binders,Online,6,16.17,0.0,97.02,70.23,26.79
+ORD-000826,2025-02-03,North,Office Supplies,Paper,Retail,5,11.44,0.0,57.2,35.55,21.65
+ORD-000827,2025-09-06,South,Electronics,Phone,Online,5,565.08,0.1,2542.86,1697.39,845.47
+ORD-000828,2025-11-24,South,Furniture,Desk,Retail,10,245.3,0.0,2453.0,1460.58,992.42
+ORD-000829,2025-11-12,West,Clothing,T-Shirt,Online,6,23.07,0.0,138.42,84.66,53.76
+ORD-000830,2025-01-11,South,Office Supplies,Binders,Online,6,14.25,0.0,85.5,48.95,36.55
+ORD-000831,2025-03-31,South,Furniture,Desk,Online,-10,279.43,0.05,-2654.58,-1544.15,-1110.43
+ORD-000832,2025-03-29,West,Office Supplies,Pens,Online,2,8.24,0.0,16.48,9.93,6.55
+ORD-000833,2025-06-15,South,Furniture,Chair,Online,1,130.82,0.05,124.28,86.38,37.9
+ORD-000834,2025-02-22,North,Furniture,Desk,Wholesale,5,268.04,0.05,1273.19,840.69,432.5
+ORD-000835,2025-11-08,North,Electronics,Laptop,Retail,4,833.6,0.05,3167.68,1953.62,1214.06
+ORD-000836,2025-10-11,North,Furniture,Shelf,Retail,3,82.79,0.0,248.37,190.07,58.3
+ORD-000837,2025-10-23,North,Office Supplies,Pens,Wholesale,2,7.69,0.0,15.38,10.48,4.9
+ORD-000838,2025-03-14,South,Electronics,Laptop,Online,9,848.7,0.0,7638.3,5963.81,1674.49
+ORD-000839,2025-01-06,East,Office Supplies,Paper,Retail,7,12.46,0.1,78.5,55.64,22.86
+ORD-000840,2025-11-29,East,Electronics,Phone,Retail,7,525.07,0.1,3307.94,1832.42,1475.52
+ORD-000841,2025-04-16,North,Office Supplies,Binders,Online,2,15.9,0.0,31.8,24.75,7.05
+ORD-000842,2025-08-28,East,Office Supplies,Pens,Retail,4,7.7,0.0,30.8,23.54,7.26
+ORD-000843,2025-11-28,North,Office Supplies,Binders,Retail,7,13.97,0.0,97.79,69.32,28.47
+ORD-000844,2025-01-14,West,Office Supplies,Pens,Retail,6,8.13,,46.34,31.68,14.66
+ORD-000845,2025-01-02,North,Clothing,T-Shirt,Retail,7,20.62,,144.34,95.73,48.61
+ORD-000846,2025-01-02,East,Furniture,Shelf,Online,7,81.96,0.0,573.72,384.7,189.02
+ORD-000847,2025-02-27,South,Office Supplies,Paper,Retail,5,12.01,0.05,57.05,42.35,14.7
+ORD-000848,2025-01-19,East,Office Supplies,Paper,Online,8,11.59,0.0,92.72,62.89,29.83
+ORD-000849,2025-10-27,South,Electronics,Headphones,Wholesale,3,114.53,0.0,343.59,204.09,139.5
+ORD-000850,2025-08-10,East,Electronics,Headphones,Online,1,123.9,0.0,123.9,69.95,53.95
+ORD-000851,2025-12-24,North,Furniture,Desk,Retail,10,261.96,0.0,2619.6,1523.42,1096.18
+ORD-000852,2025-10-20,West,Electronics,Phone,Retail,1,569.36,0.05,540.89,331.49,209.4
+ORD-000853,2025-12-18,South,Furniture,Shelf,Online,3,86.1,0.0,258.3,165.81,92.49
+ORD-000854,2025-03-29,East,Furniture,Shelf,Online,2,84.77,0.0,169.54,131.07,38.47
+ORD-000855,2025-04-16,West,Office Supplies,Paper,Online,3,11.54,0.0,34.62,21.11,13.51
+ORD-000856,2025-11-07,West,Electronics,Headphones,Retail,4,125.61,0.0,502.44,316.49,185.95
+ORD-000857,2025-03-31,North,Office Supplies,Pens,Wholesale,2,7.61,0.05,14.46,8.76,5.7
+ORD-000858,2025-01-21,South,Furniture,Shelf,Online,5,81.49,0.05,387.08,265.71,121.37
+ORD-000859,2025-09-02,North,Office Supplies,Paper,Retail,10,12.66,0.0,126.6,89.16,37.44
+ORD-000860,2025-10-20,North,Electronics,Phone,Wholesale,2,560.84,0.0,1121.68,766.14,355.54
+ORD-000861,2025-12-20,East,Furniture,Desk,Retail,10,264.7,0.0,2647.0,2085.74,561.26
+ORD-000862,2025-12-05,West,Electronics,Phone,Wholesale,5,500.16,0.0,2500.8,1997.75,503.05
+ORD-000863,2025-02-13,West,Office Supplies,Paper,Online,6,11.28,,67.68,51.39,16.29
+ORD-000864,2025-10-09,East,Furniture,Chair,Online,5,140.0,0.1,630.0,473.33,156.67
+ORD-000865,2025-11-05,East,Clothing,T-Shirt,Online,4,22.87,0.0,91.48,58.69,32.79
+ORD-000866,2025-09-12,West,Furniture,Chair,Online,2,139.2,0.0,278.4,193.47,84.93
+ORD-000867,2025-10-27,West,Office Supplies,Paper,Retail,6,11.07,0.0,66.42,42.37,24.05
+ORD-000868,2025-11-02,North,Electronics,Phone,Wholesale,10,512.72,0.05,4870.84,3634.08,1236.76
+ORD-000869,2025-06-12,East,Office Supplies,Pens,Online,6,8.11,0.0,48.66,28.85,19.81
+ORD-000870,2025-01-15,West,Furniture,Shelf,Wholesale,6,87.64,0.1,473.26,285.93,187.33
+ORD-000871,2025-06-16,South,Furniture,Desk,Online,7,240.59,0.0,1684.13,942.56,741.57
+ORD-000872,2025-03-15,South,Electronics,Laptop,Online,4,760.09,0.05,2888.34,2028.29,860.05
+ORD-000873,2025-02-11,West,Electronics,Phone,Wholesale,2,519.38,0.05,986.82,712.62,274.2
+ORD-000874,2025-02-15,West,Electronics,Headphones,Wholesale,6,112.0,0.0,672.0,370.16,301.84
+ORD-000875,2025-09-12,West,Clothing,Shoes,Retail,9,70.47,0.0,634.23,429.82,204.41
+ORD-000876,2025-07-04,West,Furniture,Desk,Online,4,244.35,0.0,977.4,629.66,347.74
+ORD-000877,2025-07-17,North,Electronics,Laptop,Online,9,839.45,0.05,7177.3,5369.3,1808.0
+ORD-000878,2025-09-29,South,Clothing,T-Shirt,Online,9,22.98,0.1,186.14,104.19,81.95
+ORD-000879,2025-07-20,East,Electronics,Headphones,Retail,3,129.03,0.0,387.09,217.6,169.49
+ORD-000880,2025-08-18,East,Furniture,Desk,Online,6,278.65,0.0,1671.9,1178.78,493.12
+ORD-000881,2025-02-01,South,Office Supplies,Paper,Retail,8,11.56,0.0,92.48,64.54,27.94
+ORD-000882,2025-11-07,East,Clothing,Jacket,Online,5,87.85,0.0,439.25,332.85,106.4
+ORD-000883,2025-06-13,South,Office Supplies,Pens,Retail,7,7.78,0.05,51.74,36.12,15.62
+ORD-000884,2025-02-26,East,Furniture,Shelf,Online,10,87.84,0.0,878.4,691.6,186.8
+ORD-000885,2025-10-24,South,Clothing,Jacket,Retail,7,88.31,0.0,618.17,388.58,229.59
+ORD-000886,2025-09-26,South,Electronics,Headphones,Retail,9,117.31,0.1,950.21,617.14,333.07
+ORD-000887,2025-01-20,North,Clothing,Jacket,Wholesale,9,91.93,0.05,786.0,624.41,161.59
+ORD-000888,2025-03-12,North,Clothing,T-Shirt,Wholesale,9,21.01,0.05,179.64,103.63,76.01
+ORD-000889,2025-01-06,West,Clothing,Jacket,Retail,9,98.13,0.0,883.17,661.47,221.7
+ORD-000890,2025-04-09,South,Electronics,Headphones,Online,3,123.05,0.1,332.24,183.69,148.55
+ORD-000891,2025-02-06,North,Electronics,Phone,Wholesale,1,543.07,0.0,543.07,364.74,178.33
+ORD-000892,2025-09-17,East,Office Supplies,Paper,Wholesale,2,12.79,0.0,25.58,15.05,10.53
+ORD-000893,2025-07-10,East,Furniture,Desk,Wholesale,3,243.49,0.0,730.47,511.12,219.35
+ORD-000894,2025-12-24,North,Office Supplies,Binders,Retail,7,14.16,0.1,89.21,66.87,22.34
+ORD-000895,2025-10-01,South,Clothing,Shoes,Online,6,68.69,0.0,412.14,230.08,182.06
+ORD-000896,2025-08-12,North,Office Supplies,Pens,Retail,5,8.2,0.05,38.95,23.02,15.93
+ORD-000897,2025-07-05,East,Furniture,Shelf,Online,1,86.14,0.05,81.83,52.02,29.81
+ORD-000898,2025-01-20,North,Furniture,Chair,Online,7,130.46,0.05,867.56,532.64,334.92
+ORD-000899,2025-01-26,North,Electronics,Phone,Online,4,579.61,0.05,2202.52,1422.4,780.12
+ORD-000900,2025-08-13,North,Electronics,Phone,Retail,8,523.16,0.1,3766.75,2968.07,798.68
+ORD-000901,2025-01-02,East,Electronics,Laptop,Online,2,801.5,0.0,1603.0,922.21,680.79
+ORD-000902,2025-01-16,North,Office Supplies,Paper,Retail,3,12.24,0.0,36.72,24.08,12.64
+ORD-000903,2025-03-21,West,Office Supplies,Paper,Retail,1,12.85,0.05,12.21,8.11,4.1
+ORD-000904,2025-11-19,North,Office Supplies,Pens,Retail,3,8.21,0.0,24.63,15.27,9.36
+ORD-000905,2025-06-17,East,Furniture,Chair,Online,10,150.19,0.0,1501.9,930.62,571.28
+ORD-000906,2025-09-16,South,Office Supplies,Binders,Wholesale,5,14.25,0.05,67.69,49.32,18.37
+ORD-000907,2025-05-31,South,Office Supplies,Binders,Online,5,15.29,0.0,76.45,53.86,22.59
+ORD-000908,2025-03-05,North,Clothing,Jacket,Online,3,100.0,0.05,285.0,214.66,70.34
+ORD-000909,2025-05-16,West,Office Supplies,Binders,Retail,3,15.02,0.0,45.06,29.35,15.71
+ORD-000910,2025-02-03,West,Office Supplies,Binders,Online,7,14.67,0.1,92.42,64.85,27.57
+ORD-000911,2025-10-09,North,Furniture,Chair,Retail,10,150.86,0.0,1508.6,1166.75,341.85
+ORD-000912,2025-03-08,North,Furniture,Chair,Online,8,131.96,0.05,1002.9,765.04,237.86
+ORD-000913,2025-05-18,West,Clothing,Jacket,Wholesale,8,93.65,0.1,674.28,525.94,148.34
+ORD-000914,2025-12-24,East,Furniture,Desk,Online,5,275.53,0.0,1377.65,850.35,527.3
+ORD-000915,2025-08-05,North,Furniture,Desk,Wholesale,1,276.66,0.0,276.66,220.32,56.34
+ORD-000916,2025-06-17,North,Furniture,Chair,Retail,8,150.76,0.0,1206.08,909.5,296.58
+ORD-000917,2025-07-18,East,Furniture,Chair,Online,9,148.62,0.0,1337.58,1001.45,336.13
+ORD-000918,2025-10-14,East,Office Supplies,Paper,Retail,6,11.14,0.0,66.84,47.92,18.92
+ORD-000919,2025-04-03,East,Office Supplies,Paper,Online,1,12.83,,12.83,10.21,2.62
+ORD-000920,2025-08-21,West,Furniture,Desk,Wholesale,8,257.01,0.1,1850.47,1222.03,628.44
+ORD-000921,2025-11-15,South,Electronics,Phone,Retail,10,553.1,0.0,5531.0,4067.41,1463.59
+ORD-000922,2025-07-28,South,Clothing,T-Shirt,Retail,3,21.63,0.0,64.89,47.03,17.86
+ORD-000923,2025-06-12,South,Furniture,Chair,Online,2,147.03,0.0,294.06,215.55,78.51
+ORD-000924,2025-02-22,South,Clothing,Jacket,Wholesale,8,96.15,0.0,769.2,567.57,201.63
+ORD-000925,2025-04-01,North,Electronics,Laptop,Retail,4,865.34,0.0,3461.36,2068.82,1392.54
+ORD-000926,2025-12-12,North,Office Supplies,Paper,Retail,8,11.41,0.1,82.15,52.35,29.8
+ORD-000927,2025-07-17,South,Office Supplies,Binders,Online,8,14.24,0.05,108.22,70.13,38.09
+ORD-000928,2025-04-20,East,Clothing,T-Shirt,Online,3,21.79,0.0,65.37,48.18,17.19
+ORD-000929,2025-06-02,North,Electronics,Laptop,Retail,1,755.02,0.05,717.27,522.93,194.34
+ORD-000930,2025-07-30,South,Clothing,Jacket,Retail,6,97.93,0.0,587.58,445.59,141.99
+ORD-000931,2025-07-16,East,Office Supplies,Paper,Wholesale,5,11.61,0.0,58.05,43.37,14.68
+ORD-000932,2025-09-13,East,Office Supplies,Binders,Retail,9,15.14,0.05,129.45,90.49,38.96
+ORD-000933,2025-04-04,East,Furniture,Desk,Retail,4,242.11,0.0,968.44,566.52,401.92
+ORD-000934,2025-08-25,West,Electronics,Headphones,Retail,3,113.68,0.0,341.04,241.75,99.29
+ORD-000935,2025-06-11,East,Furniture,Chair,Retail,9,142.75,0.1,1156.28,892.38,263.9
+ORD-000936,2025-12-10,North,Electronics,Laptop,Online,8,794.5,0.0,6356.0,4517.8,1838.2
+ORD-000937,2025-02-27,South,Furniture,Shelf,Wholesale,7,81.12,0.0,567.84,439.46,128.38
+ORD-000938,2025-02-24,East,Office Supplies,Pens,Online,10,7.65,0.0,76.5,61.18,15.32
+ORD-000939,2025-06-18,North,Furniture,Shelf,Retail,8,81.12,0.05,616.51,394.44,222.07
+ORD-000940,2025-07-05,North,Electronics,Laptop,Wholesale,9,836.12,0.05,7148.83,5224.53,1924.3
+ORD-000941,2025-09-10,North,Electronics,Phone,Retail,8,511.29,0.1,3681.29,2521.65,1159.64
+ORD-000942,2025-05-28,South,Electronics,Phone,Online,5,528.14,0.0,2640.7,1752.75,887.95
+ORD-000943,2025-11-30,South,Electronics,Phone,Retail,1,556.23,0.05,528.42,322.32,206.1
+ORD-000944,2025-06-23,North,Office Supplies,Paper,Online,7,12.03,0.0,84.21,51.49,32.72
+ORD-000945,2025-02-17,West,Electronics,Phone,Online,8,548.41,0.0,4387.28,2615.89,1771.39
+ORD-000946,2025-02-13,West,Clothing,T-Shirt,Retail,10,21.12,0.0,211.2,149.5,61.7
+ORD-000947,2025-12-22,North,Electronics,Headphones,Wholesale,7,128.31,0.05,853.26,499.6,353.66
+ORD-000948,2025-02-18,West,Electronics,Laptop,Online,6,808.7,0.0,4852.2,3192.0,1660.2
+ORD-000949,2025-12-12,North,Clothing,T-Shirt,Wholesale,6,21.25,0.05,121.12,82.46,38.66
+ORD-000950,2025-04-12,West,Electronics,Headphones,Online,2,127.76,0.0,255.52,168.53,86.99
+ORD-000951,2025-02-04,West,Furniture,Desk,Wholesale,1,266.46,0.0,266.46,203.5,62.96
+ORD-000952,2025-04-22,North,Clothing,Jacket,Retail,1,96.73,0.1,87.06,57.53,29.53
+ORD-000953,2025-08-13,East,Clothing,T-Shirt,Wholesale,10,23.36,0.05,221.92,126.65,95.27
+ORD-000954,2025-06-06,West,Office Supplies,Paper,Wholesale,8,11.15,0.0,89.2,71.19,18.01
+ORD-000955,2025-10-14,West,Electronics,Laptop,Wholesale,3,864.3,0.05,2463.25,1875.14,588.11
+ORD-000956,2025-08-12,West,Office Supplies,Pens,Retail,5,8.23,0.0,41.15,29.42,11.73
+ORD-000957,2025-05-27,East,Clothing,Shoes,Online,5,68.43,0.05,325.04,240.23,84.81
+ORD-000958,2025-08-20,North,Clothing,Shoes,Online,3,67.27,0.0,201.81,117.46,84.35
+ORD-000959,2025-12-21,West,Electronics,Phone,Retail,5,505.86,0.0,2529.3,1875.42,653.88
+ORD-000960,2025-05-31,East,Furniture,Shelf,Online,4,91.0,0.0,364.0,219.11,144.89
+ORD-000961,2025-02-26,East,Furniture,Shelf,Wholesale,7,80.13,0.0,560.91,377.07,183.84
+ORD-000962,2025-05-30,South,Electronics,Laptop,Online,8,788.44,0.0,6307.52,3749.79,2557.73
+ORD-000963,2025-11-03,East,Office Supplies,Paper,Wholesale,1,12.37,0.0,12.37,9.13,3.24
+ORD-000964,2025-03-21,North,Electronics,Laptop,Retail,5,847.57,0.1,3814.07,2332.24,1481.83
+ORD-000965,2025-12-13,East,Furniture,Chair,Wholesale,10,132.4,0.0,1324.0,812.01,511.99
+ORD-000966,2025-08-03,North,Electronics,Phone,Wholesale,9,567.14,0.0,5104.26,2946.72,2157.54
+ORD-000967,2025-08-08,East,Furniture,Shelf,Online,8,85.14,0.0,681.12,497.32,183.8
+ORD-000968,2025-04-26,West,Electronics,Phone,Retail,8,570.11,0.05,4332.84,2703.52,1629.32
+ORD-000969,2025-12-02,South,Furniture,Desk,Online,1,242.83,0.0,242.83,165.02,77.81
+ORD-000970,2025-01-14,South,Electronics,Headphones,Wholesale,-10,111.22,0.0,-1112.2,-704.09,-408.11
+ORD-000971,2025-04-20,South,Clothing,Jacket,Wholesale,8,97.08,0.05,737.81,548.69,189.12
+ORD-000972,2025-06-02,West,Electronics,Headphones,Online,9,113.28,0.0,1019.52,618.46,401.06
+ORD-000973,2025-06-24,East,Office Supplies,Binders,Online,10,15.06,0.1,135.54,106.43,29.11
+ORD-000974,2025-06-23,South,Electronics,Headphones,Online,3,110.67,0.0,332.01,209.28,122.73
+ORD-000975,2025-02-23,North,Electronics,Headphones,Online,1,125.37,0.05,119.1,68.6,50.5
+ORD-000976,2025-03-24,North,Electronics,Laptop,Wholesale,7,872.42,0.0,6106.94,3725.7,2381.24
+ORD-000977,2025-02-04,South,Electronics,Phone,Online,5,569.28,0.05,2704.08,1537.23,1166.85
+ORD-000978,2025-07-28,West,Electronics,Phone,Wholesale,1,579.6,,550.62,367.37,183.25
+ORD-000979,2025-05-09,East,Furniture,Chair,Wholesale,3,149.03,0.0,447.09,273.87,173.22
+ORD-000980,2025-07-26,North,Office Supplies,Binders,Wholesale,10,14.87,0.0,148.7,114.72,33.98
+ORD-000981,2025-08-04,West,Electronics,Phone,Retail,4,531.22,0.0,2124.88,1443.39,681.49
+ORD-000982,2025-09-14,South,Furniture,Desk,Online,3,276.48,0.0,829.44,504.58,324.86
+ORD-000983,2025-07-19,West,Office Supplies,Binders,Wholesale,7,16.02,0.1,100.93,66.9,34.03
+ORD-000984,2025-08-25,North,Electronics,Phone,Retail,7,580.85,0.0,4065.95,2435.5,1630.45
+ORD-000985,2025-08-03,East,Furniture,Shelf,Wholesale,4,88.65,0.05,336.87,200.33,136.54
+ORD-000986,2025-08-27,West,Electronics,Laptop,Online,9,780.9,0.1,6325.29,3954.34,2370.95
+ORD-000987,2025-08-14,North,Electronics,Headphones,Online,6,128.54,0.05,732.68,422.81,309.87
+ORD-000988,2025-04-26,East,Furniture,Desk,Wholesale,2,278.6,0.05,529.34,316.1,213.24
+ORD-000989,2025-03-31,West,Clothing,Shoes,Wholesale,4,71.86,0.0,287.44,225.5,61.94
+ORD-000990,2025-10-15,North,Clothing,T-Shirt,Online,9,23.26,0.0,209.34,150.03,59.31
+ORD-000991,2025-05-06,North,Clothing,Shoes,Retail,1,70.69,0.0,70.69,55.16,15.53
+ORD-000992,2025-07-20,East,Furniture,Desk,Online,1,278.48,0.0,278.48,171.05,107.43
+ORD-000993,2025-03-13,South,Electronics,Headphones,Retail,7,112.2,0.0,785.4,600.24,185.16
+ORD-000994,2025-06-07,North,Furniture,Shelf,Online,5,89.95,0.0,449.75,288.1,161.65
+ORD-000995,2025-07-13,South,Electronics,Laptop,Online,3,761.68,0.0,2285.04,1339.14,945.9
+ORD-000996,2025-08-17,East,Electronics,Laptop,Online,5,798.89,0.0,3994.45,3000.54,993.91
+ORD-000997,2025-07-12,South,Electronics,Laptop,Online,2,772.15,0.0,1544.3,872.39,671.91
+ORD-000998,2025-05-12,South,Furniture,Desk,Retail,4,259.13,0.0,1036.52,675.0,361.52
+ORD-000999,2025-12-18,West,Furniture,Chair,Online,3,134.0,0.0,402.0,303.44,98.56
+ORD-001000,2025-07-07,East,Electronics,Laptop,Retail,6,879.31,0.0,5275.86,3715.77,1560.09
+ORD-001001,2025-10-23,West,Office Supplies,Binders,Retail,7,15.14,0.05,100.68,68.41,32.27
+ORD-001002,2025-09-26,South,Furniture,Desk,Retail,10,276.55,0.05,2627.22,1677.24,949.98
+ORD-001003,2025-07-23,West,Clothing,Shoes,Retail,1,67.51,0.0,67.51,38.4,29.11
+ORD-001004,2025-11-20,East,Electronics,Phone,Online,4,499.04,0.0,1996.16,1592.42,403.74
+ORD-001005,2025-02-16,North,Office Supplies,Pens,Online,3,8.35,0.0,25.05,14.87,10.18
+ORD-001006,2025-12-03,West,Electronics,Laptop,Wholesale,6,846.55,0.0,5079.3,3117.81,1961.49
+ORD-001007,2025-11-07,South,Furniture,Chair,Wholesale,6,141.02,0.0,846.12,515.27,330.85
+ORD-001008,2025-07-03,North,Electronics,Phone,Wholesale,9,567.25,0.1,4594.73,3570.04,1024.69
+ORD-001009,2025-09-25,North,Electronics,Phone,Wholesale,10,569.38,0.0,5693.8,4218.66,1475.14
+ORD-001010,2025-07-09,East,Office Supplies,Binders,Retail,8,15.21,0.0,121.68,80.84,40.84
+ORD-001011,2025-04-09,North,Electronics,Phone,Wholesale,2,580.26,0.05,1102.49,869.71,232.78
+ORD-001012,2025-10-19,South,Electronics,Phone,Online,1,558.98,0.0,558.98,314.82,244.16
+ORD-001013,2025-03-31,North,Clothing,Jacket,Retail,9,97.69,0.0,879.21,680.0,199.21
+ORD-001014,2025-04-25,South,Electronics,Laptop,Wholesale,10,801.82,0.0,8018.2,4531.14,3487.06
+ORD-001015,2025-07-09,South,Office Supplies,Pens,Retail,3,7.36,0.1,19.87,12.87,7.0
+ORD-001016,2025-11-02,East,Office Supplies,Pens,Online,1,7.67,0.0,7.67,4.32,3.35
+ORD-001017,2025-05-21,North,Electronics,Headphones,Online,7,125.07,0.05,831.72,665.16,166.56
+ORD-001018,2025-06-30,North,Furniture,Shelf,Online,6,87.85,0.05,500.74,389.87,110.87
+ORD-001019,2025-01-16,East,Electronics,Laptop,Online,9,797.83,0.0,7180.47,4999.04,2181.43
+ORD-001020,2025-02-12,South,Office Supplies,Pens,Wholesale,6,8.16,0.05,46.51,28.11,18.4
+ORD-001021,2025-01-21,East,Electronics,Phone,Retail,8,513.67,0.0,4109.36,2544.49,1564.87
+ORD-001022,2025-01-27,North,Electronics,Laptop,Online,8,788.99,0.0,6311.92,4180.93,2130.99
+ORD-001023,2025-11-14,North,Furniture,Chair,Retail,1,150.02,0.0,150.02,94.62,55.4
+ORD-001024,2025-11-04,North,Clothing,Shoes,Online,2,69.03,0.1,124.25,69.0,55.25
+ORD-001025,2025-10-27,South,Office Supplies,Paper,Retail,8,11.51,0.0,92.08,65.75,26.33
+ORD-001026,2025-01-21,South,Clothing,Shoes,Online,2,69.86,0.0,139.72,98.27,41.45
+ORD-001027,2025-01-29,West,Office Supplies,Binders,Retail,3,14.73,0.1,39.77,30.86,8.91
+ORD-001028,2025-04-13,South,Office Supplies,Paper,Retail,8,12.44,0.0,99.52,66.6,32.92
+ORD-001029,2025-07-26,East,Furniture,Chair,Retail,3,150.35,0.1,405.94,258.25,147.69
+ORD-001030,2025-05-02,East,Clothing,Jacket,Retail,2,96.39,0.05,183.14,124.15,58.99
+ORD-001031,2025-06-27,North,Furniture,Desk,Online,1,263.79,0.0,263.79,157.92,105.87
+ORD-001032,2025-03-05,South,Furniture,Shelf,Retail,5,83.16,0.05,395.01,279.03,115.98
+ORD-001033,2025-09-24,South,Office Supplies,Pens,Online,7,8.08,0.05,53.73,39.89,13.84
+ORD-001034,2025-04-25,South,Office Supplies,Paper,Retail,8,11.65,0.0,93.2,54.84,38.36
+ORD-001035,2025-01-25,North,Electronics,Phone,Retail,10,496.89,0.1,4472.01,2815.56,1656.45
+ORD-001036,2025-09-29,West,Furniture,Desk,Retail,7,275.23,0.1,1733.95,1329.85,404.1
+ORD-001037,2025-11-26,West,Furniture,Chair,Wholesale,8,138.42,0.1,996.62,674.1,322.52
+ORD-001038,2025-01-06,North,Clothing,Jacket,Online,3,94.88,0.05,270.41,184.68,85.73
+ORD-001039,2025-06-09,East,Furniture,Chair,Wholesale,4,130.67,0.0,522.68,381.87,140.81
+ORD-001040,2025-10-29,East,Clothing,Shoes,Online,4,73.78,0.0,295.12,204.95,90.17
+ORD-001041,2025-09-15,South,Furniture,Chair,Retail,1,132.62,0.0,132.62,75.25,57.37
+ORD-001042,2025-11-09,West,Office Supplies,Pens,Wholesale,10,7.89,0.0,78.9,59.25,19.65
+ORD-001043,2025-06-01,East,Electronics,Laptop,Retail,3,864.64,0.05,2464.22,1923.84,540.38
+ORD-001044,2025-05-16,West,Clothing,Jacket,Wholesale,5,94.36,0.05,448.21,252.49,195.72
+ORD-001045,2025-09-16,West,Furniture,Desk,Wholesale,4,277.94,0.0,1111.76,645.17,466.59
+ORD-001046,2025-02-26,North,Electronics,Phone,Online,1,514.88,0.0,514.88,373.54,141.34
+ORD-001047,2025-03-29,South,Electronics,Phone,Wholesale,10,558.6,0.05,5306.7,3720.63,1586.07
+ORD-001048,2025-08-08,East,Electronics,Headphones,Wholesale,3,129.18,0.0,387.54,250.21,137.33
+ORD-001049,2025-09-01,North,Furniture,Desk,Online,2,262.06,0.1,471.71,323.03,148.68
+ORD-001050,2025-02-13,South,Office Supplies,Paper,Online,4,12.37,0.05,47.01,34.12,12.89
+ORD-001051,2025-07-05,West,Clothing,T-Shirt,Online,2,21.62,0.0,43.24,29.24,14.0
+ORD-001052,2025-05-14,North,Office Supplies,Binders,Wholesale,10,15.6,,156.0,91.27,64.73
+ORD-001053,2025-07-03,South,Office Supplies,Binders,Wholesale,2,15.98,0.05,30.36,17.38,12.98
+ORD-001054,2025-12-16,West,Furniture,Desk,Wholesale,4,268.45,0.0,1073.8,708.4,365.4
+ORD-001055,2025-01-28,South,Clothing,Jacket,Online,3,101.63,0.05,289.65,226.14,63.51
+ORD-001056,2025-12-30,South,Clothing,Jacket,Online,1,96.35,0.0,96.35,66.43,29.92
+ORD-001057,2025-06-14,West,Electronics,Laptop,Retail,1,830.12,0.0,830.12,530.91,299.21
+ORD-001058,2025-10-09,South,Clothing,T-Shirt,Online,6,21.31,0.0,127.86,99.37,28.49
+ORD-001059,2025-06-04,North,Furniture,Shelf,Online,3,87.85,0.05,250.37,162.03,88.34
+ORD-001060,2025-04-24,North,Office Supplies,Binders,Online,1,15.92,0.1,14.33,9.71,4.62
+ORD-001061,2025-10-09,West,Clothing,T-Shirt,Online,3,22.52,0.1,60.8,35.21,25.59
+ORD-001062,2025-09-08,North,Office Supplies,Pens,Online,3,7.66,0.0,22.98,16.88,6.1
+ORD-001063,2025-02-22,South,Electronics,Phone,Retail,5,543.81,0.05,2583.1,1872.94,710.16
+ORD-001064,2025-09-15,North,Office Supplies,Binders,Online,10,15.61,0.0,156.1,116.85,39.25
+ORD-001065,2025-10-02,South,Electronics,Headphones,Online,4,128.44,0.0,513.76,324.34,189.42
+ORD-001066,2025-05-22,West,Office Supplies,Pens,Retail,8,7.56,0.1,54.43,35.87,18.56
+ORD-001067,2025-12-04,South,Electronics,Headphones,Wholesale,8,112.85,0.0,902.8,534.53,368.27
+ORD-001068,2025-08-22,West,Office Supplies,Pens,Retail,1,7.89,0.1,7.1,5.62,1.48
+ORD-001069,2025-05-02,North,Clothing,Shoes,Retail,6,65.81,0.0,394.86,225.67,169.19
+ORD-001070,2025-01-04,South,Electronics,Headphones,Retail,5,129.22,0.0,646.1,460.19,185.91
+ORD-001071,2025-09-04,West,Furniture,Chair,Retail,6,138.3,0.0,829.8,602.7,227.1
+ORD-001072,2025-03-18,South,Office Supplies,Binders,Retail,2,15.08,0.1,27.14,16.0,11.14
+ORD-001073,2025-10-04,North,Furniture,Chair,Retail,5,133.89,0.0,669.45,429.34,240.11
+ORD-001074,2025-07-11,West,Electronics,Laptop,Retail,2,813.33,0.05,1545.33,866.59,678.74
+ORD-001075,2025-06-20,South,Electronics,Laptop,Retail,10,883.59,0.0,8835.9,6089.28,2746.62
+ORD-001076,2025-03-01,East,Furniture,Chair,Online,6,139.75,0.05,796.58,636.26,160.32
+ORD-001077,2025-09-17,West,Office Supplies,Pens,Online,1,7.37,0.0,7.37,4.85,2.52
+ORD-001078,2025-03-02,North,Office Supplies,Pens,Online,6,7.67,0.0,46.02,36.7,9.32
+ORD-001079,2025-06-02,South,Electronics,Headphones,Online,10,129.19,0.05,1227.3,713.74,513.56
+ORD-001080,2025-11-02,North,Furniture,Desk,Retail,8,280.35,0.05,2130.66,1380.91,749.75
+ORD-001081,2025-12-02,South,Furniture,Desk,Retail,3,247.96,0.0,743.88,576.87,167.01
+ORD-001082,2025-12-28,North,Electronics,Headphones,Online,9,122.21,0.0,1099.89,846.01,253.88
+ORD-001083,2025-12-16,East,Office Supplies,Pens,Online,2,7.46,0.0,14.92,9.41,5.51
+ORD-001084,2025-07-22,North,Furniture,Chair,Online,3,141.73,0.1,382.67,275.39,107.28
+ORD-001085,2025-03-15,East,Office Supplies,Paper,Retail,2,11.28,0.05,21.43,16.53,4.9
+ORD-001086,2025-11-03,North,Clothing,Shoes,Online,10,73.57,0.05,698.91,518.4,180.51
+ORD-001087,2025-10-20,South,Office Supplies,Pens,Online,8,8.56,0.05,65.06,46.01,19.05
+ORD-001088,2025-12-28,South,Office Supplies,Pens,Online,6,7.58,0.05,43.21,25.41,17.8
+ORD-001089,2025-08-26,East,Electronics,Laptop,Retail,7,815.11,0.0,5705.77,3242.31,2463.46
+ORD-001090,2025-02-21,South,Electronics,Phone,Online,3,505.62,0.0,1516.86,1067.35,449.51
+ORD-001091,2025-07-03,South,Electronics,Phone,Retail,1,526.1,0.05,499.8,337.4,162.4
+ORD-001092,2025-06-13,West,Office Supplies,Paper,Retail,9,11.16,0.0,100.44,61.22,39.22
+ORD-001093,2025-11-04,East,Clothing,Jacket,Wholesale,10,91.42,0.0,914.2,569.72,344.48
+ORD-001094,2025-05-24,North,Electronics,Headphones,Retail,1,129.41,0.05,122.94,79.67,43.27
+ORD-001095,2025-04-30,West,Electronics,Headphones,Online,1,111.26,0.1,100.13,67.48,32.65
+ORD-001096,2025-01-30,South,Furniture,Chair,Online,6,148.04,0.05,843.83,546.43,297.4
+ORD-001097,2025-11-01,North,Office Supplies,Binders,Retail,1,13.99,0.0,13.99,9.05,4.94
+ORD-001098,2025-10-03,South,Office Supplies,Binders,Online,8,15.07,0.1,108.5,62.81,45.69
+ORD-001099,2025-01-16,North,Office Supplies,Paper,Wholesale,10,11.91,0.0,119.1,91.28,27.82
+ORD-001100,2025-06-08,North,Clothing,Shoes,Retail,3,74.83,0.0,224.49,157.66,66.83
+ORD-001101,2025-06-25,East,Electronics,Headphones,Online,3,114.22,0.1,308.39,180.88,127.51
+ORD-001102,2025-06-21,North,Office Supplies,Paper,Online,9,11.38,0.05,97.3,63.83,33.47
+ORD-001103,2025-12-02,West,Office Supplies,Binders,Wholesale,4,15.6,0.1,56.16,36.74,19.42
+ORD-001104,2025-02-24,West,Furniture,Desk,Wholesale,3,269.39,0.05,767.76,537.55,230.21
+ORD-001105,2025-04-22,East,Clothing,Jacket,Wholesale,1,98.03,0.05,93.13,65.4,27.73
+ORD-001106,2025-03-08,East,Electronics,Phone,Online,9,499.06,0.0,4491.54,3194.86,1296.68
+ORD-001107,2025-03-31,East,Office Supplies,Pens,Retail,10,7.69,0.0,76.9,55.71,21.19
+ORD-001108,2025-11-28,West,Office Supplies,Paper,Online,1,12.65,0.1,11.38,6.55,4.83
+ORD-001109,2025-12-10,South,Clothing,Jacket,Online,9,96.53,0.1,781.89,489.64,292.25
+ORD-001110,2025-01-17,North,Furniture,Chair,Retail,2,142.29,0.0,284.58,157.75,126.83
+ORD-001111,2025-08-19,South,Furniture,Desk,Wholesale,2,251.51,0.0,503.02,333.83,169.19
+ORD-001112,2025-03-26,East,Clothing,T-Shirt,Online,4,21.16,0.0,84.64,55.64,29.0
+ORD-001113,2025-03-12,North,Office Supplies,Binders,Retail,5,16.07,,80.35,58.94,21.41
+ORD-001114,2025-04-17,East,Furniture,Desk,Online,9,269.47,0.1,2182.71,1291.68,891.03
+ORD-001115,2025-03-12,North,Office Supplies,Pens,Online,7,7.52,0.0,52.64,37.26,15.38
+ORD-001116,2025-06-28,West,Electronics,Laptop,Online,2,877.43,0.0,1754.86,1099.72,655.14
+ORD-001117,2025-12-30,North,Office Supplies,Pens,Wholesale,6,8.11,0.1,43.79,28.27,15.52
+ORD-001118,2025-08-03,North,Clothing,T-Shirt,Online,9,21.41,0.0,192.69,140.63,52.06
+ORD-001119,2025-09-21,North,Furniture,Desk,Retail,7,255.72,0.0,1790.04,1016.54,773.5
+ORD-001120,2025-06-30,North,Furniture,Desk,Online,3,269.38,0.0,808.14,513.73,294.41
+ORD-001121,2025-01-06,North,Clothing,Jacket,Retail,2,93.12,0.0,186.24,120.65,65.59
+ORD-001122,2025-01-31,North,Office Supplies,Binders,Online,5,15.19,0.0,75.95,55.36,20.59
+ORD-001123,2025-04-09,North,Clothing,Jacket,Online,5,98.2,0.0,491.0,294.5,196.5
+ORD-001124,2025-03-30,North,Furniture,Chair,Retail,4,133.18,0.0,532.72,419.17,113.55
+ORD-001125,2025-11-03,South,Clothing,Shoes,Retail,2,74.98,0.0,149.96,119.88,30.08
+ORD-001126,2025-11-04,South,Electronics,Laptop,Wholesale,2,801.13,0.0,1602.26,1209.27,392.99
+ORD-001127,2025-11-08,South,Furniture,Desk,Online,6,256.65,0.0,1539.9,962.33,577.57
+ORD-001128,2025-08-21,South,Furniture,Desk,Retail,10,268.26,0.1,2414.34,1728.59,685.75
+ORD-001129,2025-07-23,North,Office Supplies,Binders,Wholesale,6,15.26,0.0,91.56,52.26,39.3
+ORD-001130,2025-08-25,North,Clothing,T-Shirt,Online,5,21.79,0.0,108.95,83.65,25.3
+ORD-001131,2025-05-29,North,Office Supplies,Binders,Wholesale,10,15.36,0.1,138.24,93.86,44.38
+ORD-001132,2025-09-02,East,Office Supplies,Paper,Wholesale,7,12.77,0.0,89.39,53.11,36.28
+ORD-001133,2025-10-17,West,Furniture,Chair,Wholesale,8,146.73,0.0,1173.84,741.7,432.14
+ORD-001134,2025-10-06,West,Furniture,Chair,Retail,6,147.26,0.05,839.38,629.69,209.69
+ORD-001135,2025-08-13,South,Furniture,Shelf,Retail,8,81.71,0.0,653.68,501.74,151.94
+ORD-001136,2025-01-22,East,Electronics,Laptop,Retail,6,809.43,0.0,4856.58,3302.13,1554.45
+ORD-001137,2025-09-22,South,Furniture,Shelf,Retail,7,85.73,0.05,570.1,382.01,188.09
+ORD-001138,2025-05-14,East,Clothing,Jacket,Wholesale,7,88.07,0.05,585.67,432.04,153.63
+ORD-001139,2025-09-29,East,Office Supplies,Pens,Online,8,8.35,0.0,66.8,50.54,16.26
+ORD-001140,2025-07-16,West,Office Supplies,Binders,Retail,9,14.58,0.0,131.22,97.26,33.96
+ORD-001141,2025-11-18,West,Furniture,Desk,Retail,3,250.96,0.0,752.88,486.44,266.44
+ORD-001142,2025-05-04,South,Office Supplies,Paper,Online,7,11.54,0.05,76.74,54.52,22.22
+ORD-001143,2025-12-06,East,Electronics,Headphones,Retail,1,115.84,0.0,115.84,88.54,27.3
+ORD-001144,2025-11-05,West,Furniture,Desk,Retail,6,253.26,0.0,1519.56,893.41,626.15
+ORD-001145,2025-05-01,South,Furniture,Shelf,Retail,9,86.43,0.0,777.87,503.31,274.56
+ORD-001146,2025-06-26,West,Electronics,Phone,Wholesale,7,547.22,0.1,3447.49,1944.92,1502.57
+ORD-001147,2025-07-13,North,Electronics,Phone,Online,3,518.89,0.0,1556.67,1015.29,541.38
+ORD-001148,2025-10-08,West,Office Supplies,Binders,Wholesale,7,14.3,0.0,100.1,74.38,25.72
+ORD-001149,2025-09-09,East,Furniture,Shelf,Retail,4,89.44,0.0,357.76,214.39,143.37
+ORD-001150,2025-11-07,North,Furniture,Desk,Wholesale,5,243.06,0.05,1154.53,791.4,363.13
+ORD-001151,2025-05-16,East,Electronics,Laptop,Online,3,821.68,0.0,2465.04,1378.32,1086.72
+ORD-001152,2025-07-04,North,Office Supplies,Paper,Online,7,12.04,0.1,75.85,58.74,17.11
+ORD-001153,2025-06-07,East,Furniture,Desk,Wholesale,2,263.08,0.0,526.16,397.25,128.91
+ORD-001154,2025-11-28,West,Furniture,Shelf,Online,5,90.24,0.0,451.2,307.31,143.89
+ORD-001155,2025-04-22,East,Office Supplies,Pens,Online,10,8.16,0.0,81.6,59.28,22.32
+ORD-001156,2025-08-03,West,Electronics,Headphones,Retail,8,129.09,0.0,1032.72,594.83,437.89
+ORD-001157,2025-02-13,North,Clothing,Jacket,Retail,5,100.64,0.0,503.2,383.09,120.11
+ORD-001158,2025-11-07,North,Electronics,Headphones,Wholesale,10,114.52,0.05,1087.94,792.91,295.03
+ORD-001159,2025-05-21,South,Furniture,Shelf,Retail,1,81.48,0.0,81.48,47.26,34.22
+ORD-001160,2025-05-05,North,Electronics,Headphones,Wholesale,10,117.02,0.05,1111.69,883.99,227.7
+ORD-001161,2025-08-01,South,Office Supplies,Pens,Retail,4,7.86,0.0,31.44,17.47,13.97
+ORD-001162,2025-07-02,North,Electronics,Headphones,Retail,9,121.02,0.0,1089.18,770.19,318.99
+ORD-001163,2025-11-06,South,Clothing,Shoes,Wholesale,10,67.0,0.0,670.0,397.27,272.73
+ORD-001164,2025-07-13,South,Furniture,Chair,Retail,7,133.78,0.0,936.46,683.44,253.02
+ORD-001165,2025-07-08,West,Office Supplies,Pens,Online,7,7.85,0.0,54.95,31.19,23.76
+ORD-001166,2025-02-08,North,Electronics,Laptop,Online,8,842.57,0.1,6066.5,3459.57,2606.93
+ORD-001167,2025-01-09,West,Electronics,Headphones,Retail,3,123.61,0.1,333.75,222.47,111.28
+ORD-001168,2025-05-26,South,Furniture,Shelf,Retail,2,91.48,0.05,173.81,138.79,35.02
+ORD-001169,2025-12-31,South,Office Supplies,Binders,Retail,4,14.29,0.1,51.44,31.85,19.59
+ORD-001170,2025-12-01,South,Furniture,Shelf,Retail,5,83.54,0.0,417.7,293.7,124.0
+ORD-001171,2025-08-18,South,Clothing,Shoes,Wholesale,8,75.2,0.0,601.6,408.88,192.72
+ORD-001172,2025-08-19,North,Office Supplies,Binders,Online,3,15.46,0.0,46.38,35.27,11.11
+ORD-001173,2025-05-23,South,Clothing,Jacket,Retail,6,96.4,0.1,520.56,323.87,196.69
+ORD-001175,2025-01-04,South,Office Supplies,Paper,Online,1,11.18,0.0,11.18,8.81,2.37
+ORD-001176,2025-05-04,East,Office Supplies,Paper,Retail,10,12.76,0.05,121.22,76.75,44.47
+ORD-001177,2025-04-26,South,Office Supplies,Pens,Retail,9,8.16,0.0,73.44,48.46,24.98
+ORD-001178,2025-03-11,West,Clothing,Shoes,Wholesale,9,70.8,0.05,605.34,467.45,137.89
+ORD-001179,2025-04-05,North,Office Supplies,Binders,Retail,4,15.09,0.0,60.36,38.22,22.14
+ORD-001180,2025-01-10,West,Clothing,Shoes,Online,6,68.79,0.05,392.1,252.97,139.13
+ORD-001181,2025-08-10,West,Office Supplies,Pens,Retail,7,7.69,0.1,48.45,30.33,18.12
+ORD-001182,2025-12-05,West,Electronics,Phone,Wholesale,3,562.06,0.05,1601.87,1205.22,396.65
+ORD-001183,2025-09-10,West,Office Supplies,Pens,Retail,8,8.01,0.0,64.08,50.15,13.93
+ORD-001184,2025-06-13,North,Furniture,Shelf,Online,7,78.66,0.0,550.62,389.71,160.91
+ORD-001185,2025-06-03,East,Clothing,Jacket,Wholesale,5,93.47,0.0,467.35,329.91,137.44
+ORD-001186,2025-04-23,North,Office Supplies,Pens,Online,5,8.55,0.0,42.75,27.68,15.07
+ORD-001187,2025-02-21,West,Electronics,Phone,Online,4,529.1,0.0,2116.4,1170.63,945.77
+ORD-001188,2025-08-07,East,Electronics,Laptop,Online,9,808.62,0.0,7277.58,4319.13,2958.45
+ORD-001189,2025-07-26,North,Electronics,Headphones,Retail,10,122.38,0.0,1223.8,718.2,505.6
+ORD-001190,2025-01-03,West,Furniture,Chair,Wholesale,10,146.76,0.0,1467.6,849.7,617.9
+ORD-001191,2025-06-01,North,Electronics,Laptop,Online,8,842.1,0.1,6063.12,4326.11,1737.01
+ORD-001192,2025-04-12,East,Office Supplies,Pens,Retail,4,8.45,0.0,33.8,19.74,14.06
+ORD-001193,2025-03-04,East,Office Supplies,Binders,Retail,-8,14.07,0.0,-112.56,-64.32,-48.24
+ORD-001194,2025-09-14,North,Clothing,T-Shirt,Wholesale,3,23.49,0.0,70.47,45.5,24.97
+ORD-001195,2025-07-11,East,Electronics,Laptop,Wholesale,9,872.99,0.0,7856.91,4810.44,3046.47
+ORD-001196,2025-08-20,West,Furniture,Chair,Retail,3,140.43,0.1,379.16,222.36,156.8
+ORD-001197,2025-09-18,North,Electronics,Laptop,Online,5,836.37,0.0,4181.85,2452.79,1729.06
+ORD-001198,2025-12-25,South,Clothing,Shoes,Online,1,66.78,0.05,63.44,38.96,24.48
+ORD-001199,2025-10-21,North,Electronics,Phone,Wholesale,1,535.5,0.05,508.72,348.07,160.65
+ORD-001200,2025-08-15,East,Electronics,Phone,Retail,4,514.31,0.05,1954.38,1445.31,509.07
+ORD-001201,2025-11-17,North,Electronics,Headphones,Retail,6,110.82,0.05,631.67,482.09,149.58
+ORD-001202,2025-06-24,West,Office Supplies,Pens,Wholesale,1,8.62,0.05,8.19,6.04,2.15
+ORD-001203,2025-12-26,West,Electronics,Phone,Wholesale,9,519.19,0.0,4672.71,3303.86,1368.85
+ORD-001204,2025-10-05,North,Office Supplies,Paper,Retail,2,12.18,0.0,24.36,18.93,5.43
+ORD-001205,2025-08-26,South,Office Supplies,Paper,Wholesale,10,11.62,0.05,110.39,75.06,35.33
+ORD-001206,2025-11-26,East,Office Supplies,Binders,Online,3,14.69,0.0,44.07,31.22,12.85
+ORD-001207,2025-07-08,East,Electronics,Phone,Retail,4,531.17,0.0,2124.68,1387.21,737.47
+ORD-001208,2025-09-21,South,Electronics,Headphones,Wholesale,2,116.83,0.0,233.66,147.64,86.02
+ORD-001209,2025-04-14,North,Furniture,Chair,Online,9,143.08,0.0,1287.72,815.03,472.69
+ORD-001210,2025-12-18,North,Electronics,Phone,Online,8,579.82,0.0,4638.56,2723.2,1915.36
+ORD-001211,2025-08-16,West,Office Supplies,Pens,Retail,1,7.91,0.0,7.91,5.93,1.98
+ORD-001212,2025-10-13,South,Furniture,Chair,Retail,2,150.6,0.0,301.2,169.83,131.37
+ORD-001213,2025-06-18,West,Furniture,Desk,Online,7,266.98,0.0,1868.86,1343.1,525.76
+ORD-001214,2025-11-13,South,Electronics,Laptop,Online,9,834.06,0.0,7506.54,5750.87,1755.67
+ORD-001215,2025-01-28,West,Office Supplies,Pens,Online,2,7.66,0.05,14.55,9.81,4.74
+ORD-001216,2025-02-11,North,Electronics,Phone,Online,3,502.24,0.0,1506.72,855.14,651.58
+ORD-001217,2025-07-05,North,Office Supplies,Pens,Wholesale,6,8.45,0.05,48.16,31.65,16.51
+ORD-001218,2025-09-25,West,Electronics,Phone,Retail,2,546.39,0.0,1092.78,694.8,397.98
+ORD-001219,2025-10-23,West,Clothing,Jacket,Retail,4,93.7,0.0,374.8,298.49,76.31
+ORD-001220,2025-06-10,South,Office Supplies,Binders,Online,1,15.75,0.05,14.96,10.81,4.15
+ORD-001221,2025-08-26,South,Electronics,Phone,Online,5,523.63,0.05,2487.24,1816.53,670.71
+ORD-001222,2025-07-21,South,Electronics,Laptop,Online,8,857.21,0.05,6514.8,4423.27,2091.53
+ORD-001223,2025-12-17,South,Furniture,Chair,Wholesale,5,136.15,0.05,646.71,470.39,176.32
+ORD-001224,2025-08-27,North,Electronics,Headphones,Wholesale,3,128.08,0.05,365.03,266.71,98.32
+ORD-001225,2025-06-02,West,Electronics,Headphones,Online,5,115.54,0.05,548.82,310.96,237.86
+ORD-001226,2025-12-20,North,Clothing,Jacket,Wholesale,6,89.49,0.05,510.09,308.94,201.15
+ORD-001227,2025-02-09,East,Office Supplies,Binders,Online,2,15.48,0.05,29.41,16.27,13.14
+ORD-001228,2025-12-26,North,Electronics,Phone,Online,2,510.87,0.0,1021.74,692.18,329.56
+ORD-001229,2025-02-26,North,Office Supplies,Pens,Retail,2,8.58,0.0,17.16,13.2,3.96
+ORD-001230,2025-04-16,East,Electronics,Phone,Online,10,553.44,0.0,5534.4,3887.3,1647.1
+ORD-001231,2025-10-27,South,Clothing,T-Shirt,Wholesale,8,21.05,0.0,168.4,113.68,54.72
+ORD-001232,2025-09-25,East,Electronics,Laptop,Online,2,781.8,0.05,1485.42,1160.84,324.58
+ORD-001233,2025-12-21,North,Office Supplies,Paper,Retail,4,12.81,0.0,51.24,30.39,20.85
+ORD-001234,2025-10-01,West,Office Supplies,Pens,Online,5,8.14,0.0,40.7,23.14,17.56
+ORD-001235,2025-08-21,East,Electronics,Laptop,Online,2,871.66,0.05,1656.15,1290.68,365.47
+ORD-001236,2025-05-07,West,Electronics,Headphones,Online,9,112.52,0.0,1012.68,785.53,227.15
+ORD-001237,2025-01-02,North,Furniture,Shelf,Wholesale,10,90.79,0.05,862.5,621.64,240.86
+ORD-001238,2025-02-15,South,Clothing,Shoes,Retail,3,70.22,0.0,210.66,128.82,81.84
+ORD-001239,2025-04-19,South,Office Supplies,Binders,Retail,1,15.4,0.0,15.4,12.2,3.2
+ORD-001240,2025-01-15,East,Office Supplies,Paper,Online,3,11.76,0.0,35.28,26.15,9.13
+ORD-001241,2025-07-05,South,Office Supplies,Pens,Online,6,7.44,0.0,44.64,32.07,12.57
+ORD-001242,2025-10-11,North,Clothing,Shoes,Online,9,75.13,0.0,676.17,409.57,266.6
+ORD-001243,2025-12-18,South,Furniture,Desk,Wholesale,4,280.58,0.0,1122.32,761.24,361.08
+ORD-001244,2025-06-28,North,Furniture,Desk,Online,3,254.37,0.0,763.11,576.64,186.47
+ORD-001245,2025-11-16,South,Office Supplies,Pens,Online,3,8.57,0.0,25.71,19.67,6.04
+ORD-001246,2025-12-26,North,Electronics,Phone,Retail,1,511.29,0.05,485.73,335.33,150.4
+ORD-001247,2025-11-10,North,Clothing,Jacket,Retail,1,89.75,0.0,89.75,61.09,28.66
+ORD-001248,2025-06-19,East,Electronics,Phone,Online,5,503.12,0.0,2515.6,1822.35,693.25
+ORD-001249,2025-04-29,South,Electronics,Headphones,Online,7,117.91,0.0,825.37,562.95,262.42
+ORD-001250,2025-12-23,South,Office Supplies,Paper,Online,1,11.14,0.1,10.03,6.56,3.47
+ORD-001251,2025-03-30,East,Furniture,Shelf,Retail,3,83.57,0.05,238.17,136.08,102.09
+ORD-001252,2025-05-31,East,Electronics,Phone,Online,10,508.76,0.1,4578.84,2662.65,1916.19
+ORD-001253,2025-01-28,South,Electronics,Phone,Retail,10,559.92,0.1,5039.28,3729.41,1309.87
+ORD-001254,2025-10-17,East,Office Supplies,Binders,Online,7,15.8,0.0,110.6,61.51,49.09
+ORD-001255,2025-08-26,West,Clothing,Shoes,Wholesale,6,72.1,0.05,410.97,231.41,179.56
+ORD-001256,2025-01-31,East,Electronics,Headphones,Wholesale,6,114.25,0.0,685.5,532.06,153.44
+ORD-001257,2025-03-23,West,Electronics,Laptop,Online,4,855.01,0.1,3078.04,2234.65,843.39
+ORD-001258,2025-07-22,West,Furniture,Desk,Retail,3,249.58,0.0,748.74,412.6,336.14
+ORD-001259,2025-07-17,North,Clothing,Shoes,Online,4,72.91,0.0,291.64,183.15,108.49
+ORD-001260,2025-10-20,South,Electronics,Laptop,Wholesale,7,828.84,0.1,5221.69,3868.38,1353.31
+ORD-001261,2025-04-08,East,Clothing,Jacket,Retail,7,92.97,0.05,618.25,404.58,213.67
+ORD-001262,2025-12-04,West,Clothing,Shoes,Retail,7,65.34,0.1,411.64,274.65,136.99
+ORD-001263,2025-06-12,South,Electronics,Headphones,Online,7,126.29,0.0,884.03,587.61,296.42
+ORD-001264,2025-10-28,North,Office Supplies,Paper,Online,1,12.84,0.0,12.84,7.71,5.13
+ORD-001265,2025-03-29,East,Office Supplies,Binders,Retail,7,15.4,0.0,107.8,78.73,29.07
+ORD-001266,2025-01-14,North,Furniture,Chair,Retail,9,150.41,0.0,1353.69,779.39,574.3
+ORD-001267,2025-01-21,East,Furniture,Desk,Wholesale,7,278.06,0.0,1946.42,1317.36,629.06
+ORD-001268,2025-05-17,South,Office Supplies,Paper,Wholesale,6,11.41,0.0,68.46,40.56,27.9
+ORD-001269,2025-12-14,East,Office Supplies,Binders,Retail,3,15.55,0.05,44.32,24.89,19.43
+ORD-001270,2025-01-18,West,Office Supplies,Paper,Retail,8,11.71,0.0,93.68,54.88,38.8
+ORD-001271,2025-05-15,East,Clothing,Shoes,Wholesale,5,69.86,0.05,331.84,254.63,77.21
+ORD-001272,2025-02-09,East,Furniture,Shelf,Wholesale,3,80.33,0.1,216.89,128.84,88.05
+ORD-001273,2025-12-07,East,Office Supplies,Pens,Wholesale,5,8.61,0.05,40.9,25.34,15.56
+ORD-001274,2025-09-04,West,Clothing,Jacket,Wholesale,2,98.44,0.0,196.88,115.08,81.8
+ORD-001275,2025-10-06,West,Electronics,Laptop,Online,10,789.42,0.0,7894.2,5793.45,2100.75
+ORD-001276,2025-09-18,North,Electronics,Headphones,Retail,8,117.53,0.0,940.24,621.84,318.4
+ORD-001277,2025-08-28,East,Furniture,Chair,Retail,4,138.26,0.05,525.39,412.91,112.48
+ORD-001278,2025-10-10,North,Clothing,Jacket,Online,8,98.76,0.0,790.08,565.76,224.32
+ORD-001279,2025-01-03,West,Electronics,Laptop,Retail,1,875.85,0.0,875.85,598.07,277.78
+ORD-001280,2025-11-12,East,Office Supplies,Pens,Online,4,7.77,0.1,27.97,19.97,8.0
+ORD-001281,2025-09-28,South,Electronics,Laptop,Retail,7,816.39,0.05,5428.99,3040.81,2388.18
+ORD-001282,2025-09-27,North,Furniture,Chair,Online,1,142.09,0.05,134.99,106.33,28.66
+ORD-001283,2025-05-24,South,Office Supplies,Paper,Retail,8,11.8,0.0,94.4,74.49,19.91
+ORD-001284,2025-10-20,East,Electronics,Headphones,Retail,9,120.08,0.1,972.65,602.1,370.55
+ORD-001285,2025-05-20,North,Clothing,Shoes,Retail,6,65.58,,393.48,278.22,115.26
+ORD-001286,2025-01-18,North,Electronics,Headphones,Online,3,113.62,0.0,340.86,204.68,136.18
+ORD-001287,2025-11-28,West,Clothing,Jacket,Retail,8,93.5,0.1,673.2,462.4,210.8
+ORD-001288,2025-03-27,East,Electronics,Phone,Online,4,575.85,0.1,2073.06,1539.66,533.4
+ORD-001289,2025-02-07,North,Clothing,Jacket,Online,8,92.71,0.0,741.68,582.19,159.49
+ORD-001290,2025-08-15,South,Office Supplies,Pens,Online,7,7.68,0.0,53.76,34.13,19.63
+ORD-001291,2025-03-27,West,Electronics,Headphones,Wholesale,1,124.66,0.0,124.66,90.18,34.48
+ORD-001292,2025-11-10,East,Electronics,Laptop,Online,1,878.93,0.05,834.98,608.79,226.19
+ORD-001293,2025-06-11,East,Electronics,Headphones,Retail,1,119.22,0.05,113.26,68.55,44.71
+ORD-001294,2025-01-02,South,Office Supplies,Pens,Wholesale,1,7.37,0.0,7.37,5.21,2.16
+ORD-001295,2025-12-14,South,Office Supplies,Binders,Online,3,15.45,0.0,46.35,33.09,13.26
+ORD-001296,2025-07-07,North,Furniture,Desk,Wholesale,1,256.47,0.05,243.65,180.55,63.1
+ORD-001297,2025-04-06,East,Furniture,Shelf,Online,10,87.36,0.05,829.92,663.93,165.99
+ORD-001298,2025-09-05,North,Office Supplies,Pens,Online,10,7.72,0.0,77.2,43.24,33.96
+ORD-001299,2025-07-13,North,Office Supplies,Paper,Online,2,11.04,0.0,22.08,13.26,8.82
+ORD-001300,2025-01-11,East,Office Supplies,Paper,Retail,4,11.7,0.1,42.12,24.69,17.43
+ORD-001301,2025-10-05,West,Furniture,Shelf,Wholesale,8,87.79,0.0,702.32,413.39,288.93
+ORD-001302,2025-05-27,East,Office Supplies,Binders,Retail,7,14.74,0.0,103.18,68.47,34.71
+ORD-001303,2025-09-13,South,Clothing,Jacket,Retail,6,90.73,0.05,517.16,398.02,119.14
+ORD-001304,2025-11-23,South,Furniture,Chair,Online,10,139.19,0.0,1391.9,921.69,470.21
+ORD-001305,2025-08-11,South,Electronics,Headphones,Wholesale,7,124.85,0.1,786.56,564.06,222.5
+ORD-001306,2025-09-03,South,Electronics,Phone,Retail,7,507.12,0.05,3372.35,2172.21,1200.14
+ORD-001307,2025-04-03,East,Office Supplies,Paper,Online,6,12.37,0.0,74.22,46.75,27.47
+ORD-001308,2025-03-28,South,Furniture,Chair,Wholesale,6,143.75,0.0,862.5,654.26,208.24
+ORD-001309,2025-06-01,East,Clothing,Shoes,Online,3,68.55,0.05,195.37,139.47,55.9
+ORD-001310,2025-11-08,West,Office Supplies,Paper,Online,6,12.9,0.0,77.4,49.36,28.04
+ORD-001311,2025-07-11,West,Office Supplies,Binders,Online,10,15.95,0.0,159.5,124.18,35.32
+ORD-001312,2025-05-08,North,Office Supplies,Paper,Online,4,11.65,0.0,46.6,31.44,15.16
+ORD-001313,2025-10-12,South,Electronics,Headphones,Wholesale,2,111.0,0.0,222.0,132.55,89.45
+ORD-001314,2025-11-08,North,Office Supplies,Binders,Retail,6,14.54,0.1,78.52,52.67,25.85
+ORD-001315,2025-11-26,South,Electronics,Headphones,Wholesale,8,114.33,0.05,868.91,624.46,244.45
+ORD-001316,2025-04-20,South,Office Supplies,Binders,Online,10,15.11,0.05,143.54,92.12,51.42
+ORD-001317,2025-09-17,North,Clothing,Jacket,Retail,6,101.36,0.0,608.16,462.78,145.38
+ORD-001318,2025-08-04,East,Office Supplies,Paper,Retail,8,12.71,0.0,101.68,69.48,32.2
+ORD-001319,2025-06-13,South,Clothing,T-Shirt,Retail,3,21.32,0.1,57.56,38.39,19.17
+ORD-001320,2025-05-25,West,Furniture,Shelf,Retail,5,84.03,0.0,420.15,321.28,98.87
+ORD-001321,2025-02-11,North,Clothing,T-Shirt,Retail,5,20.37,0.05,96.76,64.42,32.34
+ORD-001322,2025-04-11,North,Office Supplies,Pens,Retail,4,8.06,0.0,32.24,21.07,11.17
+ORD-001323,2025-07-20,South,Office Supplies,Pens,Wholesale,8,7.44,0.0,59.52,34.28,25.24
+ORD-001324,2025-11-20,North,Electronics,Laptop,Online,9,877.55,0.0,7897.95,5059.61,2838.34
+ORD-001325,2025-11-13,North,Electronics,Laptop,Retail,4,868.14,0.0,3472.56,2254.6,1217.96
+ORD-001326,2025-03-10,West,Office Supplies,Pens,Retail,2,7.63,0.0,15.26,9.08,6.18
+ORD-001327,2025-09-05,North,Electronics,Laptop,Online,9,846.16,0.0,7615.44,5307.63,2307.81
+ORD-001328,2025-01-31,North,Office Supplies,Paper,Online,9,12.13,0.0,109.17,63.97,45.2
+ORD-001329,2025-09-04,East,Clothing,Jacket,Wholesale,10,99.58,0.0,995.8,603.38,392.42
+ORD-001330,2025-05-05,South,Clothing,Jacket,Online,3,94.63,0.1,255.5,176.36,79.14
+ORD-001331,2025-06-14,East,Electronics,Headphones,Online,8,114.08,0.0,912.64,563.32,349.32
+ORD-001332,2025-09-19,South,Clothing,T-Shirt,Retail,8,22.49,0.05,170.92,121.34,49.58
+ORD-001333,2025-06-05,West,Electronics,Headphones,Online,8,111.94,0.0,895.52,647.13,248.39
+ORD-001334,2025-10-22,North,Furniture,Desk,Online,9,263.52,0.0,2371.68,1483.07,888.61
+ORD-001335,2025-07-14,South,Clothing,Shoes,Online,10,66.78,0.0,667.8,381.88,285.92
+ORD-001336,2025-12-31,East,Electronics,Headphones,Online,5,123.55,0.1,555.98,373.82,182.16
+ORD-001337,2025-08-21,West,Electronics,Phone,Online,1,568.34,0.05,539.92,309.5,230.42
+ORD-001338,2025-04-19,South,Electronics,Phone,Wholesale,2,506.26,0.1,911.27,618.58,292.69
+ORD-001339,2025-10-10,East,Furniture,Shelf,Online,9,83.64,0.0,752.76,550.68,202.08
+ORD-001340,2025-05-29,North,Office Supplies,Binders,Online,9,15.56,0.05,133.04,93.8,39.24
+ORD-001341,2025-07-14,North,Electronics,Headphones,Retail,1,113.54,0.05,107.86,71.41,36.45
+ORD-001342,2025-02-19,North,Electronics,Phone,Online,4,545.75,0.1,1964.7,1545.17,419.53
+ORD-001343,2025-02-13,East,Office Supplies,Pens,Online,3,8.22,0.0,24.66,14.19,10.47
+ORD-001344,2025-07-29,South,Electronics,Headphones,Online,4,117.21,0.1,421.96,324.91,97.05
+ORD-001345,2025-03-10,East,Office Supplies,Binders,Online,7,15.8,0.0,110.6,82.95,27.65
+ORD-001346,2025-12-31,North,Clothing,Shoes,Online,6,70.12,0.05,399.68,261.76,137.92
+ORD-001347,2025-11-09,West,Office Supplies,Pens,Online,5,8.16,0.0,40.8,24.0,16.8
+ORD-001348,2025-09-13,West,Clothing,Shoes,Wholesale,5,65.98,0.0,329.9,194.3,135.6
+ORD-001349,2025-09-26,North,Furniture,Desk,Wholesale,7,240.16,0.0,1681.12,1312.03,369.09
+ORD-001350,2025-08-06,North,Clothing,Shoes,Wholesale,7,64.97,0.05,432.05,262.87,169.18
+ORD-001351,2025-01-23,North,Electronics,Phone,Online,1,574.9,0.0,574.9,441.83,133.07
+ORD-001352,2025-05-24,West,Electronics,Headphones,Retail,2,127.35,0.0,254.7,172.13,82.57
+ORD-001353,2025-06-30,North,Office Supplies,Pens,Retail,4,8.39,0.0,33.56,22.33,11.23
+ORD-001354,2025-12-01,East,Electronics,Laptop,Online,5,780.59,0.05,3707.8,2613.55,1094.25
+ORD-001355,2025-03-22,South,Clothing,T-Shirt,Wholesale,10,22.09,0.0,220.9,133.37,87.53
+ORD-001356,2025-07-01,West,Office Supplies,Pens,Retail,9,8.38,0.05,71.65,47.08,24.57
+ORD-001357,2025-05-06,South,Clothing,Jacket,Online,7,97.65,0.0,683.55,536.33,147.22
+ORD-001358,2025-02-19,South,Furniture,Shelf,Wholesale,1,79.77,0.05,75.78,46.19,29.59
+ORD-001359,2025-02-07,West,Furniture,Chair,Online,2,148.86,0.05,282.83,220.72,62.11
+ORD-001360,2025-05-14,North,Office Supplies,Pens,Retail,5,7.57,0.05,35.96,28.72,7.24
+ORD-001361,2025-01-31,West,Electronics,Headphones,Online,6,113.7,0.05,648.09,364.86,283.23
+ORD-001362,2025-01-25,North,Office Supplies,Binders,Online,7,15.96,0.0,111.72,76.29,35.43
+ORD-001363,2025-05-09,South,Office Supplies,Pens,Wholesale,2,7.98,0.0,15.96,9.46,6.5
+ORD-001364,2025-03-15,West,Clothing,Shoes,Retail,9,68.58,0.05,586.36,413.64,172.72
+ORD-001365,2025-07-22,East,Office Supplies,Binders,Online,5,15.13,0.0,75.65,60.32,15.33
+ORD-001366,2025-01-07,East,Electronics,Laptop,Retail,6,883.16,0.0,5298.96,4102.56,1196.4
+ORD-001367,2025-04-21,North,Furniture,Shelf,Wholesale,1,79.83,0.05,75.84,59.25,16.59
+ORD-001368,2025-06-15,South,Office Supplies,Pens,Wholesale,9,8.33,0.0,74.97,45.23,29.74
+ORD-001369,2025-12-18,South,Electronics,Headphones,Wholesale,6,116.82,0.0,700.92,480.54,220.38
+ORD-001370,2025-08-20,East,Furniture,Chair,Wholesale,3,131.42,,354.83,215.99,138.84
+ORD-001371,2025-11-18,South,Electronics,Headphones,Retail,4,118.5,0.0,474.0,367.28,106.72
+ORD-001372,2025-05-06,South,Electronics,Laptop,Online,4,826.4,0.0,3305.6,1976.05,1329.55
+ORD-001373,2025-06-14,South,Furniture,Shelf,Wholesale,1,81.0,0.0,81.0,47.67,33.33
+ORD-001374,2025-06-03,North,Electronics,Laptop,Online,10,807.57,0.0,8075.7,4466.19,3609.51
+ORD-001375,2025-11-20,South,Office Supplies,Pens,Online,9,8.17,0.05,69.85,41.59,28.26
+ORD-001376,2025-12-17,North,Electronics,Laptop,Online,9,830.03,0.05,7096.76,4239.89,2856.87
+ORD-001377,2025-12-18,West,Office Supplies,Binders,Online,4,15.54,0.0,62.16,35.39,26.77
+ORD-001378,2025-10-02,East,Electronics,Headphones,Retail,6,126.46,0.0,758.76,581.92,176.84
+ORD-001379,2025-07-03,North,Clothing,Jacket,Wholesale,5,93.62,0.0,468.1,348.73,119.37
+ORD-001380,2025-07-17,East,Electronics,Headphones,Retail,5,118.52,0.0,592.6,363.63,228.97
+ORD-001381,2025-12-24,West,Office Supplies,Paper,Retail,6,11.99,0.05,68.34,50.97,17.37
+ORD-001382,2025-04-14,North,Furniture,Chair,Online,5,141.49,0.05,672.08,440.58,231.5
+ORD-001383,2025-05-07,North,Electronics,Laptop,Retail,8,768.61,0.0,6148.88,4574.03,1574.85
+ORD-001384,2025-11-24,North,Furniture,Desk,Online,1,252.21,0.05,239.6,151.13,88.47
+ORD-001385,2025-05-22,North,Clothing,Jacket,Online,2,90.01,0.05,171.02,118.2,52.82
+ORD-001386,2025-03-27,East,Clothing,Shoes,Retail,9,68.72,0.0,618.48,399.17,219.31
+ORD-001387,2025-07-24,West,Furniture,Chair,Retail,9,150.6,0.05,1287.63,768.61,519.02
+ORD-001388,2025-04-29,North,Electronics,Headphones,Online,-9,121.59,0.05,-1039.59,-723.98,-315.61
+ORD-001389,2025-11-22,East,Office Supplies,Paper,Online,4,11.86,0.0,47.44,35.0,12.44
+ORD-001390,2025-11-28,North,Office Supplies,Binders,Online,5,15.16,0.0,75.8,55.96,19.84
+ORD-001391,2025-04-22,East,Electronics,Laptop,Retail,1,842.18,0.05,800.07,511.3,288.77
+ORD-001392,2025-07-13,East,Office Supplies,Paper,Online,3,11.88,0.1,32.08,21.8,10.28
+ORD-001393,2025-12-26,South,Furniture,Desk,Online,8,257.82,0.0,2062.56,1528.24,534.32
+ORD-001394,2025-09-28,North,Office Supplies,Paper,Wholesale,4,12.39,0.0,49.56,27.93,21.63
+ORD-001395,2025-03-20,East,Furniture,Chair,Retail,5,130.16,0.05,618.26,351.15,267.11
+ORD-001396,2025-08-04,West,Furniture,Shelf,Online,2,85.55,0.0,171.1,110.2,60.9
+ORD-001397,2025-08-15,North,Electronics,Headphones,Retail,5,120.91,0.0,604.55,366.28,238.27
+ORD-001398,2025-08-27,North,Office Supplies,Binders,Online,8,15.62,0.0,124.96,80.43,44.53
+ORD-001399,2025-01-10,North,Electronics,Phone,Online,6,581.7,0.1,3141.18,1801.27,1339.91
+ORD-001400,2025-04-20,East,Office Supplies,Paper,Retail,6,12.57,0.05,71.65,50.01,21.64
+ORD-001401,2025-11-08,East,Office Supplies,Pens,Online,10,8.0,0.1,72.0,51.69,20.31
+ORD-001402,2025-03-30,West,Office Supplies,Binders,Online,3,14.21,0.0,42.63,31.89,10.74
+ORD-001403,2025-04-20,East,Electronics,Laptop,Wholesale,3,831.58,0.0,2494.74,1777.83,716.91
+ORD-001404,2025-04-28,West,Electronics,Laptop,Retail,7,863.86,0.0,6047.02,3925.09,2121.93
+ORD-001405,2025-03-06,West,Furniture,Shelf,Wholesale,5,90.88,0.0,454.4,356.13,98.27
+ORD-001406,2025-02-26,North,Office Supplies,Paper,Wholesale,10,12.62,0.0,126.2,92.33,33.87
+ORD-001407,2025-05-07,East,Clothing,T-Shirt,Online,1,20.91,0.05,19.86,13.54,6.32
+ORD-001408,2025-11-16,South,Furniture,Shelf,Retail,2,87.89,0.05,166.99,100.48,66.51
+ORD-001409,2025-01-01,South,Clothing,Shoes,Online,4,74.26,0.05,282.19,200.99,81.2
+ORD-001410,2025-04-14,West,Electronics,Phone,Retail,5,555.64,0.0,2778.2,1938.99,839.21
+ORD-001411,2025-01-23,East,Furniture,Desk,Online,9,267.73,0.0,2409.57,1736.9,672.67
+ORD-001412,2025-07-24,West,Electronics,Phone,Online,5,540.01,0.0,2700.05,2012.3,687.75
+ORD-001413,2025-04-02,South,Office Supplies,Binders,Online,5,15.33,0.0,76.65,59.69,16.96
+ORD-001414,2025-10-17,East,Electronics,Headphones,Retail,2,116.05,0.0,232.1,182.72,49.38
+ORD-001415,2025-08-02,South,Electronics,Phone,Online,5,504.47,0.0,2522.35,1784.68,737.67
+ORD-001416,2025-10-14,North,Office Supplies,Binders,Retail,6,15.79,0.1,85.27,67.49,17.78
+ORD-001417,2025-08-20,North,Office Supplies,Binders,Wholesale,6,16.06,0.0,96.36,74.95,21.41
+ORD-001418,2025-06-10,East,Electronics,Laptop,Retail,7,866.82,0.0,6067.74,3341.22,2726.52
+ORD-001419,2025-11-11,North,Electronics,Phone,Online,5,525.65,0.0,2628.25,1864.49,763.76
+ORD-001420,2025-06-23,West,Furniture,Chair,Online,2,130.9,0.05,248.71,147.89,100.82
+ORD-001421,2025-12-13,North,Furniture,Chair,Wholesale,2,135.08,0.0,270.16,168.53,101.63
+ORD-001422,2025-12-30,North,Electronics,Headphones,Retail,2,126.58,0.0,253.16,158.07,95.09
+ORD-001423,2025-08-03,East,Office Supplies,Binders,Online,7,15.37,0.0,107.59,72.17,35.42
+ORD-001424,2025-09-04,North,Electronics,Phone,Wholesale,9,580.32,0.0,5222.88,2886.77,2336.11
+ORD-001425,2025-04-04,West,Office Supplies,Paper,Online,9,11.7,0.05,100.04,60.92,39.12
+ORD-001426,2025-10-25,East,Furniture,Shelf,Online,4,85.7,0.0,342.8,191.04,151.76
+ORD-001427,2025-09-03,North,Electronics,Headphones,Online,1,125.57,0.0,125.57,89.49,36.08
+ORD-001428,2025-11-26,East,Electronics,Headphones,Online,7,114.89,0.05,764.02,590.07,173.95
+ORD-001429,2025-04-08,East,Electronics,Phone,Online,1,580.1,0.0,580.1,463.76,116.34
+ORD-001430,2025-10-15,East,Electronics,Laptop,Retail,7,832.12,0.05,5533.6,3664.01,1869.59
+ORD-001431,2025-06-21,West,Furniture,Chair,Online,4,128.98,0.0,515.92,317.31,198.61
+ORD-001432,2025-03-09,East,Clothing,Jacket,Retail,9,87.78,0.05,750.52,572.85,177.67
+ORD-001433,2025-03-04,East,Clothing,Shoes,Wholesale,7,74.28,0.0,519.96,300.69,219.27
+ORD-001434,2025-07-25,South,Furniture,Shelf,Wholesale,8,86.98,0.0,695.84,552.19,143.65
+ORD-001435,2025-04-27,East,Office Supplies,Paper,Online,5,12.51,0.0,62.55,45.58,16.97
+ORD-001436,2025-02-07,West,Office Supplies,Binders,Retail,9,15.68,0.1,127.01,85.86,41.15
+ORD-001437,2025-06-05,East,Clothing,Jacket,Online,6,93.79,0.0,562.74,323.1,239.64
+ORD-001438,2025-08-27,East,Electronics,Laptop,Retail,7,859.18,0.1,5412.83,3001.68,2411.15
+ORD-001439,2025-04-27,South,Electronics,Headphones,Online,4,128.4,0.1,462.24,317.16,145.08
+ORD-001440,2025-12-15,East,Furniture,Desk,Retail,5,246.36,0.0,1231.8,804.94,426.86
+ORD-001441,2025-10-12,West,Electronics,Headphones,Online,9,125.07,0.0,1125.63,856.23,269.4
+ORD-001442,2025-07-07,North,Furniture,Shelf,Retail,4,82.39,0.0,329.56,234.18,95.38
+ORD-001443,2025-12-08,North,Clothing,Jacket,Online,1,92.29,0.1,83.06,54.65,28.41
+ORD-001444,2025-06-08,East,Clothing,Jacket,Online,4,93.67,0.05,355.95,215.88,140.07
+ORD-001445,2025-02-20,South,Electronics,Laptop,Retail,4,867.72,0.0,3470.88,2325.86,1145.02
+ORD-001446,2025-01-14,East,Furniture,Desk,Online,5,240.12,0.0,1200.6,709.25,491.35
+ORD-001447,2025-12-09,North,Furniture,Shelf,Retail,1,84.1,0.05,79.9,57.27,22.63
+ORD-001448,2025-12-17,South,Furniture,Shelf,Retail,2,87.45,0.0,174.9,122.68,52.22
+ORD-001449,2025-09-27,East,Office Supplies,Binders,Retail,4,14.06,0.0,56.24,42.32,13.92
+ORD-001450,2025-02-07,East,Electronics,Headphones,Retail,5,125.61,0.0,628.05,416.01,212.04
+ORD-001451,2025-04-18,East,Clothing,T-Shirt,Retail,1,23.56,0.0,23.56,14.6,8.96
+ORD-001452,2025-01-15,East,Clothing,T-Shirt,Wholesale,4,20.56,0.1,74.02,56.19,17.83
+ORD-001453,2025-01-19,East,Office Supplies,Binders,Online,4,14.17,0.05,53.85,38.92,14.93
+ORD-001454,2025-03-31,West,Office Supplies,Pens,Retail,1,8.61,0.0,8.61,6.26,2.35
+ORD-001455,2025-07-28,East,Office Supplies,Binders,Retail,3,14.27,0.0,42.81,29.2,13.61
+ORD-001456,2025-01-24,East,Furniture,Desk,Online,3,242.48,0.05,691.07,531.43,159.64
+ORD-001457,2025-12-26,East,Electronics,Phone,Online,2,579.07,0.0,1158.14,702.93,455.21
+ORD-001458,2025-06-16,North,Office Supplies,Binders,Online,8,15.94,0.0,127.52,82.94,44.58
+ORD-001459,2025-04-07,North,Electronics,Laptop,Retail,1,840.43,0.0,840.43,629.53,210.9
+ORD-001460,2025-07-08,East,Clothing,Jacket,Online,6,95.78,0.05,545.95,318.42,227.53
+ORD-001461,2025-10-16,West,Furniture,Desk,Retail,7,277.44,0.1,1747.87,1314.45,433.42
+ORD-001462,2025-04-25,East,Furniture,Desk,Retail,9,266.47,0.05,2278.32,1453.91,824.41
+ORD-001463,2025-01-18,North,Furniture,Chair,Retail,6,143.55,0.0,861.3,500.74,360.56
+ORD-001464,2025-01-19,East,Clothing,T-Shirt,Online,6,23.21,0.05,132.3,75.38,56.92
+ORD-001465,2025-11-07,North,Electronics,Laptop,Retail,8,840.11,0.0,6720.88,5112.96,1607.92
+ORD-001466,2025-02-10,East,Electronics,Headphones,Retail,9,120.07,0.1,972.57,724.23,248.34
+ORD-001467,2025-08-20,West,Electronics,Headphones,Online,3,117.88,0.0,353.64,219.97,133.67
+ORD-001468,2025-05-21,East,Office Supplies,Binders,Online,8,15.01,0.0,120.08,69.54,50.54
+ORD-001469,2025-10-11,East,Clothing,T-Shirt,Online,5,22.08,0.0,110.4,67.54,42.86
+ORD-001470,2025-01-23,South,Electronics,Laptop,Wholesale,1,801.74,0.0,801.74,483.65,318.09
+ORD-001471,2025-11-24,South,Clothing,Shoes,Online,7,69.42,0.0,485.94,356.32,129.62
+ORD-001472,2025-09-12,West,Electronics,Headphones,Online,10,125.8,0.0,1258.0,759.69,498.31
+ORD-001473,2025-06-13,East,Office Supplies,Binders,Online,2,14.8,0.05,28.12,16.99,11.13
+ORD-001474,2025-03-17,South,Electronics,Phone,Online,1,499.01,0.05,474.06,264.56,209.5
+ORD-001475,2025-12-23,South,Furniture,Shelf,Online,10,82.05,0.0,820.5,573.71,246.79
+ORD-001476,2025-04-21,North,Office Supplies,Binders,Retail,6,14.36,0.0,86.16,62.23,23.93
+ORD-001477,2025-06-29,North,Office Supplies,Paper,Retail,3,12.56,0.0,37.68,26.88,10.8
+ORD-001478,2025-05-24,North,Electronics,Headphones,Wholesale,8,119.03,0.0,952.24,659.09,293.15
+ORD-001479,2025-03-26,South,Clothing,Jacket,Online,4,91.66,0.0,366.64,290.2,76.44
+ORD-001480,2025-06-02,West,Clothing,Shoes,Retail,4,73.48,0.1,264.53,176.75,87.78
+ORD-001481,2025-02-25,South,Furniture,Desk,Retail,3,240.0,0.1,648.0,495.74,152.26
+ORD-001482,2025-01-01,North,Office Supplies,Binders,Retail,6,14.22,0.0,85.32,60.71,24.61
+ORD-001483,2025-04-16,North,Office Supplies,Paper,Wholesale,2,12.63,0.05,24.0,13.7,10.3
+ORD-001484,2025-02-10,South,Electronics,Phone,Online,4,544.38,0.05,2068.64,1556.7,511.94
+ORD-001485,2025-06-01,West,Clothing,T-Shirt,Retail,4,22.96,0.0,91.84,63.93,27.91
+ORD-001486,2025-11-11,South,Electronics,Headphones,Retail,1,126.49,0.05,120.17,85.73,34.44
+ORD-001487,2025-03-01,East,Office Supplies,Paper,Online,8,12.85,0.0,102.8,61.17,41.63
+ORD-001488,2025-01-01,West,Electronics,Headphones,Wholesale,1,111.62,0.0,111.62,73.6,38.02
+ORD-001489,2025-02-10,North,Electronics,Phone,Online,10,565.85,0.1,5092.65,3922.08,1170.57
+ORD-001490,2025-07-05,East,Office Supplies,Binders,Online,1,15.5,0.05,14.72,8.89,5.83
+ORD-001491,2025-04-11,West,Office Supplies,Pens,Retail,4,7.62,0.0,30.48,16.76,13.72
+ORD-001492,2025-06-28,South,Clothing,Jacket,Retail,1,101.56,0.0,101.56,62.4,39.16
+ORD-001493,2025-01-11,North,Clothing,Jacket,Wholesale,4,93.54,0.1,336.74,226.25,110.49
+ORD-001494,2025-05-02,West,Electronics,Laptop,Wholesale,7,870.85,0.0,6095.95,4604.39,1491.56
+ORD-001495,2025-05-30,West,Electronics,Headphones,Online,1,122.02,0.1,109.82,78.06,31.76
+ORD-001496,2025-06-07,East,Furniture,Shelf,Retail,6,85.36,0.1,460.94,359.43,101.51
+ORD-001497,2025-07-21,East,Furniture,Chair,Wholesale,8,132.37,0.0,1058.96,703.03,355.93
+ORD-001498,2025-10-12,North,Furniture,Shelf,Online,5,90.63,0.05,430.49,278.83,151.66
+ORD-001499,2025-06-20,West,Clothing,Jacket,Retail,2,95.86,0.05,182.13,110.71,71.42
+ORD-001500,2025-11-04,South,Office Supplies,Binders,Wholesale,7,13.81,0.05,91.84,55.52,36.32
+ORD-001501,2025-07-13,North,Electronics,Laptop,Online,2,756.8,0.0,1513.6,1111.02,402.58
+ORD-001502,2025-04-06,East,Furniture,Desk,Wholesale,1,271.55,0.0,271.55,154.81,116.74
+ORD-001503,2025-03-25,West,Office Supplies,Binders,Retail,5,14.19,0.0,70.95,43.33,27.62
+ORD-001504,2025-04-28,West,Furniture,Chair,Wholesale,3,142.21,0.05,405.3,312.68,92.62
+ORD-001505,2025-08-07,North,Electronics,Laptop,Retail,1,843.76,0.05,801.57,556.47,245.1
+ORD-001506,2025-03-30,North,Furniture,Shelf,Retail,8,82.0,0.05,623.2,350.02,273.18
+ORD-001507,2025-11-30,West,Furniture,Desk,Retail,6,262.88,0.0,1577.28,1145.21,432.07
+ORD-001508,2025-06-25,West,Electronics,Headphones,Online,10,115.01,0.0,1150.1,778.24,371.86
+ORD-001509,2025-11-12,East,Office Supplies,Paper,Retail,5,12.86,0.0,64.3,49.1,15.2
+ORD-001510,2025-09-07,East,Furniture,Desk,Wholesale,5,274.98,0.05,1306.16,941.23,364.93
+ORD-001511,2025-05-02,South,Office Supplies,Paper,Wholesale,9,11.59,0.0,104.31,57.49,46.82
+ORD-001512,2025-03-25,South,Furniture,Chair,Wholesale,1,140.65,0.05,133.62,80.36,53.26
+ORD-001513,2025-09-29,North,Clothing,Jacket,Retail,4,95.01,0.0,380.04,233.53,146.51
+ORD-001514,2025-05-01,North,Electronics,Laptop,Retail,8,880.36,0.0,7042.88,5110.02,1932.86
+ORD-001515,2025-04-01,North,Electronics,Headphones,Retail,3,117.97,0.1,318.52,215.74,102.78
+ORD-001516,2025-12-06,West,Furniture,Chair,Retail,9,141.39,0.0,1272.51,937.66,334.85
+ORD-001517,2025-06-26,North,Furniture,Chair,Retail,3,149.6,0.0,448.8,304.38,144.42
+ORD-001518,2025-01-18,North,Electronics,Laptop,Online,5,775.76,0.05,3684.86,2328.26,1356.6
+ORD-001519,2025-06-30,East,Office Supplies,Paper,Online,9,12.1,0.0,108.9,62.72,46.18
+ORD-001520,2025-06-18,North,Electronics,Laptop,Retail,3,768.26,0.1,2074.3,1245.94,828.36
+ORD-001521,2025-11-12,North,Electronics,Headphones,Online,10,122.26,0.1,1100.34,715.44,384.9
+ORD-001522,2025-09-17,East,Furniture,Desk,Online,1,254.41,0.05,241.69,166.25,75.44
+ORD-001523,2025-03-11,South,Office Supplies,Paper,Online,3,12.9,0.0,38.7,30.37,8.33
+ORD-001524,2025-02-24,East,Clothing,T-Shirt,Wholesale,6,21.7,0.0,130.2,79.41,50.79
+ORD-001525,2025-08-09,West,Office Supplies,Pens,Wholesale,6,7.53,,40.66,29.13,11.53
+ORD-001526,2025-01-18,North,Office Supplies,Binders,Retail,10,15.8,0.0,158.0,92.93,65.07
+ORD-001527,2025-04-27,West,Office Supplies,Pens,Wholesale,10,8.41,0.1,75.69,55.14,20.55
+ORD-001528,2025-02-20,West,Office Supplies,Binders,Wholesale,7,15.47,0.05,102.88,56.88,46.0
+ORD-001529,2025-01-08,West,Electronics,Headphones,Online,7,124.78,0.0,873.46,623.63,249.83
+ORD-001530,2025-12-02,East,Office Supplies,Pens,Online,4,7.7,0.0,30.8,18.2,12.6
+ORD-001531,2025-02-02,East,Office Supplies,Binders,Online,9,15.34,0.05,131.16,78.05,53.11
+ORD-001532,2025-01-04,East,Furniture,Chair,Online,7,129.65,0.0,907.55,625.96,281.59
+ORD-001533,2025-12-07,East,Office Supplies,Binders,Retail,1,14.27,0.0,14.27,9.19,5.08
+ORD-001534,2025-03-10,North,Furniture,Chair,Online,9,149.68,0.05,1279.76,854.66,425.1
+ORD-001535,2025-10-26,West,Furniture,Shelf,Wholesale,4,88.25,0.0,353.0,221.41,131.59
+ORD-001536,2025-01-12,East,Electronics,Phone,Retail,5,516.73,0.0,2583.65,2036.86,546.79
+ORD-001537,2025-02-26,West,Office Supplies,Pens,Online,5,7.5,,35.62,22.18,13.44
+ORD-001538,2025-02-10,South,Clothing,Shoes,Wholesale,9,75.03,0.05,641.51,439.76,201.75
+ORD-001539,2025-09-15,North,Electronics,Headphones,Wholesale,3,112.55,0.0,337.65,257.83,79.82
+ORD-001540,2025-08-15,South,Furniture,Shelf,Retail,4,81.7,0.1,294.12,210.6,83.52
+ORD-001541,2025-06-23,South,Electronics,Headphones,Retail,1,113.91,0.1,102.52,64.66,37.86
+ORD-001542,2025-03-30,South,Electronics,Headphones,Wholesale,4,110.54,0.0,442.16,304.25,137.91
+ORD-001543,2025-02-02,South,Clothing,Jacket,Retail,1,92.17,0.0,92.17,52.61,39.56
+ORD-001544,2025-07-27,North,Furniture,Shelf,Wholesale,6,91.45,0.05,521.26,357.8,163.46
+ORD-001545,2025-03-26,East,Furniture,Shelf,Online,9,82.85,0.0,745.65,490.52,255.13
+ORD-001546,2025-08-04,South,Electronics,Laptop,Retail,5,820.56,0.05,3897.66,2882.25,1015.41
+ORD-001547,2025-09-08,West,Clothing,T-Shirt,Retail,10,22.87,0.0,228.7,174.26,54.44
+ORD-001548,2025-11-07,North,Electronics,Phone,Online,10,544.41,0.0,5444.1,3265.94,2178.16
+ORD-001549,2025-06-30,South,Office Supplies,Paper,Online,1,12.47,0.0,12.47,7.11,5.36
+ORD-001550,2025-01-02,South,Electronics,Laptop,Online,6,841.21,0.0,5047.26,3268.8,1778.46
+ORD-001551,2025-04-13,East,Electronics,Phone,Online,6,549.38,0.1,2966.65,2027.82,938.83
+ORD-001552,2025-11-08,South,Office Supplies,Paper,Online,4,12.29,0.0,49.16,31.67,17.49
+ORD-001553,2025-07-14,East,Electronics,Headphones,Online,9,125.74,0.1,1018.49,720.22,298.27
+ORD-001554,2025-08-14,West,Office Supplies,Binders,Wholesale,4,15.5,0.0,62.0,41.94,20.06
+ORD-001555,2025-06-17,South,Electronics,Headphones,Retail,1,125.6,0.05,119.32,93.57,25.75
+ORD-001556,2025-03-01,East,Office Supplies,Pens,Retail,6,7.55,0.1,40.77,26.6,14.17
+ORD-001557,2025-11-24,North,Office Supplies,Pens,Online,3,8.23,0.0,24.69,14.09,10.6
+ORD-001558,2025-10-10,North,Office Supplies,Binders,Wholesale,4,15.57,0.0,62.28,38.96,23.32
+ORD-001559,2025-12-30,South,Electronics,Headphones,Online,6,116.16,0.05,662.11,464.45,197.66
+ORD-001560,2025-11-09,North,Office Supplies,Paper,Online,8,12.72,0.05,96.67,59.36,37.31
+ORD-001561,2025-04-17,East,Clothing,Shoes,Retail,3,67.81,0.0,203.43,125.57,77.86
+ORD-001562,2025-04-03,East,Electronics,Headphones,Wholesale,4,115.08,0.0,460.32,292.25,168.07
+ORD-001563,2025-04-01,East,Electronics,Headphones,Wholesale,1,127.05,0.05,120.7,88.9,31.8
+ORD-001564,2025-12-02,South,Office Supplies,Binders,Retail,4,14.39,0.0,57.56,45.19,12.37
+ORD-001565,2025-07-23,East,Electronics,Laptop,Retail,6,808.91,0.05,4610.79,2939.81,1670.98
+ORD-001566,2025-06-15,South,Office Supplies,Pens,Retail,7,7.83,0.0,54.81,32.82,21.99
+ORD-001567,2025-12-20,North,Office Supplies,Paper,Retail,3,12.76,0.0,38.28,25.08,13.2
+ORD-001568,2025-08-09,North,Electronics,Headphones,Online,1,119.14,0.05,113.18,72.2,40.98
+ORD-001569,2025-11-28,East,Office Supplies,Pens,Online,6,8.25,0.0,49.5,39.48,10.02
+ORD-001570,2025-12-26,West,Office Supplies,Paper,Wholesale,7,12.56,0.1,79.13,52.7,26.43
+ORD-001571,2025-01-29,North,Furniture,Desk,Wholesale,1,265.32,0.0,265.32,190.98,74.34
+ORD-001572,2025-05-12,East,Clothing,T-Shirt,Online,6,23.56,0.0,141.36,110.04,31.32
+ORD-001573,2025-09-25,East,Electronics,Headphones,Online,1,125.81,,125.81,88.98,36.83
+ORD-001574,2025-10-24,West,Furniture,Shelf,Online,5,83.64,0.0,418.2,256.08,162.12
+ORD-001575,2025-02-24,East,Clothing,T-Shirt,Retail,7,23.59,0.05,156.87,110.1,46.77
+ORD-001576,2025-04-27,East,Electronics,Headphones,Online,8,120.47,0.05,915.57,595.55,320.02
+ORD-001577,2025-07-20,East,Clothing,T-Shirt,Retail,8,20.32,0.05,154.43,101.24,53.19
+ORD-001578,2025-10-19,West,Electronics,Headphones,Online,8,115.39,0.0,923.12,733.72,189.4
+ORD-001579,2025-02-11,North,Furniture,Shelf,Online,3,86.66,0.0,259.98,161.1,98.88
+ORD-001580,2025-08-08,West,Electronics,Phone,Online,9,510.35,0.0,4593.15,3064.7,1528.45
+ORD-001581,2025-04-19,North,Office Supplies,Binders,Retail,4,15.2,,57.76,34.08,23.68
+ORD-001582,2025-03-20,West,Office Supplies,Binders,Online,4,14.67,0.0,58.68,34.89,23.79
+ORD-001583,2025-07-08,North,Clothing,Jacket,Retail,8,95.52,0.0,764.16,535.58,228.58
+ORD-001584,2025-06-01,North,Clothing,T-Shirt,Retail,4,20.25,0.0,81.0,59.76,21.24
+ORD-001585,2025-08-21,North,Office Supplies,Pens,Retail,1,8.45,0.0,8.45,5.99,2.46
+ORD-001586,2025-04-26,South,Office Supplies,Paper,Online,8,11.73,0.05,89.15,56.37,32.78
+ORD-001587,2025-10-28,South,Furniture,Desk,Retail,7,245.03,0.05,1629.45,920.48,708.97
+ORD-001588,2025-01-29,North,Clothing,Jacket,Online,6,94.06,,507.92,339.07,168.85
+ORD-001589,2025-11-11,South,Office Supplies,Binders,Retail,2,14.97,0.0,29.94,20.24,9.7
+ORD-001590,2025-01-11,South,Clothing,T-Shirt,Retail,7,22.48,0.0,157.36,116.87,40.49
+ORD-001591,2025-09-26,East,Electronics,Laptop,Wholesale,2,823.22,0.0,1646.44,1169.09,477.35
+ORD-001592,2025-05-07,West,Furniture,Chair,Wholesale,6,129.77,0.05,739.69,567.94,171.75
+ORD-001593,2025-05-20,East,Office Supplies,Pens,Retail,6,8.48,0.05,48.34,36.05,12.29
+ORD-001594,2025-01-07,North,Electronics,Phone,Wholesale,8,536.24,0.0,4289.92,2751.85,1538.07
+ORD-001595,2025-09-14,South,Electronics,Phone,Online,10,503.45,0.05,4782.77,3386.47,1396.3
+ORD-001596,2025-03-02,West,Clothing,T-Shirt,Retail,2,22.96,0.0,45.92,33.83,12.09
+ORD-001597,2025-08-29,North,Furniture,Chair,Online,2,143.59,0.0,287.18,226.65,60.53
+ORD-001598,2025-09-22,South,Electronics,Phone,Online,6,552.91,0.0,3317.46,2174.89,1142.57
+ORD-001599,2025-11-05,West,Furniture,Chair,Retail,10,138.36,0.0,1383.6,985.22,398.38
+ORD-001600,2025-09-16,West,Furniture,Chair,Retail,2,138.0,0.1,248.4,161.0,87.4
+ORD-001601,2025-04-21,South,Office Supplies,Binders,Retail,5,15.09,0.05,71.68,52.65,19.03
+ORD-001602,2025-09-27,East,Clothing,Shoes,Wholesale,5,64.97,0.05,308.61,240.1,68.51
+ORD-001603,2025-10-29,South,Clothing,T-Shirt,Retail,4,21.29,0.1,76.64,59.76,16.88
+ORD-001604,2025-04-26,East,Office Supplies,Pens,Wholesale,7,8.62,0.05,57.32,33.78,23.54
+ORD-001605,2025-02-15,North,Office Supplies,Binders,Wholesale,3,15.39,0.0,46.17,27.75,18.42
+ORD-001606,2025-11-21,North,Furniture,Shelf,Wholesale,5,83.9,0.0,419.5,309.9,109.6
+ORD-001607,2025-02-23,East,Clothing,T-Shirt,Online,9,21.02,0.0,189.18,133.89,55.29
+ORD-001608,2025-08-05,North,Electronics,Phone,Retail,4,561.19,0.1,2020.28,1568.3,451.98
+ORD-001609,2025-03-28,East,Electronics,Phone,Retail,1,519.29,0.1,467.36,293.71,173.65
+ORD-001610,2025-02-15,South,Clothing,Shoes,Wholesale,9,66.22,0.05,566.18,431.43,134.75
+ORD-001611,2025-10-11,West,Clothing,Shoes,Online,3,66.13,0.0,198.39,143.03,55.36
+ORD-001612,2025-02-22,West,Furniture,Shelf,Online,8,88.12,0.0,704.96,422.18,282.78
+ORD-001613,2025-09-02,South,Office Supplies,Binders,Online,8,15.34,0.1,110.45,64.24,46.21
+ORD-001614,2025-09-10,East,Furniture,Shelf,Online,6,79.15,0.0,474.9,344.63,130.27
+ORD-001615,2025-01-22,North,Furniture,Shelf,Wholesale,1,79.76,0.0,79.76,47.03,32.73
+ORD-001616,2025-03-05,South,Electronics,Headphones,Online,10,122.57,0.0,1225.7,917.54,308.16
+ORD-001617,2025-10-17,North,Electronics,Phone,Online,7,546.14,0.0,3822.98,2635.08,1187.9
+ORD-001618,2025-07-05,West,Office Supplies,Paper,Retail,5,12.36,0.05,58.71,39.29,19.42
+ORD-001619,2025-02-14,West,Furniture,Chair,Online,9,132.79,0.1,1075.6,665.67,409.93
+ORD-001620,2025-12-28,West,Furniture,Shelf,Online,8,88.08,0.05,669.41,532.82,136.59
+ORD-001621,2025-04-07,West,Electronics,Headphones,Retail,8,128.37,0.0,1026.96,750.24,276.72
+ORD-001622,2025-01-02,West,Clothing,Shoes,Retail,2,71.13,0.0,142.26,105.91,36.35
+ORD-001623,2025-12-04,North,Office Supplies,Binders,Wholesale,7,14.27,0.1,89.9,66.72,23.18
+ORD-001624,2025-01-07,West,Clothing,Jacket,Retail,3,97.73,0.0,293.19,204.06,89.13
+ORD-001625,2025-07-21,East,Electronics,Phone,Wholesale,1,526.44,0.0,526.44,413.22,113.22
+ORD-001626,2025-12-29,South,Office Supplies,Binders,Online,4,13.92,0.05,52.9,36.82,16.08
+ORD-001627,2025-07-30,East,Clothing,Shoes,Retail,2,67.79,0.0,135.58,92.2,43.38
+ORD-001628,2025-08-02,South,Furniture,Shelf,Retail,2,90.52,0.0,181.04,111.96,69.08
+ORD-001629,2025-05-22,South,Electronics,Phone,Retail,8,532.32,0.1,3832.7,2377.94,1454.76
+ORD-001630,2025-02-16,North,Electronics,Phone,Retail,6,571.51,0.05,3257.61,2391.81,865.8
+ORD-001631,2025-07-29,North,Electronics,Phone,Online,4,540.75,0.0,2163.0,1370.68,792.32
+ORD-001632,2025-11-24,South,Furniture,Shelf,Online,2,85.23,0.0,170.46,124.81,45.65
+ORD-001633,2025-02-03,West,Furniture,Desk,Wholesale,8,239.42,0.1,1723.82,1358.67,365.15
+ORD-001634,2025-11-18,East,Electronics,Laptop,Wholesale,7,837.99,0.05,5572.63,3676.97,1895.66
+ORD-001635,2025-06-01,East,Office Supplies,Pens,Online,6,7.5,0.05,42.75,24.55,18.2
+ORD-001636,2025-07-15,South,Electronics,Laptop,Retail,2,817.21,0.0,1634.42,1171.29,463.13
+ORD-001637,2025-03-02,South,Furniture,Chair,Retail,2,134.63,0.1,242.33,133.86,108.47
+ORD-001638,2025-08-15,North,Office Supplies,Pens,Retail,2,7.86,0.1,14.15,10.57,3.58
+ORD-001639,2025-03-08,West,Electronics,Laptop,Online,1,824.86,0.0,824.86,562.07,262.79
+ORD-001640,2025-04-10,North,Electronics,Phone,Wholesale,10,498.05,0.0,4980.5,3349.05,1631.45
+ORD-001641,2025-09-21,East,Electronics,Phone,Retail,4,521.39,0.05,1981.28,1371.76,609.52
+ORD-001642,2025-01-19,East,Electronics,Headphones,Retail,7,129.4,0.05,860.51,584.37,276.14
+ORD-001643,2025-06-13,East,Furniture,Desk,Retail,10,241.59,0.05,2295.1,1448.08,847.02
+ORD-001644,2025-08-06,West,Electronics,Headphones,Retail,10,116.53,0.1,1048.77,650.63,398.14
+ORD-001645,2025-02-18,South,Electronics,Phone,Online,4,524.57,0.05,1993.37,1303.31,690.06
+ORD-001646,2025-04-18,West,Clothing,T-Shirt,Wholesale,5,21.58,0.0,107.9,83.49,24.41
+ORD-001647,2025-05-06,East,Clothing,Jacket,Online,5,97.81,0.0,489.05,285.53,203.52
+ORD-001648,2025-08-31,West,Electronics,Laptop,Wholesale,1,786.9,0.05,747.56,471.85,275.71
+ORD-001649,2025-12-23,East,Furniture,Chair,Wholesale,8,139.11,0.0,1112.88,665.59,447.29
+ORD-001650,2025-11-02,West,Furniture,Chair,Retail,6,143.24,0.0,859.44,564.47,294.97
+ORD-001651,2025-03-11,West,Clothing,Shoes,Retail,4,68.01,0.05,258.44,150.77,107.67
+ORD-001652,2025-01-07,South,Office Supplies,Paper,Online,6,12.86,0.0,77.16,57.11,20.05
+ORD-001653,2025-01-19,West,Electronics,Phone,Online,8,581.44,0.05,4418.94,2544.72,1874.22
+ORD-001654,2025-08-06,East,Electronics,Headphones,Retail,1,112.7,0.0,112.7,80.73,31.97
+ORD-001655,2025-02-27,South,Furniture,Shelf,Online,7,82.88,0.0,580.16,357.92,222.24
+ORD-001656,2025-03-26,West,Clothing,Jacket,Online,9,90.56,0.0,815.04,544.49,270.55
+ORD-001657,2025-11-06,South,Clothing,Shoes,Wholesale,8,66.49,0.05,505.32,303.19,202.13
+ORD-001658,2025-11-15,East,Electronics,Phone,Online,7,539.22,0.05,3585.81,2626.81,959.0
+ORD-001659,2025-11-03,North,Office Supplies,Pens,Online,1,8.08,,8.08,6.36,1.72
+ORD-001660,2025-04-03,North,Electronics,Headphones,Online,8,118.57,0.0,948.56,574.29,374.27
+ORD-001661,2025-08-15,West,Office Supplies,Pens,Retail,8,7.71,0.0,61.68,48.62,13.06
+ORD-001662,2025-08-11,South,Clothing,T-Shirt,Retail,5,21.22,0.05,100.79,63.63,37.16
+ORD-001663,2025-03-09,South,Furniture,Shelf,Retail,6,91.69,0.1,495.13,341.37,153.76
+ORD-001664,2025-07-22,North,Electronics,Laptop,Retail,7,875.59,0.05,5822.67,4223.75,1598.92
+ORD-001665,2025-07-11,South,Office Supplies,Binders,Online,2,13.98,0.0,27.96,16.77,11.19
+ORD-001666,2025-05-25,West,Furniture,Desk,Retail,3,266.51,0.05,759.55,502.21,257.34
+ORD-001667,2025-10-02,West,Office Supplies,Pens,Online,8,7.94,0.0,63.52,36.01,27.51
+ORD-001668,2025-09-05,North,Furniture,Chair,Wholesale,10,144.23,0.0,1442.3,1044.61,397.69
+ORD-001669,2025-07-14,East,Clothing,Shoes,Online,3,71.09,0.0,213.27,139.51,73.76
+ORD-001670,2025-09-22,South,Electronics,Phone,Online,5,573.63,0.0,2868.15,2216.83,651.32
+ORD-001671,2025-10-06,East,Electronics,Laptop,Retail,10,763.19,0.0,7631.9,4720.31,2911.59
+ORD-001672,2025-07-26,South,Furniture,Desk,Online,2,253.74,0.05,482.11,376.48,105.63
+ORD-001673,2025-04-08,South,Electronics,Headphones,Retail,3,129.32,0.0,387.96,227.06,160.9
+ORD-001674,2025-10-04,South,Electronics,Headphones,Retail,1,113.9,0.05,108.2,75.93,32.27
+ORD-001675,2025-09-19,East,Office Supplies,Binders,Wholesale,3,14.11,0.1,38.1,23.89,14.21
+ORD-001676,2025-12-25,South,Electronics,Phone,Online,7,559.78,0.0,3918.46,2333.23,1585.23
+ORD-001677,2025-02-24,South,Electronics,Headphones,Retail,4,125.33,0.0,501.32,287.5,213.82
+ORD-001678,2025-06-03,West,Electronics,Phone,Retail,10,554.88,0.05,5271.36,3763.28,1508.08
+ORD-001679,2025-12-04,East,Electronics,Laptop,Online,9,856.24,0.0,7706.16,4687.6,3018.56
+ORD-001680,2025-07-07,South,Clothing,Jacket,Retail,9,97.94,0.0,881.46,611.03,270.43
+ORD-001681,2025-12-11,West,Clothing,Jacket,Wholesale,8,89.46,0.0,715.68,568.86,146.82
+ORD-001682,2025-01-05,West,Electronics,Phone,Retail,8,549.35,0.05,4175.06,2626.07,1548.99
+ORD-001683,2025-01-13,North,Office Supplies,Binders,Wholesale,6,15.66,0.05,89.26,49.87,39.39
+ORD-001684,2025-10-18,East,Office Supplies,Paper,Retail,10,12.7,0.05,120.65,70.67,49.98
+ORD-001685,2025-05-11,South,Clothing,Shoes,Online,1,67.16,0.05,63.8,36.99,26.81
+ORD-001686,2025-07-09,East,Furniture,Desk,Wholesale,8,244.5,0.0,1956.0,1302.35,653.65
+ORD-001687,2025-06-06,North,Electronics,Phone,Online,2,564.29,0.05,1072.15,789.28,282.87
+ORD-001688,2025-05-29,East,Furniture,Chair,Retail,4,134.55,0.1,484.38,302.31,182.07
+ORD-001689,2025-12-09,North,Clothing,Jacket,Retail,3,87.89,0.0,263.67,154.63,109.04
+ORD-001690,2025-02-04,South,Office Supplies,Pens,Wholesale,7,8.42,0.1,53.05,37.68,15.37
+ORD-001691,2025-10-09,West,Furniture,Desk,Wholesale,8,260.25,0.1,1873.8,1171.68,702.12
+ORD-001692,2025-11-21,South,Electronics,Headphones,Online,1,116.67,0.0,116.67,80.94,35.73
+ORD-001693,2025-08-28,West,Office Supplies,Binders,Retail,7,13.83,0.0,96.81,75.85,20.96
+ORD-001694,2025-05-25,West,Clothing,T-Shirt,Online,3,20.36,0.0,61.08,38.04,23.04
+ORD-001695,2025-02-28,West,Furniture,Shelf,Retail,1,88.98,0.05,84.53,57.32,27.21
+ORD-001696,2025-09-07,North,Office Supplies,Paper,Retail,5,11.98,0.0,59.9,45.03,14.87
+ORD-001697,2025-06-21,West,Furniture,Shelf,Online,6,80.24,0.0,481.44,348.05,133.39
+ORD-001698,2025-02-24,North,Furniture,Desk,Wholesale,3,254.11,0.05,724.21,534.37,189.84
+ORD-001699,2025-05-12,South,Office Supplies,Binders,Retail,4,14.2,0.1,51.12,37.99,13.13
+ORD-001700,2025-12-17,West,Office Supplies,Binders,Retail,10,14.07,0.05,133.66,91.55,42.11
+ORD-001701,2025-04-07,East,Clothing,T-Shirt,Wholesale,4,21.21,0.05,80.6,55.13,25.47
+ORD-001702,2025-03-07,East,Furniture,Shelf,Retail,10,85.67,0.0,856.7,625.15,231.55
+ORD-001703,2025-09-06,South,Furniture,Shelf,Retail,9,81.06,0.0,729.54,528.49,201.05
+ORD-001704,2025-03-14,West,Furniture,Shelf,Online,4,82.87,0.05,314.91,225.95,88.96
+ORD-001705,2025-12-02,East,Electronics,Laptop,Online,6,817.1,0.0,4902.6,3164.79,1737.81
+ORD-001706,2025-11-10,South,Electronics,Laptop,Online,8,809.51,0.0,6476.08,4903.27,1572.81
+ORD-001707,2025-12-25,West,Electronics,Headphones,Online,5,112.87,0.1,507.92,309.35,198.57
+ORD-001708,2025-11-30,North,Furniture,Desk,Online,5,240.82,,1204.1,709.13,494.97
+ORD-001709,2025-03-30,North,Electronics,Phone,Retail,4,499.86,0.05,1899.47,1208.61,690.86
+ORD-001710,2025-03-19,East,Furniture,Desk,Retail,2,253.77,0.05,482.16,295.78,186.38
+ORD-001711,2025-05-06,West,Office Supplies,Pens,Online,1,8.28,0.05,7.87,5.63,2.24
+ORD-001712,2025-06-21,North,Electronics,Headphones,Retail,4,112.92,0.0,451.68,274.51,177.17
+ORD-001713,2025-11-18,North,Office Supplies,Binders,Wholesale,8,15.69,0.0,125.52,89.64,35.88
+ORD-001714,2025-09-25,North,Clothing,Shoes,Online,3,72.42,0.0,217.26,147.37,69.89
+ORD-001715,2025-08-24,West,Office Supplies,Pens,Retail,2,7.37,0.05,14.0,8.23,5.77
+ORD-001716,2025-11-17,North,Electronics,Phone,Online,4,499.11,0.0,1996.44,1227.01,769.43
+ORD-001717,2025-08-24,South,Furniture,Chair,Retail,6,133.17,0.0,799.02,543.68,255.34
+ORD-001718,2025-05-19,West,Office Supplies,Pens,Retail,3,7.43,0.05,21.18,15.53,5.65
+ORD-001719,2025-05-31,North,Furniture,Shelf,Online,3,85.43,0.0,256.29,166.48,89.81
+ORD-001720,2025-07-08,East,Electronics,Laptop,Online,2,759.6,0.0,1519.2,923.99,595.21
+ORD-001721,2025-02-02,South,Furniture,Chair,Wholesale,4,146.78,0.0,587.12,366.23,220.89
+ORD-001722,2025-09-28,West,Office Supplies,Pens,Online,3,7.99,0.0,23.97,13.75,10.22
+ORD-001723,2025-08-27,South,Electronics,Phone,Retail,9,559.7,0.0,5037.3,2802.19,2235.11
+ORD-001724,2025-09-24,South,Office Supplies,Paper,Retail,10,12.48,0.0,124.8,99.0,25.8
+ORD-001725,2025-07-14,North,Electronics,Laptop,Online,4,820.89,0.1,2955.2,1696.59,1258.61
+ORD-001726,2025-10-13,East,Furniture,Chair,Retail,1,149.53,0.1,134.58,78.22,56.36
+ORD-001727,2025-12-13,West,Office Supplies,Binders,Retail,1,16.18,0.05,15.37,11.8,3.57
+ORD-001728,2025-07-28,North,Electronics,Headphones,Online,4,117.3,0.05,445.74,319.09,126.65
+ORD-001729,2025-06-12,South,Office Supplies,Binders,Wholesale,5,14.1,0.05,66.97,44.13,22.84
+ORD-001730,2025-02-08,West,Furniture,Shelf,Retail,6,83.14,0.1,448.96,319.77,129.19
+ORD-001731,2025-10-12,North,Furniture,Chair,Retail,4,133.8,0.0,535.2,419.46,115.74
+ORD-001732,2025-11-26,South,Clothing,Jacket,Online,4,95.47,0.0,381.88,219.52,162.36
+ORD-001733,2025-09-13,East,Furniture,Chair,Online,3,137.28,0.05,391.25,239.03,152.22
+ORD-001734,2025-11-12,South,Electronics,Headphones,Retail,6,119.62,0.1,645.95,494.2,151.75
+ORD-001735,2025-11-11,North,Clothing,Shoes,Retail,7,72.95,0.0,510.65,380.52,130.13
+ORD-001736,2025-10-19,South,Office Supplies,Binders,Online,1,14.46,0.0,14.46,11.55,2.91
+ORD-001737,2025-07-03,North,Office Supplies,Paper,Retail,5,12.07,0.0,60.35,37.93,22.42
+ORD-001738,2025-02-06,East,Electronics,Laptop,Retail,7,798.37,0.0,5588.59,4393.87,1194.72
+ORD-001739,2025-01-02,East,Electronics,Laptop,Online,7,857.39,0.05,5701.64,3625.8,2075.84
+ORD-001740,2025-03-16,East,Office Supplies,Paper,Retail,6,12.27,0.0,73.62,53.65,19.97
+ORD-001741,2025-06-07,North,Electronics,Phone,Retail,6,497.53,0.1,2686.66,2070.57,616.09
+ORD-001742,2025-09-29,West,Electronics,Phone,Retail,7,553.83,0.05,3682.97,2182.88,1500.09
+ORD-001743,2025-06-16,North,Office Supplies,Pens,Retail,4,7.58,0.0,30.32,18.23,12.09
+ORD-001744,2025-01-09,East,Electronics,Laptop,Retail,6,849.45,0.05,4841.87,3366.26,1475.61
+ORD-001745,2025-03-18,South,Electronics,Phone,Wholesale,4,545.82,0.05,2074.12,1578.31,495.81
+ORD-001746,2025-12-24,West,Electronics,Laptop,Wholesale,5,807.07,0.0,4035.35,2299.09,1736.26
+ORD-001747,2025-12-27,North,Furniture,Chair,Online,2,144.35,0.0,288.7,220.2,68.5
+ORD-001748,2025-05-18,North,Office Supplies,Paper,Retail,4,12.68,0.05,48.18,30.63,17.55
+ORD-001749,2025-10-21,South,Clothing,Jacket,Wholesale,2,99.24,0.0,198.48,129.32,69.16
+ORD-001750,2025-09-20,North,Electronics,Laptop,Wholesale,3,825.95,0.0,2477.85,1573.35,904.5
+ORD-001751,2025-12-06,North,Electronics,Laptop,Online,5,849.22,0.0,4246.1,3302.91,943.19
+ORD-001752,2025-11-20,East,Office Supplies,Pens,Online,6,7.89,0.0,47.34,27.58,19.76
+ORD-001753,2025-08-18,West,Furniture,Chair,Online,10,146.47,0.05,1391.46,965.07,426.39
+ORD-001754,2025-05-25,North,Furniture,Chair,Wholesale,1,147.37,0.0,147.37,86.51,60.86
+ORD-001755,2025-08-17,West,Clothing,Shoes,Wholesale,9,65.94,0.05,563.79,440.97,122.82
+ORD-001756,2025-04-27,West,Office Supplies,Paper,Wholesale,4,11.5,0.0,46.0,34.48,11.52
+ORD-001757,2025-05-08,West,Furniture,Desk,Online,8,250.43,0.05,1903.27,1158.05,745.22
+ORD-001758,2025-08-11,East,Clothing,T-Shirt,Wholesale,7,20.82,,145.74,91.01,54.73
+ORD-001759,2025-07-28,East,Electronics,Headphones,Online,10,117.94,0.1,1061.46,685.04,376.42
+ORD-001760,2025-08-01,East,Clothing,Jacket,Online,2,90.33,0.1,162.59,105.9,56.69
+ORD-001761,2025-05-21,East,Furniture,Desk,Online,10,263.97,0.0,2639.7,1991.22,648.48
+ORD-001762,2025-05-30,West,Furniture,Desk,Retail,1,243.43,0.05,231.26,159.83,71.43
+ORD-001763,2025-01-04,North,Clothing,Jacket,Retail,9,91.5,0.0,823.5,541.03,282.47
+ORD-001764,2025-08-08,South,Furniture,Desk,Online,7,266.89,0.05,1774.82,1295.37,479.45
+ORD-001765,2025-07-30,North,Furniture,Chair,Online,5,137.73,0.05,654.22,434.71,219.51
+ORD-001766,2025-12-08,West,Electronics,Headphones,Wholesale,4,118.49,0.0,473.96,275.87,198.09
+ORD-001767,2025-07-04,South,Office Supplies,Binders,Online,1,15.72,0.0,15.72,9.07,6.65
+ORD-001768,2025-06-20,East,Office Supplies,Binders,Retail,9,16.16,0.0,145.44,91.84,53.6
+ORD-001769,2025-01-25,West,Electronics,Phone,Online,8,545.62,0.05,4146.71,2905.67,1241.04
+ORD-001770,2025-03-13,West,Office Supplies,Pens,Online,10,7.46,0.05,70.87,41.37,29.5
+ORD-001771,2025-05-04,North,Office Supplies,Pens,Online,8,7.49,0.0,59.92,41.2,18.72
+ORD-001772,2025-05-18,West,Furniture,Desk,Retail,10,279.49,0.0,2794.9,1725.58,1069.32
+ORD-001773,2025-05-13,West,Electronics,Phone,Retail,9,555.49,0.0,4999.41,3618.84,1380.57
+ORD-001774,2025-05-24,North,Furniture,Desk,Online,5,270.5,0.0,1352.5,753.43,599.07
+ORD-001775,2025-10-08,East,Electronics,Phone,Wholesale,8,555.19,0.0,4441.52,2963.63,1477.89
+ORD-001776,2025-02-17,South,Electronics,Laptop,Online,3,777.97,0.0,2333.91,1314.15,1019.76
+ORD-001777,2025-05-02,East,Furniture,Shelf,Retail,8,84.3,0.1,606.96,383.98,222.98
+ORD-001778,2025-03-01,South,Electronics,Headphones,Online,7,125.72,0.0,880.04,487.45,392.59
+ORD-001779,2025-04-23,North,Electronics,Headphones,Wholesale,5,127.03,,603.39,402.63,200.76
+ORD-001780,2025-09-07,North,Office Supplies,Paper,Online,7,11.5,0.0,80.5,59.71,20.79
+ORD-001781,2025-01-18,North,Furniture,Desk,Retail,3,263.99,0.0,791.97,455.43,336.54
+ORD-001782,2025-05-04,North,Clothing,T-Shirt,Retail,7,20.79,0.05,138.25,101.45,36.8
+ORD-001783,2025-01-09,East,Clothing,T-Shirt,Retail,5,23.61,0.0,118.05,82.17,35.88
+ORD-001784,2025-12-15,South,Office Supplies,Pens,Wholesale,4,7.68,0.0,30.72,20.77,9.95
+ORD-001785,2025-09-23,North,Clothing,Jacket,Online,10,98.44,0.1,885.96,620.06,265.9
+ORD-001786,2025-03-30,East,Clothing,Shoes,Online,1,66.99,0.1,60.29,38.22,22.07
+ORD-001787,2025-03-14,East,Furniture,Chair,Wholesale,8,142.6,0.05,1083.76,788.53,295.23
+ORD-001788,2025-02-06,East,Office Supplies,Binders,Wholesale,3,15.38,0.0,46.14,34.37,11.77
+ORD-001789,2025-06-22,West,Electronics,Phone,Retail,3,525.18,0.0,1575.54,1173.08,402.46
+ORD-001790,2025-10-03,South,Office Supplies,Paper,Retail,2,12.61,0.0,25.22,15.57,9.65
+ORD-001791,2025-08-02,West,Furniture,Shelf,Retail,2,90.24,0.1,162.43,115.89,46.54
+ORD-001792,2025-11-18,North,Electronics,Headphones,Retail,2,126.82,0.05,240.96,141.45,99.51
+ORD-001793,2025-05-06,East,Electronics,Laptop,Wholesale,9,797.8,0.0,7180.2,4838.41,2341.79
+ORD-001794,2025-04-12,West,Clothing,Jacket,Wholesale,10,98.71,0.1,888.39,489.2,399.19
+ORD-001795,2025-06-24,West,Furniture,Desk,Online,6,262.47,0.0,1574.82,942.37,632.45
+ORD-001796,2025-03-15,East,Electronics,Headphones,Retail,1,121.78,0.0,121.78,86.21,35.57
+ORD-001797,2025-12-23,East,Electronics,Phone,Retail,9,538.05,0.0,4842.45,3721.86,1120.59
+ORD-001798,2025-03-09,South,Furniture,Chair,Online,7,142.25,0.0,995.75,559.87,435.88
+ORD-001799,2025-06-24,East,Clothing,T-Shirt,Wholesale,6,20.72,0.1,111.89,77.16,34.73
+ORD-001800,2025-07-10,East,Office Supplies,Paper,Retail,10,11.82,0.1,106.38,75.44,30.94
+ORD-001801,2025-01-21,West,Furniture,Desk,Online,5,246.59,0.0,1232.95,965.52,267.43
+ORD-001802,2025-06-20,South,Electronics,Headphones,Retail,4,115.78,0.0,463.12,330.57,132.55
+ORD-001803,2025-06-15,North,Electronics,Phone,Online,8,507.84,0.0,4062.72,2339.14,1723.58
+ORD-001804,2025-04-05,East,Furniture,Desk,Online,6,248.04,0.0,1488.24,873.13,615.11
+ORD-001805,2025-02-16,North,Office Supplies,Binders,Retail,8,15.68,0.0,125.44,88.93,36.51
+ORD-001806,2025-01-17,North,Office Supplies,Paper,Retail,7,12.1,0.0,84.7,51.15,33.55
+ORD-001807,2025-01-04,South,Furniture,Shelf,Retail,9,78.52,0.0,706.68,552.68,154.0
+ORD-001808,2025-06-25,East,Office Supplies,Binders,Online,4,15.69,0.0,62.76,48.96,13.8
+ORD-001809,2025-02-02,North,Furniture,Shelf,Retail,1,90.57,0.0,90.57,71.29,19.28
+ORD-001810,2025-12-17,North,Office Supplies,Pens,Online,5,8.49,0.1,38.21,23.81,14.4
+ORD-001811,2025-03-31,North,Furniture,Desk,Wholesale,7,273.44,0.0,1914.08,1395.82,518.26
+ORD-001812,2025-08-27,West,Office Supplies,Binders,Online,9,16.18,0.0,145.62,104.23,41.39
+ORD-001813,2025-09-03,East,Furniture,Chair,Wholesale,3,141.94,0.0,425.82,237.99,187.83
+ORD-001814,2025-06-30,North,Clothing,Shoes,Online,8,75.18,0.05,571.37,352.19,219.18
+ORD-001815,2025-11-19,North,Furniture,Desk,Online,9,278.67,0.0,2508.03,1509.06,998.97
+ORD-001816,2025-02-10,East,Electronics,Phone,Retail,9,523.86,0.0,4714.74,3030.17,1684.57
+ORD-001817,2025-03-27,South,Electronics,Phone,Retail,9,571.4,0.05,4885.47,3851.04,1034.43
+ORD-001818,2025-04-03,East,Furniture,Desk,Wholesale,10,272.17,0.05,2585.62,1968.69,616.93
+ORD-001819,2025-02-19,South,Office Supplies,Binders,Retail,7,15.66,0.0,109.62,68.33,41.29
+ORD-001820,2025-04-18,West,Office Supplies,Paper,Online,4,12.76,0.0,51.04,34.84,16.2
+ORD-001821,2025-04-25,South,Office Supplies,Binders,Online,5,14.72,0.1,66.24,39.62,26.62
+ORD-001822,2025-10-07,East,Electronics,Headphones,Retail,8,118.08,0.0,944.64,585.07,359.57
+ORD-001823,2025-04-21,North,Office Supplies,Pens,Online,3,8.18,0.0,24.54,13.9,10.64
+ORD-001824,2025-11-16,West,Office Supplies,Paper,Wholesale,7,12.46,0.0,87.22,61.98,25.24
+ORD-001825,2025-10-10,West,Furniture,Chair,Retail,6,148.51,0.0,891.06,636.42,254.64
+ORD-001826,2025-11-26,East,Furniture,Chair,Retail,7,148.42,0.05,986.99,749.74,237.25
+ORD-001827,2025-02-08,South,Electronics,Phone,Wholesale,5,559.12,0.05,2655.82,2039.37,616.45
+ORD-001828,2025-12-26,North,Furniture,Desk,Online,8,279.01,0.0,2232.08,1316.96,915.12
+ORD-001829,2025-08-13,West,Office Supplies,Pens,Online,1,7.59,0.05,7.21,5.3,1.91
+ORD-001830,2025-12-25,East,Clothing,Jacket,Wholesale,8,101.85,0.0,814.8,475.58,339.22
+ORD-001831,2025-05-10,North,Office Supplies,Pens,Online,9,7.44,0.05,63.61,40.93,22.68
+ORD-001832,2025-12-14,South,Electronics,Phone,Retail,9,544.81,0.0,4903.29,3328.77,1574.52
+ORD-001833,2025-08-03,South,Office Supplies,Pens,Wholesale,10,7.48,0.0,74.8,42.07,32.73
+ORD-001834,2025-01-27,West,Office Supplies,Binders,Online,4,15.16,0.05,57.61,33.94,23.67
+ORD-001835,2025-05-30,East,Furniture,Shelf,Wholesale,1,83.51,0.0,83.51,51.59,31.92
+ORD-001836,2025-02-20,East,Clothing,T-Shirt,Online,7,20.53,0.0,143.71,83.62,60.09
+ORD-001837,2025-12-10,East,Electronics,Headphones,Retail,1,122.84,0.0,122.84,96.25,26.59
+ORD-001838,2025-04-22,North,Electronics,Headphones,Online,3,124.44,0.05,354.65,220.62,134.03
+ORD-001839,2025-03-23,South,Electronics,Laptop,Retail,8,777.25,0.0,6218.0,4198.97,2019.03
+ORD-001840,2025-07-21,North,Electronics,Laptop,Online,6,845.51,0.05,4819.41,3851.35,968.06
+ORD-001841,2025-06-05,West,Clothing,Shoes,Online,7,66.41,0.05,441.63,305.46,136.17
+ORD-001842,2025-02-05,South,Furniture,Chair,Online,8,131.88,0.05,1002.29,654.37,347.92
+ORD-001843,2025-10-26,South,Electronics,Headphones,Online,2,113.23,0.0,226.46,177.19,49.27
+ORD-001844,2025-11-05,North,Furniture,Desk,Retail,8,264.12,0.05,2007.31,1215.68,791.63
+ORD-001845,2025-09-29,North,Furniture,Desk,Online,6,271.6,0.0,1629.6,969.41,660.19
+ORD-001846,2025-08-14,East,Furniture,Shelf,Online,5,86.32,0.1,388.44,265.63,122.81
+ORD-001847,2025-05-27,North,Electronics,Headphones,Online,5,125.94,0.05,598.22,392.93,205.29
+ORD-001848,2025-07-17,North,Office Supplies,Paper,Online,6,12.18,0.0,73.08,54.75,18.33
+ORD-001849,2025-07-10,East,Electronics,Laptop,Online,6,859.01,0.05,4896.36,2744.42,2151.94
+ORD-001850,2025-03-02,South,Office Supplies,Pens,Online,4,8.61,0.0,34.44,24.26,10.18
+ORD-001851,2025-01-30,South,Electronics,Phone,Retail,3,530.58,0.0,1591.74,1158.26,433.48
+ORD-001852,2025-04-03,South,Office Supplies,Paper,Retail,2,11.33,0.0,22.66,17.97,4.69
+ORD-001853,2025-06-15,West,Office Supplies,Pens,Retail,4,7.53,0.05,28.61,16.78,11.83
+ORD-001854,2025-02-28,South,Electronics,Headphones,Online,3,121.87,0.05,347.33,212.41,134.92
+ORD-001855,2025-02-08,East,Electronics,Headphones,Wholesale,6,120.9,0.1,652.86,511.26,141.6
+ORD-001856,2025-11-07,West,Clothing,T-Shirt,Retail,10,20.89,0.0,208.9,147.83,61.07
+ORD-001857,2025-05-17,East,Furniture,Chair,Retail,2,148.56,0.05,282.26,157.93,124.33
+ORD-001858,2025-08-02,South,Office Supplies,Binders,Online,4,16.1,0.05,61.18,34.83,26.35
+ORD-001859,2025-07-11,East,Electronics,Laptop,Online,1,787.62,0.05,748.24,558.46,189.78
+ORD-001860,2025-09-26,South,Electronics,Laptop,Retail,10,781.54,0.0,7815.4,5407.23,2408.17
+ORD-001861,2025-09-28,South,Furniture,Desk,Online,8,248.1,0.0,1984.8,1372.2,612.6
+ORD-001862,2025-04-19,East,Clothing,T-Shirt,Retail,3,21.6,0.05,61.56,47.4,14.16
+ORD-001863,2025-11-06,South,Electronics,Phone,Online,5,570.52,0.0,2852.6,1740.87,1111.73
+ORD-001864,2025-05-16,North,Office Supplies,Paper,Online,8,12.18,0.0,97.44,57.5,39.94
+ORD-001865,2025-11-01,South,Office Supplies,Binders,Online,10,13.96,0.0,139.6,98.2,41.4
+ORD-001866,2025-05-28,North,Electronics,Laptop,Online,6,816.45,,4898.7,3774.97,1123.73
+ORD-001867,2025-02-10,South,Electronics,Phone,Online,3,504.6,0.0,1513.8,932.97,580.83
+ORD-001868,2025-10-05,East,Electronics,Laptop,Online,7,807.7,0.0,5653.9,4072.64,1581.26
+ORD-001869,2025-01-12,West,Furniture,Desk,Retail,7,255.99,0.05,1702.33,1001.13,701.2
+ORD-001870,2025-10-09,North,Office Supplies,Paper,Online,7,12.28,0.1,77.36,45.87,31.49
+ORD-001871,2025-01-16,East,Furniture,Desk,Retail,1,262.06,0.0,262.06,203.2,58.86
+ORD-001872,2025-03-17,South,Electronics,Phone,Wholesale,8,572.38,0.0,4579.04,2653.51,1925.53
+ORD-001873,2025-08-09,North,Office Supplies,Paper,Wholesale,1,11.07,0.05,10.52,5.85,4.67
+ORD-001874,2025-12-10,North,Office Supplies,Paper,Retail,10,12.53,0.0,125.3,93.19,32.11
+ORD-001875,2025-05-30,North,Furniture,Chair,Online,9,129.31,0.1,1047.41,671.0,376.41
+ORD-001876,2025-02-14,North,Office Supplies,Pens,Retail,6,7.75,0.0,46.5,30.19,16.31
+ORD-001877,2025-03-27,North,Electronics,Phone,Wholesale,7,572.8,,4009.6,3007.06,1002.54
+ORD-001878,2025-11-24,South,Office Supplies,Pens,Retail,1,8.24,0.0,8.24,4.9,3.34
+ORD-001879,2025-09-23,East,Furniture,Shelf,Online,9,80.54,0.0,724.86,516.52,208.34
+ORD-001880,2025-02-06,North,Furniture,Shelf,Retail,3,84.87,0.05,241.88,151.99,89.89
+ORD-001881,2025-05-21,North,Electronics,Laptop,Online,3,849.11,0.0,2547.33,1467.43,1079.9
+ORD-001882,2025-04-07,North,Office Supplies,Binders,Retail,8,16.05,0.1,115.56,83.42,32.14
+ORD-001883,2025-03-06,East,Office Supplies,Pens,Online,10,8.17,,77.61,48.87,28.74
+ORD-001884,2025-11-05,South,Furniture,Chair,Online,5,129.35,0.1,582.08,446.25,135.83
+ORD-001885,2025-08-14,East,Clothing,T-Shirt,Retail,6,22.0,0.1,118.8,92.64,26.16
+ORD-001886,2025-03-07,North,Clothing,Jacket,Retail,6,89.73,,538.38,410.39,127.99
+ORD-001887,2025-08-26,North,Electronics,Phone,Retail,3,500.93,0.0,1502.79,947.64,555.15
+ORD-001888,2025-05-31,West,Office Supplies,Binders,Wholesale,6,15.24,0.05,86.87,52.92,33.95
+ORD-001889,2025-01-23,North,Furniture,Shelf,Wholesale,10,88.77,0.0,887.7,686.37,201.33
+ORD-001890,2025-06-14,North,Clothing,Jacket,Retail,4,87.95,0.0,351.8,233.33,118.47
+ORD-001892,2025-03-31,West,Electronics,Laptop,Online,8,847.08,,6776.64,5128.5,1648.14
+ORD-001893,2025-11-17,East,Furniture,Desk,Online,9,270.48,0.1,2190.89,1357.08,833.81
+ORD-001894,2025-09-17,East,Electronics,Laptop,Wholesale,8,786.51,0.0,6292.08,3647.99,2644.09
+ORD-001895,2025-02-18,West,Office Supplies,Pens,Online,10,7.86,0.05,74.67,52.73,21.94
+ORD-001896,2025-11-07,North,Furniture,Shelf,Wholesale,8,79.83,0.1,574.78,400.94,173.84
+ORD-001897,2025-07-29,West,Electronics,Phone,Online,10,517.44,0.0,5174.4,3195.45,1978.95
+ORD-001898,2025-11-16,North,Furniture,Chair,Online,8,135.58,0.05,1030.41,717.35,313.06
+ORD-001899,2025-09-30,East,Clothing,T-Shirt,Online,9,21.36,0.0,192.24,143.72,48.52
+ORD-001900,2025-05-04,South,Office Supplies,Pens,Retail,9,7.58,0.0,68.22,43.49,24.73
+ORD-001901,2025-07-15,South,Furniture,Shelf,Wholesale,10,80.77,0.0,807.7,493.17,314.53
+ORD-001902,2025-07-13,West,Electronics,Phone,Online,6,574.69,0.0,3448.14,2521.45,926.69
+ORD-001903,2025-09-20,North,Electronics,Laptop,Online,8,857.25,0.0,6858.0,5119.28,1738.72
+ORD-001904,2025-04-01,West,Clothing,Shoes,Online,10,68.26,0.0,682.6,538.28,144.32
+ORD-001905,2025-05-02,South,Office Supplies,Pens,Online,4,8.57,0.0,34.28,20.12,14.16
+ORD-001906,2025-03-31,East,Office Supplies,Pens,Retail,2,7.67,0.0,15.34,11.85,3.49
+ORD-001907,2025-04-19,West,Clothing,T-Shirt,Retail,9,21.67,0.05,185.28,137.34,47.94
+ORD-001908,2025-02-28,North,Electronics,Laptop,Online,7,861.13,0.0,6027.91,4373.1,1654.81
+ORD-001909,2025-01-14,West,Office Supplies,Pens,Online,5,7.93,0.05,37.67,23.67,14.0
+ORD-001910,2025-12-10,East,Electronics,Phone,Retail,8,517.07,0.1,3722.9,2068.25,1654.65
+ORD-001911,2025-01-28,East,Electronics,Laptop,Online,1,802.75,0.05,762.61,516.2,246.41
+ORD-001912,2025-11-21,North,Furniture,Chair,Online,5,140.02,0.0,700.1,435.07,265.03
+ORD-001913,2025-01-02,East,Furniture,Shelf,Retail,3,86.64,0.05,246.92,153.7,93.22
+ORD-001914,2025-10-11,East,Clothing,Shoes,Online,3,68.94,0.05,196.48,153.61,42.87
+ORD-001915,2025-04-30,South,Furniture,Desk,Online,10,257.14,0.1,2314.26,1361.35,952.91
+ORD-001916,2025-07-08,North,Office Supplies,Paper,Online,6,11.55,0.1,62.37,48.87,13.5
+ORD-001917,2025-04-14,North,Office Supplies,Pens,Retail,2,8.05,0.0,16.1,10.88,5.22
+ORD-001918,2025-06-29,West,Office Supplies,Binders,Online,4,14.33,0.05,54.45,41.36,13.09
+ORD-001919,2025-06-14,North,Clothing,Jacket,Wholesale,3,100.59,0.05,286.68,178.0,108.68
+ORD-001920,2025-07-13,East,Furniture,Desk,Retail,10,270.29,0.0,2702.9,1914.95,787.95
+ORD-001921,2025-05-24,West,Furniture,Shelf,Retail,3,83.78,0.0,251.34,173.21,78.13
+ORD-001922,2025-07-15,North,Electronics,Laptop,Retail,4,852.44,0.05,3239.27,2530.0,709.27
+ORD-001923,2025-10-29,North,Electronics,Laptop,Online,4,755.32,0.05,2870.22,1707.28,1162.94
+ORD-001924,2025-06-08,East,Clothing,Jacket,Online,2,92.64,0.0,185.28,111.38,73.9
+ORD-001925,2025-05-12,North,Furniture,Shelf,Online,8,84.19,0.0,673.52,530.22,143.3
+ORD-001926,2025-02-18,East,Furniture,Chair,Retail,6,139.32,0.0,835.92,480.23,355.69
+ORD-001927,2025-05-12,East,Electronics,Laptop,Retail,5,852.63,0.0,4263.15,3021.17,1241.98
+ORD-001928,2025-02-15,East,Furniture,Desk,Wholesale,4,279.25,0.1,1005.3,568.14,437.16
+ORD-001929,2025-03-08,South,Office Supplies,Binders,Retail,7,14.71,0.1,92.67,52.75,39.92
+ORD-001930,2025-12-14,East,Electronics,Headphones,Online,1,117.13,0.0,117.13,81.91,35.22
+ORD-001931,2025-02-02,East,Office Supplies,Paper,Online,10,12.21,0.0,122.1,83.99,38.11
+ORD-001932,2025-06-25,North,Office Supplies,Paper,Online,6,11.58,0.05,66.01,45.76,20.25
+ORD-001933,2025-11-01,East,Office Supplies,Paper,Wholesale,3,11.31,0.05,32.23,21.54,10.69
+ORD-001934,2025-12-14,West,Electronics,Headphones,Online,6,128.86,0.0,773.16,568.73,204.43
+ORD-001935,2025-02-23,East,Office Supplies,Paper,Wholesale,9,12.59,0.0,113.31,90.43,22.88
+ORD-001936,2025-03-01,South,Electronics,Laptop,Online,2,880.16,0.0,1760.32,1089.54,670.78
+ORD-001937,2025-05-16,South,Furniture,Chair,Retail,6,133.68,0.05,761.98,480.7,281.28
+ORD-001938,2025-07-22,North,Office Supplies,Pens,Online,6,7.38,0.05,42.07,26.54,15.53
+ORD-001939,2025-12-17,North,Office Supplies,Pens,Retail,9,7.92,0.0,71.28,52.81,18.47
+ORD-001941,2025-03-02,West,Clothing,Jacket,Retail,8,89.5,0.05,680.2,489.19,191.01
+ORD-001942,2025-04-03,North,Electronics,Phone,Wholesale,8,506.92,0.1,3649.82,2414.25,1235.57
+ORD-001943,2025-11-16,West,Office Supplies,Pens,Retail,9,7.45,0.0,67.05,47.07,19.98
+ORD-001944,2025-01-11,North,Clothing,Jacket,Online,4,99.03,0.0,396.12,299.96,96.16
+ORD-001945,2025-05-19,South,Office Supplies,Binders,Retail,8,15.69,0.1,112.97,76.65,36.32
+ORD-001946,2025-02-13,South,Office Supplies,Pens,Online,3,8.25,0.1,22.28,14.9,7.38
+ORD-001947,2025-02-27,South,Office Supplies,Pens,Online,9,7.43,0.1,60.18,37.12,23.06
+ORD-001948,2025-12-01,West,Office Supplies,Binders,Retail,10,15.54,0.05,147.63,100.24,47.39
+ORD-001949,2025-01-01,West,Office Supplies,Paper,Wholesale,3,11.9,0.0,35.7,21.98,13.72
+ORD-001950,2025-04-28,West,Office Supplies,Binders,Online,6,14.18,,85.08,64.74,20.34
+ORD-001951,2025-12-01,North,Electronics,Headphones,Retail,9,116.07,0.0,1044.63,676.1,368.53
+ORD-001952,2025-08-10,East,Office Supplies,Paper,Retail,1,12.0,0.1,10.8,6.29,4.51
+ORD-001953,2025-01-27,North,Electronics,Headphones,Retail,8,116.73,0.0,933.84,569.63,364.21
+ORD-001954,2025-06-19,West,Clothing,T-Shirt,Online,9,23.65,0.05,202.21,138.24,63.97
+ORD-001955,2025-12-21,South,Electronics,Phone,Retail,9,537.82,0.1,4356.34,3393.9,962.44
+ORD-001956,2025-05-27,South,Electronics,Phone,Online,2,528.95,0.1,952.11,595.2,356.91
+ORD-001957,2025-07-12,North,Clothing,T-Shirt,Online,8,22.61,0.1,162.79,100.29,62.5
+ORD-001958,2025-07-14,North,Electronics,Laptop,Online,8,839.75,0.0,6718.0,4377.72,2340.28
+ORD-001959,2025-08-30,North,Furniture,Desk,Wholesale,1,239.3,0.0,239.3,189.51,49.79
+ORD-001960,2025-03-10,West,Office Supplies,Pens,Online,8,8.15,0.1,58.68,44.67,14.01
+ORD-001961,2025-11-03,West,Electronics,Headphones,Online,7,115.08,0.0,805.56,473.2,332.36
+ORD-001962,2025-12-27,West,Electronics,Phone,Online,10,529.22,0.0,5292.2,3722.74,1569.46
+ORD-001963,2025-02-22,North,Furniture,Desk,Online,1,268.58,0.1,241.72,180.8,60.92
+ORD-001964,2025-10-26,East,Electronics,Phone,Wholesale,10,544.96,0.05,5177.12,3841.44,1335.68
+ORD-001965,2025-10-26,North,Electronics,Laptop,Retail,6,802.77,0.0,4816.62,3237.79,1578.83
+ORD-001966,2025-09-28,East,Electronics,Headphones,Retail,3,113.61,0.0,340.83,249.81,91.02
+ORD-001967,2025-05-16,South,Furniture,Chair,Retail,4,140.12,0.0,560.48,390.04,170.44
+ORD-001968,2025-06-21,South,Furniture,Chair,Online,8,135.95,0.1,978.84,587.66,391.18
+ORD-001969,2025-11-03,East,Electronics,Phone,Retail,10,575.68,0.05,5468.96,3084.57,2384.39
+ORD-001970,2025-02-25,North,Office Supplies,Binders,Wholesale,4,15.08,0.0,60.32,38.75,21.57
+ORD-001971,2025-10-30,South,Office Supplies,Binders,Retail,10,15.88,0.0,158.8,89.8,69.0
+ORD-001972,2025-12-03,East,Electronics,Phone,Retail,7,530.51,0.1,3342.21,2168.27,1173.94
+ORD-001973,2025-09-06,North,Furniture,Chair,Online,2,147.33,0.1,265.19,200.81,64.38
+ORD-001974,2025-05-05,West,Clothing,Jacket,Wholesale,6,88.26,0.0,529.56,403.03,126.53
+ORD-001975,2025-07-24,South,Office Supplies,Pens,Online,9,7.74,0.05,66.18,36.96,29.22
+ORD-001976,2025-01-19,West,Furniture,Chair,Retail,1,130.55,0.0,130.55,74.07,56.48
+ORD-001977,2025-12-07,East,Furniture,Chair,Online,1,129.51,0.0,129.51,92.92,36.59
+ORD-001978,2025-05-05,East,Electronics,Headphones,Retail,1,128.04,0.0,128.04,86.43,41.61
+ORD-001979,2025-01-21,East,Office Supplies,Binders,Wholesale,6,15.52,0.0,93.12,54.69,38.43
+ORD-001980,2025-10-17,West,Clothing,Shoes,Retail,1,71.4,0.0,71.4,53.65,17.75
+ORD-001981,2025-08-29,East,Clothing,Shoes,Online,10,70.36,0.0,703.6,425.06,278.54
+ORD-001982,2025-08-16,North,Electronics,Laptop,Retail,2,829.13,0.0,1658.26,944.44,713.82
+ORD-001983,2025-01-20,North,Furniture,Chair,Wholesale,1,143.11,0.0,143.11,105.53,37.58
+ORD-001984,2025-10-02,East,Electronics,Headphones,Retail,3,126.27,0.0,378.81,265.94,112.87
+ORD-001985,2025-08-21,North,Furniture,Shelf,Wholesale,8,86.32,0.05,656.03,425.51,230.52
+ORD-001986,2025-10-17,North,Furniture,Shelf,Wholesale,10,88.38,0.0,883.8,639.15,244.65
+ORD-001987,2025-10-29,North,Office Supplies,Pens,Wholesale,3,7.72,0.0,23.16,18.01,5.15
+ORD-001988,2025-03-19,East,Electronics,Headphones,Online,6,129.15,0.1,697.41,389.54,307.87
+ORD-001989,2025-03-18,North,Clothing,T-Shirt,Retail,8,20.35,0.0,162.8,115.09,47.71
+ORD-001990,2025-12-04,East,Electronics,Phone,Wholesale,8,530.2,0.1,3817.44,2307.8,1509.64
+ORD-001991,2025-07-13,West,Electronics,Laptop,Wholesale,2,870.12,0.05,1653.23,1105.24,547.99
+ORD-001992,2025-06-09,West,Clothing,Shoes,Online,9,66.42,0.05,567.89,372.53,195.36
+ORD-001993,2025-04-15,South,Office Supplies,Binders,Online,9,14.14,0.0,127.26,82.4,44.86
+ORD-001994,2025-08-22,East,Furniture,Chair,Online,8,136.99,0.0,1095.92,654.91,441.01
+ORD-001995,2025-10-03,East,Office Supplies,Binders,Retail,6,14.83,0.05,84.53,63.45,21.08
+ORD-001996,2025-01-01,South,Electronics,Headphones,Wholesale,4,128.32,0.05,487.62,314.46,173.16
+ORD-001997,2025-07-21,East,Electronics,Laptop,Retail,9,864.1,0.0,7776.9,6002.2,1774.7
+ORD-001998,2025-12-29,North,Furniture,Shelf,Online,9,84.51,0.05,722.56,461.48,261.08
+ORD-001999,2025-04-13,West,Furniture,Chair,Online,6,150.59,0.0,903.54,686.63,216.91
+ORD-002000,2025-04-13,North,Office Supplies,Binders,Wholesale,8,15.34,0.1,110.45,75.78,34.67
+ORD-001515,2025-04-01,North,Electronics,Headphones,Retail,3,117.97,0.1,318.52,215.74,102.78
+ORD-001572,2025-05-12,East,Clothing,T-Shirt,Online,6,23.56,0.0,141.36,110.04,31.32
+ORD-001599,2025-11-05,West,Furniture,Chair,Retail,10,138.36,0.0,1383.6,985.22,398.38
+ORD-000879,2025-07-20,East,Electronics,Headphones,Retail,3,129.03,0.0,387.09,217.6,169.49
+ORD-000670,2025-02-18,West,Office Supplies,Pens,Retail,8,8.01,0.1,57.67,41.37,16.3
+ORD-001773,2025-05-13,West,Electronics,Phone,Retail,9,555.49,0.0,4999.41,3618.84,1380.57
+ORD-001833,2025-08-03,South,Office Supplies,Pens,Wholesale,10,7.48,0.0,74.8,42.07,32.73
+ORD-001062,2025-09-08,North,Office Supplies,Pens,Online,3,7.66,0.0,22.98,16.88,6.1
+ORD-000397,2025-01-17,East,Electronics,Headphones,Online,10,117.89,0.0,1178.9,895.52,283.38
+ORD-001661,2025-08-15,West,Office Supplies,Pens,Retail,8,7.71,0.0,61.68,48.62,13.06
+ORD-001615,2025-01-22,North,Furniture,Shelf,Wholesale,1,79.76,0.0,79.76,47.03,32.73
+ORD-000576,2025-05-17,North,Furniture,Chair,Wholesale,10,150.78,0.0,1507.8,854.93,652.87
+ORD-001607,2025-02-23,East,Clothing,T-Shirt,Online,9,21.02,0.0,189.18,133.89,55.29
+ORD-000967,2025-08-08,East,Furniture,Shelf,Online,8,85.14,0.0,681.12,497.32,183.8
+ORD-000961,2025-02-26,East,Furniture,Shelf,Wholesale,7,80.13,0.0,560.91,377.07,183.84
+ORD-001952,2025-08-10,East,Office Supplies,Paper,Retail,1,12.0,0.1,10.8,6.29,4.51
+ORD-000615,2025-09-08,West,Office Supplies,Pens,Wholesale,5,7.88,0.0,39.4,30.12,9.28
+ORD-001405,2025-03-06,West,Furniture,Shelf,Wholesale,5,90.88,0.0,454.4,356.13,98.27
+ORD-000761,2025-03-06,South,Clothing,Jacket,Retail,6,92.74,0.1,500.8,329.2,171.6
+ORD-001287,2025-11-28,West,Clothing,Jacket,Retail,8,93.5,0.1,673.2,462.4,210.8
+ORD-001785,2025-09-23,North,Clothing,Jacket,Online,10,98.44,0.1,885.96,620.06,265.9
+ORD-001782,2025-05-04,North,Clothing,T-Shirt,Retail,7,20.79,0.05,138.25,101.45,36.8
+ORD-001521,2025-11-12,North,Electronics,Headphones,Online,10,122.26,0.1,1100.34,715.44,384.9
+ORD-000002,2025-10-10,South,Office Supplies,Paper,Retail,5,12.77,0.0,63.85,35.77,28.08
+ORD-001197,2025-09-18,North,Electronics,Laptop,Online,5,836.37,0.0,4181.85,2452.79,1729.06
+ORD-000206,2025-04-08,North,Furniture,Desk,Online,9,255.94,0.05,2188.29,1292.48,895.81
+ORD-002000,2025-04-13,North,Office Supplies,Binders,Wholesale,8,15.34,0.1,110.45,75.78,34.67
+ORD-001580,2025-08-08,West,Electronics,Phone,Online,9,510.35,0.0,4593.15,3064.7,1528.45
+ORD-000828,2025-11-24,South,Furniture,Desk,Retail,10,245.3,0.0,2453.0,1460.58,992.42
+ORD-001108,2025-11-28,West,Office Supplies,Paper,Online,1,12.65,0.1,11.38,6.55,4.83
+ORD-000284,2025-06-29,East,Electronics,Phone,Online,2,508.27,0.0,1016.54,578.69,437.85
+ORD-000691,2025-12-30,West,Electronics,Phone,Online,9,499.54,0.0,4495.86,2700.56,1795.3
+ORD-000416,2025-09-05,West,Electronics,Headphones,Online,3,126.44,0.0,379.32,279.7,99.62
+ORD-001762,2025-05-30,West,Furniture,Desk,Retail,1,243.43,0.05,231.26,159.83,71.43
+ORD-000396,2025-11-16,North,Clothing,Shoes,Wholesale,2,74.46,0.05,141.47,101.85,39.62
+ORD-001326,2025-03-10,West,Office Supplies,Pens,Retail,2,7.63,0.0,15.26,9.08,6.18
+ORD-000058,2025-02-26,North,Electronics,Phone,Retail,10,508.93,0.1,4580.37,2812.68,1767.69
+ORD-001359,2025-02-07,West,Furniture,Chair,Online,2,148.86,0.05,282.83,220.72,62.11
+ORD-000570,2025-07-28,South,Furniture,Desk,Wholesale,9,279.83,0.05,2392.55,1670.69,721.86
